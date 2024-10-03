@@ -1,0 +1,4395 @@
+name,gene.x,gene.y,complexSize
+18S U11/U12 snRNP,PDCD7,PRPF8,24
+18S U11/U12 snRNP,PDCD7,RNPC3,24
+18S U11/U12 snRNP,PRPF8,RNPC3,24
+20S proteasome,PSMA2,PSMB5,14
+26S proteasome,PSMA2,PSMB5,22
+"28S ribosomal subunit, mitochondrial",MRPS18A,MRPS2,30
+"28S ribosomal subunit, mitochondrial",MRPS18A,MRPS23,30
+"28S ribosomal subunit, mitochondrial",MRPS18A,MRPS28,30
+"28S ribosomal subunit, mitochondrial",MRPS18A,MRPS5,30
+"28S ribosomal subunit, mitochondrial",MRPS18A,MRPS9,30
+"28S ribosomal subunit, mitochondrial",MRPS2,MRPS23,30
+"28S ribosomal subunit, mitochondrial",MRPS2,MRPS28,30
+"28S ribosomal subunit, mitochondrial",MRPS2,MRPS5,30
+"28S ribosomal subunit, mitochondrial",MRPS2,MRPS9,30
+"28S ribosomal subunit, mitochondrial",MRPS23,MRPS28,30
+"28S ribosomal subunit, mitochondrial",MRPS23,MRPS5,30
+"28S ribosomal subunit, mitochondrial",MRPS23,MRPS9,30
+"28S ribosomal subunit, mitochondrial",MRPS28,MRPS5,30
+"28S ribosomal subunit, mitochondrial",MRPS28,MRPS9,30
+"28S ribosomal subunit, mitochondrial",MRPS5,MRPS9,30
+"39S ribosomal subunit, mitochondrial",LACTB,MRPL17,48
+"39S ribosomal subunit, mitochondrial",LACTB,MRPL3,48
+"39S ribosomal subunit, mitochondrial",LACTB,MRPL38,48
+"39S ribosomal subunit, mitochondrial",LACTB,MRPL4,48
+"39S ribosomal subunit, mitochondrial",LACTB,MRPL40,48
+"39S ribosomal subunit, mitochondrial",LACTB,MRPL45,48
+"39S ribosomal subunit, mitochondrial",LACTB,MRPL46,48
+"39S ribosomal subunit, mitochondrial",LACTB,MRPL49,48
+"39S ribosomal subunit, mitochondrial",LACTB,MRPL50,48
+"39S ribosomal subunit, mitochondrial",LACTB,MRPL55,48
+"39S ribosomal subunit, mitochondrial",MRPL17,MRPL3,48
+"39S ribosomal subunit, mitochondrial",MRPL17,MRPL38,48
+"39S ribosomal subunit, mitochondrial",MRPL17,MRPL4,48
+"39S ribosomal subunit, mitochondrial",MRPL17,MRPL40,48
+"39S ribosomal subunit, mitochondrial",MRPL17,MRPL45,48
+"39S ribosomal subunit, mitochondrial",MRPL17,MRPL46,48
+"39S ribosomal subunit, mitochondrial",MRPL17,MRPL49,48
+"39S ribosomal subunit, mitochondrial",MRPL17,MRPL50,48
+"39S ribosomal subunit, mitochondrial",MRPL17,MRPL55,48
+"39S ribosomal subunit, mitochondrial",MRPL3,MRPL38,48
+"39S ribosomal subunit, mitochondrial",MRPL3,MRPL4,48
+"39S ribosomal subunit, mitochondrial",MRPL3,MRPL40,48
+"39S ribosomal subunit, mitochondrial",MRPL3,MRPL45,48
+"39S ribosomal subunit, mitochondrial",MRPL3,MRPL46,48
+"39S ribosomal subunit, mitochondrial",MRPL3,MRPL49,48
+"39S ribosomal subunit, mitochondrial",MRPL3,MRPL50,48
+"39S ribosomal subunit, mitochondrial",MRPL3,MRPL55,48
+"39S ribosomal subunit, mitochondrial",MRPL38,MRPL4,48
+"39S ribosomal subunit, mitochondrial",MRPL38,MRPL40,48
+"39S ribosomal subunit, mitochondrial",MRPL38,MRPL45,48
+"39S ribosomal subunit, mitochondrial",MRPL38,MRPL46,48
+"39S ribosomal subunit, mitochondrial",MRPL38,MRPL49,48
+"39S ribosomal subunit, mitochondrial",MRPL38,MRPL50,48
+"39S ribosomal subunit, mitochondrial",MRPL38,MRPL55,48
+"39S ribosomal subunit, mitochondrial",MRPL4,MRPL40,48
+"39S ribosomal subunit, mitochondrial",MRPL4,MRPL45,48
+"39S ribosomal subunit, mitochondrial",MRPL4,MRPL46,48
+"39S ribosomal subunit, mitochondrial",MRPL4,MRPL49,48
+"39S ribosomal subunit, mitochondrial",MRPL4,MRPL50,48
+"39S ribosomal subunit, mitochondrial",MRPL4,MRPL55,48
+"39S ribosomal subunit, mitochondrial",MRPL40,MRPL45,48
+"39S ribosomal subunit, mitochondrial",MRPL40,MRPL46,48
+"39S ribosomal subunit, mitochondrial",MRPL40,MRPL49,48
+"39S ribosomal subunit, mitochondrial",MRPL40,MRPL50,48
+"39S ribosomal subunit, mitochondrial",MRPL40,MRPL55,48
+"39S ribosomal subunit, mitochondrial",MRPL45,MRPL46,48
+"39S ribosomal subunit, mitochondrial",MRPL45,MRPL49,48
+"39S ribosomal subunit, mitochondrial",MRPL45,MRPL50,48
+"39S ribosomal subunit, mitochondrial",MRPL45,MRPL55,48
+"39S ribosomal subunit, mitochondrial",MRPL46,MRPL49,48
+"39S ribosomal subunit, mitochondrial",MRPL46,MRPL50,48
+"39S ribosomal subunit, mitochondrial",MRPL46,MRPL55,48
+"39S ribosomal subunit, mitochondrial",MRPL49,MRPL50,48
+"39S ribosomal subunit, mitochondrial",MRPL49,MRPL55,48
+"39S ribosomal subunit, mitochondrial",MRPL50,MRPL55,48
+3M complex,CCDC8,CUL7,7
+3M complex,CCDC8,OBSL1,7
+3M complex,CCDC8,TP53,7
+3M complex,CUL7,OBSL1,7
+3M complex,CUL7,TP53,7
+3M complex,OBSL1,TP53,7
+3M core complex,CCDC8,CUL7,3
+3M core complex,CCDC8,OBSL1,3
+3M core complex,CUL7,OBSL1,3
+4E-T-DDX6-CNOT1 complex,CNOT1,EIF4ENIF1,3
+"55S ribosome, mitochondrial",LACTB,MRPL17,78
+"55S ribosome, mitochondrial",LACTB,MRPL3,78
+"55S ribosome, mitochondrial",LACTB,MRPL38,78
+"55S ribosome, mitochondrial",LACTB,MRPL4,78
+"55S ribosome, mitochondrial",LACTB,MRPL40,78
+"55S ribosome, mitochondrial",LACTB,MRPL45,78
+"55S ribosome, mitochondrial",LACTB,MRPL46,78
+"55S ribosome, mitochondrial",LACTB,MRPL49,78
+"55S ribosome, mitochondrial",LACTB,MRPL50,78
+"55S ribosome, mitochondrial",LACTB,MRPL55,78
+"55S ribosome, mitochondrial",LACTB,MRPS18A,78
+"55S ribosome, mitochondrial",LACTB,MRPS2,78
+"55S ribosome, mitochondrial",LACTB,MRPS23,78
+"55S ribosome, mitochondrial",LACTB,MRPS28,78
+"55S ribosome, mitochondrial",LACTB,MRPS5,78
+"55S ribosome, mitochondrial",LACTB,MRPS9,78
+"55S ribosome, mitochondrial",MRPL17,MRPL3,78
+"55S ribosome, mitochondrial",MRPL17,MRPL38,78
+"55S ribosome, mitochondrial",MRPL17,MRPL4,78
+"55S ribosome, mitochondrial",MRPL17,MRPL40,78
+"55S ribosome, mitochondrial",MRPL17,MRPL45,78
+"55S ribosome, mitochondrial",MRPL17,MRPL46,78
+"55S ribosome, mitochondrial",MRPL17,MRPL49,78
+"55S ribosome, mitochondrial",MRPL17,MRPL50,78
+"55S ribosome, mitochondrial",MRPL17,MRPL55,78
+"55S ribosome, mitochondrial",MRPL17,MRPS18A,78
+"55S ribosome, mitochondrial",MRPL17,MRPS2,78
+"55S ribosome, mitochondrial",MRPL17,MRPS23,78
+"55S ribosome, mitochondrial",MRPL17,MRPS28,78
+"55S ribosome, mitochondrial",MRPL17,MRPS5,78
+"55S ribosome, mitochondrial",MRPL17,MRPS9,78
+"55S ribosome, mitochondrial",MRPL3,MRPL38,78
+"55S ribosome, mitochondrial",MRPL3,MRPL4,78
+"55S ribosome, mitochondrial",MRPL3,MRPL40,78
+"55S ribosome, mitochondrial",MRPL3,MRPL45,78
+"55S ribosome, mitochondrial",MRPL3,MRPL46,78
+"55S ribosome, mitochondrial",MRPL3,MRPL49,78
+"55S ribosome, mitochondrial",MRPL3,MRPL50,78
+"55S ribosome, mitochondrial",MRPL3,MRPL55,78
+"55S ribosome, mitochondrial",MRPL3,MRPS18A,78
+"55S ribosome, mitochondrial",MRPL3,MRPS2,78
+"55S ribosome, mitochondrial",MRPL3,MRPS23,78
+"55S ribosome, mitochondrial",MRPL3,MRPS28,78
+"55S ribosome, mitochondrial",MRPL3,MRPS5,78
+"55S ribosome, mitochondrial",MRPL3,MRPS9,78
+"55S ribosome, mitochondrial",MRPL38,MRPL4,78
+"55S ribosome, mitochondrial",MRPL38,MRPL40,78
+"55S ribosome, mitochondrial",MRPL38,MRPL45,78
+"55S ribosome, mitochondrial",MRPL38,MRPL46,78
+"55S ribosome, mitochondrial",MRPL38,MRPL49,78
+"55S ribosome, mitochondrial",MRPL38,MRPL50,78
+"55S ribosome, mitochondrial",MRPL38,MRPL55,78
+"55S ribosome, mitochondrial",MRPL38,MRPS18A,78
+"55S ribosome, mitochondrial",MRPL38,MRPS2,78
+"55S ribosome, mitochondrial",MRPL38,MRPS23,78
+"55S ribosome, mitochondrial",MRPL38,MRPS28,78
+"55S ribosome, mitochondrial",MRPL38,MRPS5,78
+"55S ribosome, mitochondrial",MRPL38,MRPS9,78
+"55S ribosome, mitochondrial",MRPL4,MRPL40,78
+"55S ribosome, mitochondrial",MRPL4,MRPL45,78
+"55S ribosome, mitochondrial",MRPL4,MRPL46,78
+"55S ribosome, mitochondrial",MRPL4,MRPL49,78
+"55S ribosome, mitochondrial",MRPL4,MRPL50,78
+"55S ribosome, mitochondrial",MRPL4,MRPL55,78
+"55S ribosome, mitochondrial",MRPL4,MRPS18A,78
+"55S ribosome, mitochondrial",MRPL4,MRPS2,78
+"55S ribosome, mitochondrial",MRPL4,MRPS23,78
+"55S ribosome, mitochondrial",MRPL4,MRPS28,78
+"55S ribosome, mitochondrial",MRPL4,MRPS5,78
+"55S ribosome, mitochondrial",MRPL4,MRPS9,78
+"55S ribosome, mitochondrial",MRPL40,MRPL45,78
+"55S ribosome, mitochondrial",MRPL40,MRPL46,78
+"55S ribosome, mitochondrial",MRPL40,MRPL49,78
+"55S ribosome, mitochondrial",MRPL40,MRPL50,78
+"55S ribosome, mitochondrial",MRPL40,MRPL55,78
+"55S ribosome, mitochondrial",MRPL40,MRPS18A,78
+"55S ribosome, mitochondrial",MRPL40,MRPS2,78
+"55S ribosome, mitochondrial",MRPL40,MRPS23,78
+"55S ribosome, mitochondrial",MRPL40,MRPS28,78
+"55S ribosome, mitochondrial",MRPL40,MRPS5,78
+"55S ribosome, mitochondrial",MRPL40,MRPS9,78
+"55S ribosome, mitochondrial",MRPL45,MRPL46,78
+"55S ribosome, mitochondrial",MRPL45,MRPL49,78
+"55S ribosome, mitochondrial",MRPL45,MRPL50,78
+"55S ribosome, mitochondrial",MRPL45,MRPL55,78
+"55S ribosome, mitochondrial",MRPL45,MRPS18A,78
+"55S ribosome, mitochondrial",MRPL45,MRPS2,78
+"55S ribosome, mitochondrial",MRPL45,MRPS23,78
+"55S ribosome, mitochondrial",MRPL45,MRPS28,78
+"55S ribosome, mitochondrial",MRPL45,MRPS5,78
+"55S ribosome, mitochondrial",MRPL45,MRPS9,78
+"55S ribosome, mitochondrial",MRPL46,MRPL49,78
+"55S ribosome, mitochondrial",MRPL46,MRPL50,78
+"55S ribosome, mitochondrial",MRPL46,MRPL55,78
+"55S ribosome, mitochondrial",MRPL46,MRPS18A,78
+"55S ribosome, mitochondrial",MRPL46,MRPS2,78
+"55S ribosome, mitochondrial",MRPL46,MRPS23,78
+"55S ribosome, mitochondrial",MRPL46,MRPS28,78
+"55S ribosome, mitochondrial",MRPL46,MRPS5,78
+"55S ribosome, mitochondrial",MRPL46,MRPS9,78
+"55S ribosome, mitochondrial",MRPL49,MRPL50,78
+"55S ribosome, mitochondrial",MRPL49,MRPL55,78
+"55S ribosome, mitochondrial",MRPL49,MRPS18A,78
+"55S ribosome, mitochondrial",MRPL49,MRPS2,78
+"55S ribosome, mitochondrial",MRPL49,MRPS23,78
+"55S ribosome, mitochondrial",MRPL49,MRPS28,78
+"55S ribosome, mitochondrial",MRPL49,MRPS5,78
+"55S ribosome, mitochondrial",MRPL49,MRPS9,78
+"55S ribosome, mitochondrial",MRPL50,MRPL55,78
+"55S ribosome, mitochondrial",MRPL50,MRPS18A,78
+"55S ribosome, mitochondrial",MRPL50,MRPS2,78
+"55S ribosome, mitochondrial",MRPL50,MRPS23,78
+"55S ribosome, mitochondrial",MRPL50,MRPS28,78
+"55S ribosome, mitochondrial",MRPL50,MRPS5,78
+"55S ribosome, mitochondrial",MRPL50,MRPS9,78
+"55S ribosome, mitochondrial",MRPL55,MRPS18A,78
+"55S ribosome, mitochondrial",MRPL55,MRPS2,78
+"55S ribosome, mitochondrial",MRPL55,MRPS23,78
+"55S ribosome, mitochondrial",MRPL55,MRPS28,78
+"55S ribosome, mitochondrial",MRPL55,MRPS5,78
+"55S ribosome, mitochondrial",MRPL55,MRPS9,78
+"55S ribosome, mitochondrial",MRPS18A,MRPS2,78
+"55S ribosome, mitochondrial",MRPS18A,MRPS23,78
+"55S ribosome, mitochondrial",MRPS18A,MRPS28,78
+"55S ribosome, mitochondrial",MRPS18A,MRPS5,78
+"55S ribosome, mitochondrial",MRPS18A,MRPS9,78
+"55S ribosome, mitochondrial",MRPS2,MRPS23,78
+"55S ribosome, mitochondrial",MRPS2,MRPS28,78
+"55S ribosome, mitochondrial",MRPS2,MRPS5,78
+"55S ribosome, mitochondrial",MRPS2,MRPS9,78
+"55S ribosome, mitochondrial",MRPS23,MRPS28,78
+"55S ribosome, mitochondrial",MRPS23,MRPS5,78
+"55S ribosome, mitochondrial",MRPS23,MRPS9,78
+"55S ribosome, mitochondrial",MRPS28,MRPS5,78
+"55S ribosome, mitochondrial",MRPS28,MRPS9,78
+"55S ribosome, mitochondrial",MRPS5,MRPS9,78
+5FMC (Friends of Methylated Chtop) complex,PELP1,SENP3,5
+5FMC (Friends of Methylated Chtop) complex,PELP1,TEX10,5
+5FMC (Friends of Methylated Chtop) complex,SENP3,TEX10,5
+60S APC containing complex,APC,IQGAP1,4
+ABI1-WASL complex,ABI1,WASL,2
+ADIPOQ-PLOD3-GLT25D1 complex,COLGALT1,PLOD3,3
+ALL-1 supercomplex,CHD3,CPSF2,28
+ALL-1 supercomplex,CHD3,EFTUD2,28
+ALL-1 supercomplex,CHD3,HDAC1,28
+ALL-1 supercomplex,CHD3,HDAC2,28
+ALL-1 supercomplex,CHD3,KDM1A,28
+ALL-1 supercomplex,CHD3,MBD3,28
+ALL-1 supercomplex,CHD3,MTA2,28
+ALL-1 supercomplex,CHD3,RBBP4,28
+ALL-1 supercomplex,CHD3,RBBP5,28
+ALL-1 supercomplex,CHD3,RBBP7,28
+ALL-1 supercomplex,CHD3,SAP30,28
+ALL-1 supercomplex,CHD3,SIN3A,28
+ALL-1 supercomplex,CHD3,SMARCB1,28
+ALL-1 supercomplex,CHD3,SMARCC1,28
+ALL-1 supercomplex,CHD3,SMARCC2,28
+ALL-1 supercomplex,CPSF2,EFTUD2,28
+ALL-1 supercomplex,CPSF2,HDAC1,28
+ALL-1 supercomplex,CPSF2,HDAC2,28
+ALL-1 supercomplex,CPSF2,KDM1A,28
+ALL-1 supercomplex,CPSF2,MBD3,28
+ALL-1 supercomplex,CPSF2,MTA2,28
+ALL-1 supercomplex,CPSF2,RBBP4,28
+ALL-1 supercomplex,CPSF2,RBBP5,28
+ALL-1 supercomplex,CPSF2,RBBP7,28
+ALL-1 supercomplex,CPSF2,SAP30,28
+ALL-1 supercomplex,CPSF2,SIN3A,28
+ALL-1 supercomplex,CPSF2,SMARCB1,28
+ALL-1 supercomplex,CPSF2,SMARCC1,28
+ALL-1 supercomplex,CPSF2,SMARCC2,28
+ALL-1 supercomplex,EFTUD2,HDAC1,28
+ALL-1 supercomplex,EFTUD2,HDAC2,28
+ALL-1 supercomplex,EFTUD2,KDM1A,28
+ALL-1 supercomplex,EFTUD2,MBD3,28
+ALL-1 supercomplex,EFTUD2,MTA2,28
+ALL-1 supercomplex,EFTUD2,RBBP4,28
+ALL-1 supercomplex,EFTUD2,RBBP5,28
+ALL-1 supercomplex,EFTUD2,RBBP7,28
+ALL-1 supercomplex,EFTUD2,SAP30,28
+ALL-1 supercomplex,EFTUD2,SIN3A,28
+ALL-1 supercomplex,EFTUD2,SMARCB1,28
+ALL-1 supercomplex,EFTUD2,SMARCC1,28
+ALL-1 supercomplex,EFTUD2,SMARCC2,28
+ALL-1 supercomplex,HDAC1,HDAC2,28
+ALL-1 supercomplex,HDAC1,KDM1A,28
+ALL-1 supercomplex,HDAC1,MBD3,28
+ALL-1 supercomplex,HDAC1,MTA2,28
+ALL-1 supercomplex,HDAC1,RBBP4,28
+ALL-1 supercomplex,HDAC1,RBBP5,28
+ALL-1 supercomplex,HDAC1,RBBP7,28
+ALL-1 supercomplex,HDAC1,SAP30,28
+ALL-1 supercomplex,HDAC1,SIN3A,28
+ALL-1 supercomplex,HDAC1,SMARCB1,28
+ALL-1 supercomplex,HDAC1,SMARCC1,28
+ALL-1 supercomplex,HDAC1,SMARCC2,28
+ALL-1 supercomplex,HDAC2,KDM1A,28
+ALL-1 supercomplex,HDAC2,MBD3,28
+ALL-1 supercomplex,HDAC2,MTA2,28
+ALL-1 supercomplex,HDAC2,RBBP4,28
+ALL-1 supercomplex,HDAC2,RBBP5,28
+ALL-1 supercomplex,HDAC2,RBBP7,28
+ALL-1 supercomplex,HDAC2,SAP30,28
+ALL-1 supercomplex,HDAC2,SIN3A,28
+ALL-1 supercomplex,HDAC2,SMARCB1,28
+ALL-1 supercomplex,HDAC2,SMARCC1,28
+ALL-1 supercomplex,HDAC2,SMARCC2,28
+ALL-1 supercomplex,KDM1A,MBD3,28
+ALL-1 supercomplex,KDM1A,MTA2,28
+ALL-1 supercomplex,KDM1A,RBBP4,28
+ALL-1 supercomplex,KDM1A,RBBP5,28
+ALL-1 supercomplex,KDM1A,RBBP7,28
+ALL-1 supercomplex,KDM1A,SAP30,28
+ALL-1 supercomplex,KDM1A,SIN3A,28
+ALL-1 supercomplex,KDM1A,SMARCB1,28
+ALL-1 supercomplex,KDM1A,SMARCC1,28
+ALL-1 supercomplex,KDM1A,SMARCC2,28
+ALL-1 supercomplex,MBD3,MTA2,28
+ALL-1 supercomplex,MBD3,RBBP4,28
+ALL-1 supercomplex,MBD3,RBBP5,28
+ALL-1 supercomplex,MBD3,RBBP7,28
+ALL-1 supercomplex,MBD3,SAP30,28
+ALL-1 supercomplex,MBD3,SIN3A,28
+ALL-1 supercomplex,MBD3,SMARCB1,28
+ALL-1 supercomplex,MBD3,SMARCC1,28
+ALL-1 supercomplex,MBD3,SMARCC2,28
+ALL-1 supercomplex,MTA2,RBBP4,28
+ALL-1 supercomplex,MTA2,RBBP5,28
+ALL-1 supercomplex,MTA2,RBBP7,28
+ALL-1 supercomplex,MTA2,SAP30,28
+ALL-1 supercomplex,MTA2,SIN3A,28
+ALL-1 supercomplex,MTA2,SMARCB1,28
+ALL-1 supercomplex,MTA2,SMARCC1,28
+ALL-1 supercomplex,MTA2,SMARCC2,28
+ALL-1 supercomplex,RBBP4,RBBP5,28
+ALL-1 supercomplex,RBBP4,RBBP7,28
+ALL-1 supercomplex,RBBP4,SAP30,28
+ALL-1 supercomplex,RBBP4,SIN3A,28
+ALL-1 supercomplex,RBBP4,SMARCB1,28
+ALL-1 supercomplex,RBBP4,SMARCC1,28
+ALL-1 supercomplex,RBBP4,SMARCC2,28
+ALL-1 supercomplex,RBBP5,RBBP7,28
+ALL-1 supercomplex,RBBP5,SAP30,28
+ALL-1 supercomplex,RBBP5,SIN3A,28
+ALL-1 supercomplex,RBBP5,SMARCB1,28
+ALL-1 supercomplex,RBBP5,SMARCC1,28
+ALL-1 supercomplex,RBBP5,SMARCC2,28
+ALL-1 supercomplex,RBBP7,SAP30,28
+ALL-1 supercomplex,RBBP7,SIN3A,28
+ALL-1 supercomplex,RBBP7,SMARCB1,28
+ALL-1 supercomplex,RBBP7,SMARCC1,28
+ALL-1 supercomplex,RBBP7,SMARCC2,28
+ALL-1 supercomplex,SAP30,SIN3A,28
+ALL-1 supercomplex,SAP30,SMARCB1,28
+ALL-1 supercomplex,SAP30,SMARCC1,28
+ALL-1 supercomplex,SAP30,SMARCC2,28
+ALL-1 supercomplex,SIN3A,SMARCB1,28
+ALL-1 supercomplex,SIN3A,SMARCC1,28
+ALL-1 supercomplex,SIN3A,SMARCC2,28
+ALL-1 supercomplex,SMARCB1,SMARCC1,28
+ALL-1 supercomplex,SMARCB1,SMARCC2,28
+ALL-1 supercomplex,SMARCC1,SMARCC2,28
+ANCO1-HDAC3  complex,ANKRD11,HDAC3,2
+ANKRA2-CCDC8-OBSL1-CUL7 complex,CCDC8,CUL7,4
+ANKRA2-CCDC8-OBSL1-CUL7 complex,CCDC8,OBSL1,4
+ANKRA2-CCDC8-OBSL1-CUL7 complex,CUL7,OBSL1,4
+AP1 adaptor complex,AP1B1,AP1G1,8
+AP1 adaptor complex,AP1B1,AP1M1,8
+AP1 adaptor complex,AP1G1,AP1M1,8
+AP1B1-AP1G2-AP1M-1AP1S1 complex,AP1B1,AP1M1,4
+APC-AXIN1-CTNNB1 complex,APC,AXIN1,3
+APC-AXIN1-CTNNB1 complex,APC,CTNNB1,3
+APC-AXIN1-CTNNB1 complex,AXIN1,CTNNB1,3
+APC-IQGAP1 complex,APC,IQGAP1,2
+APC-IQGAP1-CLIP-170 complex,APC,IQGAP1,3
+APC-IQGAP1-Cdc42 complex,APC,IQGAP1,3
+APC-IQGAP1-Rac1 complex,APC,IQGAP1,3
+ARC complex,MED1,MED12,18
+ARC complex,MED1,MED14,18
+ARC complex,MED1,MED15,18
+ARC complex,MED1,MED17,18
+ARC complex,MED1,MED23,18
+ARC complex,MED1,MED24,18
+ARC complex,MED1,MED26,18
+ARC complex,MED1,MED4,18
+ARC complex,MED12,MED14,18
+ARC complex,MED12,MED15,18
+ARC complex,MED12,MED17,18
+ARC complex,MED12,MED23,18
+ARC complex,MED12,MED24,18
+ARC complex,MED12,MED26,18
+ARC complex,MED12,MED4,18
+ARC complex,MED14,MED15,18
+ARC complex,MED14,MED17,18
+ARC complex,MED14,MED23,18
+ARC complex,MED14,MED24,18
+ARC complex,MED14,MED26,18
+ARC complex,MED14,MED4,18
+ARC complex,MED15,MED17,18
+ARC complex,MED15,MED23,18
+ARC complex,MED15,MED24,18
+ARC complex,MED15,MED26,18
+ARC complex,MED15,MED4,18
+ARC complex,MED17,MED23,18
+ARC complex,MED17,MED24,18
+ARC complex,MED17,MED26,18
+ARC complex,MED17,MED4,18
+ARC complex,MED23,MED24,18
+ARC complex,MED23,MED26,18
+ARC complex,MED23,MED4,18
+ARC complex,MED24,MED26,18
+ARC complex,MED24,MED4,18
+ARC complex,MED26,MED4,18
+ARC-L complex,MED1,MED12,14
+ARC-L complex,MED1,MED14,14
+ARC-L complex,MED1,MED15,14
+ARC-L complex,MED1,MED17,14
+ARC-L complex,MED1,MED23,14
+ARC-L complex,MED1,MED24,14
+ARC-L complex,MED12,MED14,14
+ARC-L complex,MED12,MED15,14
+ARC-L complex,MED12,MED17,14
+ARC-L complex,MED12,MED23,14
+ARC-L complex,MED12,MED24,14
+ARC-L complex,MED14,MED15,14
+ARC-L complex,MED14,MED17,14
+ARC-L complex,MED14,MED23,14
+ARC-L complex,MED14,MED24,14
+ARC-L complex,MED15,MED17,14
+ARC-L complex,MED15,MED23,14
+ARC-L complex,MED15,MED24,14
+ARC-L complex,MED17,MED23,14
+ARC-L complex,MED17,MED24,14
+ARC-L complex,MED23,MED24,14
+ARC92-Mediator complex,MED1,MED12,13
+ARC92-Mediator complex,MED1,MED14,13
+ARC92-Mediator complex,MED1,MED15,13
+ARC92-Mediator complex,MED1,MED16,13
+ARC92-Mediator complex,MED1,MED17,13
+ARC92-Mediator complex,MED1,MED23,13
+ARC92-Mediator complex,MED1,MED26,13
+ARC92-Mediator complex,MED12,MED14,13
+ARC92-Mediator complex,MED12,MED15,13
+ARC92-Mediator complex,MED12,MED16,13
+ARC92-Mediator complex,MED12,MED17,13
+ARC92-Mediator complex,MED12,MED23,13
+ARC92-Mediator complex,MED12,MED26,13
+ARC92-Mediator complex,MED14,MED15,13
+ARC92-Mediator complex,MED14,MED16,13
+ARC92-Mediator complex,MED14,MED17,13
+ARC92-Mediator complex,MED14,MED23,13
+ARC92-Mediator complex,MED14,MED26,13
+ARC92-Mediator complex,MED15,MED16,13
+ARC92-Mediator complex,MED15,MED17,13
+ARC92-Mediator complex,MED15,MED23,13
+ARC92-Mediator complex,MED15,MED26,13
+ARC92-Mediator complex,MED16,MED17,13
+ARC92-Mediator complex,MED16,MED23,13
+ARC92-Mediator complex,MED16,MED26,13
+ARC92-Mediator complex,MED17,MED23,13
+ARC92-Mediator complex,MED17,MED26,13
+ARC92-Mediator complex,MED23,MED26,13
+ARD1-NATH complex,NAA15,TRIM23,2
+ASCOM complex,ASH2L,KMT2C,7
+ASCOM complex,ASH2L,NCOA6,7
+ASCOM complex,ASH2L,RBBP5,7
+ASCOM complex,KMT2C,NCOA6,7
+ASCOM complex,KMT2C,RBBP5,7
+ASCOM complex,NCOA6,RBBP5,7
+ASF1-interacting protein complex,CHAF1B,HIRA,6
+ASH2L-KDM6B-KDM6B-WDR5 complex,ASH2L,KDM6B,4
+ASH2L-KDM6B-KDM6B-WDR5 complex,ASH2L,RBBP5,4
+ASH2L-KDM6B-KDM6B-WDR5 complex,KDM6B,RBBP5,4
+ASXL1-HCFC1-OGT complex,HCFC1,OGT,3
+"ATAC complex, YEATS2-linked",SGF29,UBAP2L,14
+ATR-HDAC2-CHD4 complex,CHD4,HDAC2,3
+AUP1-OS9-SEL1L-UBC6e-UBXD8 complex,AUP1,SEL1L,5
+AXIN1-APC-CTNNB1-GSK3B complex,APC,AXIN1,4
+AXIN1-APC-CTNNB1-GSK3B complex,APC,CTNNB1,4
+AXIN1-APC-CTNNB1-GSK3B complex,AXIN1,CTNNB1,4
+AXIN1-GID8-GSK3B complex,AXIN1,GID8,3
+Afadin-beta-catenin complex,AFDN,CTNNB1,2
+Akt-PHLPP1-PHLPP2-FANCI-FANCD2-USP1-UAF1 complex,FANCD2,FANCI,7
+Akt-PHLPP1-PHLPP2-FANCI-FANCD2-USP1-UAF1 complex,FANCD2,WDR48,7
+Akt-PHLPP1-PHLPP2-FANCI-FANCD2-USP1-UAF1 complex,FANCI,WDR48,7
+Anti-HDAC2 complex,CHD3,CHD4,17
+Anti-HDAC2 complex,CHD3,HDAC1,17
+Anti-HDAC2 complex,CHD3,HDAC2,17
+Anti-HDAC2 complex,CHD3,HMG20B,17
+Anti-HDAC2 complex,CHD3,KDM1A,17
+Anti-HDAC2 complex,CHD3,MTA1,17
+Anti-HDAC2 complex,CHD3,MTA2,17
+Anti-HDAC2 complex,CHD3,PHF21A,17
+Anti-HDAC2 complex,CHD3,RBBP4,17
+Anti-HDAC2 complex,CHD3,RBBP7,17
+Anti-HDAC2 complex,CHD3,RCOR1,17
+Anti-HDAC2 complex,CHD3,SIN3A,17
+Anti-HDAC2 complex,CHD3,ZMYM2,17
+Anti-HDAC2 complex,CHD3,ZMYM3,17
+Anti-HDAC2 complex,CHD4,HDAC1,17
+Anti-HDAC2 complex,CHD4,HDAC2,17
+Anti-HDAC2 complex,CHD4,HMG20B,17
+Anti-HDAC2 complex,CHD4,KDM1A,17
+Anti-HDAC2 complex,CHD4,MTA1,17
+Anti-HDAC2 complex,CHD4,MTA2,17
+Anti-HDAC2 complex,CHD4,PHF21A,17
+Anti-HDAC2 complex,CHD4,RBBP4,17
+Anti-HDAC2 complex,CHD4,RBBP7,17
+Anti-HDAC2 complex,CHD4,RCOR1,17
+Anti-HDAC2 complex,CHD4,SIN3A,17
+Anti-HDAC2 complex,CHD4,ZMYM2,17
+Anti-HDAC2 complex,CHD4,ZMYM3,17
+Anti-HDAC2 complex,HDAC1,HDAC2,17
+Anti-HDAC2 complex,HDAC1,HMG20B,17
+Anti-HDAC2 complex,HDAC1,KDM1A,17
+Anti-HDAC2 complex,HDAC1,MTA1,17
+Anti-HDAC2 complex,HDAC1,MTA2,17
+Anti-HDAC2 complex,HDAC1,PHF21A,17
+Anti-HDAC2 complex,HDAC1,RBBP4,17
+Anti-HDAC2 complex,HDAC1,RBBP7,17
+Anti-HDAC2 complex,HDAC1,RCOR1,17
+Anti-HDAC2 complex,HDAC1,SIN3A,17
+Anti-HDAC2 complex,HDAC1,ZMYM2,17
+Anti-HDAC2 complex,HDAC1,ZMYM3,17
+Anti-HDAC2 complex,HDAC2,HMG20B,17
+Anti-HDAC2 complex,HDAC2,KDM1A,17
+Anti-HDAC2 complex,HDAC2,MTA1,17
+Anti-HDAC2 complex,HDAC2,MTA2,17
+Anti-HDAC2 complex,HDAC2,PHF21A,17
+Anti-HDAC2 complex,HDAC2,RBBP4,17
+Anti-HDAC2 complex,HDAC2,RBBP7,17
+Anti-HDAC2 complex,HDAC2,RCOR1,17
+Anti-HDAC2 complex,HDAC2,SIN3A,17
+Anti-HDAC2 complex,HDAC2,ZMYM2,17
+Anti-HDAC2 complex,HDAC2,ZMYM3,17
+Anti-HDAC2 complex,HMG20B,KDM1A,17
+Anti-HDAC2 complex,HMG20B,MTA1,17
+Anti-HDAC2 complex,HMG20B,MTA2,17
+Anti-HDAC2 complex,HMG20B,PHF21A,17
+Anti-HDAC2 complex,HMG20B,RBBP4,17
+Anti-HDAC2 complex,HMG20B,RBBP7,17
+Anti-HDAC2 complex,HMG20B,RCOR1,17
+Anti-HDAC2 complex,HMG20B,SIN3A,17
+Anti-HDAC2 complex,HMG20B,ZMYM2,17
+Anti-HDAC2 complex,HMG20B,ZMYM3,17
+Anti-HDAC2 complex,KDM1A,MTA1,17
+Anti-HDAC2 complex,KDM1A,MTA2,17
+Anti-HDAC2 complex,KDM1A,PHF21A,17
+Anti-HDAC2 complex,KDM1A,RBBP4,17
+Anti-HDAC2 complex,KDM1A,RBBP7,17
+Anti-HDAC2 complex,KDM1A,RCOR1,17
+Anti-HDAC2 complex,KDM1A,SIN3A,17
+Anti-HDAC2 complex,KDM1A,ZMYM2,17
+Anti-HDAC2 complex,KDM1A,ZMYM3,17
+Anti-HDAC2 complex,MTA1,MTA2,17
+Anti-HDAC2 complex,MTA1,PHF21A,17
+Anti-HDAC2 complex,MTA1,RBBP4,17
+Anti-HDAC2 complex,MTA1,RBBP7,17
+Anti-HDAC2 complex,MTA1,RCOR1,17
+Anti-HDAC2 complex,MTA1,SIN3A,17
+Anti-HDAC2 complex,MTA1,ZMYM2,17
+Anti-HDAC2 complex,MTA1,ZMYM3,17
+Anti-HDAC2 complex,MTA2,PHF21A,17
+Anti-HDAC2 complex,MTA2,RBBP4,17
+Anti-HDAC2 complex,MTA2,RBBP7,17
+Anti-HDAC2 complex,MTA2,RCOR1,17
+Anti-HDAC2 complex,MTA2,SIN3A,17
+Anti-HDAC2 complex,MTA2,ZMYM2,17
+Anti-HDAC2 complex,MTA2,ZMYM3,17
+Anti-HDAC2 complex,PHF21A,RBBP4,17
+Anti-HDAC2 complex,PHF21A,RBBP7,17
+Anti-HDAC2 complex,PHF21A,RCOR1,17
+Anti-HDAC2 complex,PHF21A,SIN3A,17
+Anti-HDAC2 complex,PHF21A,ZMYM2,17
+Anti-HDAC2 complex,PHF21A,ZMYM3,17
+Anti-HDAC2 complex,RBBP4,RBBP7,17
+Anti-HDAC2 complex,RBBP4,RCOR1,17
+Anti-HDAC2 complex,RBBP4,SIN3A,17
+Anti-HDAC2 complex,RBBP4,ZMYM2,17
+Anti-HDAC2 complex,RBBP4,ZMYM3,17
+Anti-HDAC2 complex,RBBP7,RCOR1,17
+Anti-HDAC2 complex,RBBP7,SIN3A,17
+Anti-HDAC2 complex,RBBP7,ZMYM2,17
+Anti-HDAC2 complex,RBBP7,ZMYM3,17
+Anti-HDAC2 complex,RCOR1,SIN3A,17
+Anti-HDAC2 complex,RCOR1,ZMYM2,17
+Anti-HDAC2 complex,RCOR1,ZMYM3,17
+Anti-HDAC2 complex,SIN3A,ZMYM2,17
+Anti-HDAC2 complex,SIN3A,ZMYM3,17
+Anti-HDAC2 complex,ZMYM2,ZMYM3,17
+Anti-SMN protein complex,DDX20,GEMIN4,5
+Anti-Sm protein complex,DDX20,GEMIN4,7
+Axin-PP2A A-PP2A C-GSK3-beta-beta-catenin complex,AXIN1,CTNNB1,4
+Axin-p53-HIPK2 complex,AXIN1,TP53,3
+BAF complex,ACTL6A,ARID1B,14
+BAF complex,ACTL6A,SMARCA4,14
+BAF complex,ACTL6A,SMARCB1,14
+BAF complex,ACTL6A,SMARCC1,14
+BAF complex,ACTL6A,SMARCC2,14
+BAF complex,ACTL6A,SMARCD1,14
+BAF complex,ACTL6A,SMARCE1,14
+BAF complex,ACTL6A,SMARCD2,14
+BAF complex,ARID1B,SMARCA4,14
+BAF complex,ARID1B,SMARCB1,14
+BAF complex,ARID1B,SMARCC1,14
+BAF complex,ARID1B,SMARCC2,14
+BAF complex,ARID1B,SMARCD1,14
+BAF complex,ARID1B,SMARCE1,14
+BAF complex,ARID1B,SMARCD2,14
+BAF complex,SMARCA4,SMARCB1,14
+BAF complex,SMARCA4,SMARCC1,14
+BAF complex,SMARCA4,SMARCC2,14
+BAF complex,SMARCA4,SMARCD1,14
+BAF complex,SMARCA4,SMARCE1,14
+BAF complex,SMARCA4,SMARCD2,14
+BAF complex,SMARCB1,SMARCC1,14
+BAF complex,SMARCB1,SMARCC2,14
+BAF complex,SMARCB1,SMARCD1,14
+BAF complex,SMARCB1,SMARCE1,14
+BAF complex,SMARCB1,SMARCD2,14
+BAF complex,SMARCC1,SMARCC2,14
+BAF complex,SMARCC1,SMARCD1,14
+BAF complex,SMARCC1,SMARCE1,14
+BAF complex,SMARCC1,SMARCD2,14
+BAF complex,SMARCC2,SMARCD1,14
+BAF complex,SMARCC2,SMARCE1,14
+BAF complex,SMARCC2,SMARCD2,14
+BAF complex,SMARCD1,SMARCE1,14
+BAF complex,SMARCD1,SMARCD2,14
+BAF complex,SMARCD2,SMARCE1,14
+BASC (Ab 80) complex (BRCA1-associated genome surveillance complex),RFC1,RFC4,8
+BASC (Ab 81) complex (BRCA1-associated genome surveillance complex),RFC1,RFC4,6
+BASC complex (BRCA1-associated genome surveillance complex),MRE11,NBN,12
+BASC complex (BRCA1-associated genome surveillance complex),MRE11,RAD50,12
+BASC complex (BRCA1-associated genome surveillance complex),MRE11,RFC1,12
+BASC complex (BRCA1-associated genome surveillance complex),MRE11,RFC4,12
+BASC complex (BRCA1-associated genome surveillance complex),NBN,RAD50,12
+BASC complex (BRCA1-associated genome surveillance complex),NBN,RFC1,12
+BASC complex (BRCA1-associated genome surveillance complex),NBN,RFC4,12
+BASC complex (BRCA1-associated genome surveillance complex),RAD50,RFC1,12
+BASC complex (BRCA1-associated genome surveillance complex),RAD50,RFC4,12
+BASC complex (BRCA1-associated genome surveillance complex),RFC1,RFC4,12
+BBS4 centriolar satellite complex,CEP131,PCM1,3
+BHC complex,HDAC1,HDAC2,6
+BHC complex,HDAC1,HMG20B,6
+BHC complex,HDAC1,KDM1A,6
+BHC complex,HDAC1,PHF21A,6
+BHC complex,HDAC1,RCOR1,6
+BHC complex,HDAC2,HMG20B,6
+BHC complex,HDAC2,KDM1A,6
+BHC complex,HDAC2,PHF21A,6
+BHC complex,HDAC2,RCOR1,6
+BHC complex,HMG20B,KDM1A,6
+BHC complex,HMG20B,PHF21A,6
+BHC complex,HMG20B,RCOR1,6
+BHC complex,KDM1A,PHF21A,6
+BHC complex,KDM1A,RCOR1,6
+BHC complex,PHF21A,RCOR1,6
+BHC110 complex,HDAC1,HDAC2,10
+BHC110 complex,HDAC1,HMG20B,10
+BHC110 complex,HDAC1,KDM1A,10
+BHC110 complex,HDAC1,PHF21A,10
+BHC110 complex,HDAC1,RCOR1,10
+BHC110 complex,HDAC1,ZMYM2,10
+BHC110 complex,HDAC2,HMG20B,10
+BHC110 complex,HDAC2,KDM1A,10
+BHC110 complex,HDAC2,PHF21A,10
+BHC110 complex,HDAC2,RCOR1,10
+BHC110 complex,HDAC2,ZMYM2,10
+BHC110 complex,HMG20B,KDM1A,10
+BHC110 complex,HMG20B,PHF21A,10
+BHC110 complex,HMG20B,RCOR1,10
+BHC110 complex,HMG20B,ZMYM2,10
+BHC110 complex,KDM1A,PHF21A,10
+BHC110 complex,KDM1A,RCOR1,10
+BHC110 complex,KDM1A,ZMYM2,10
+BHC110 complex,PHF21A,RCOR1,10
+BHC110 complex,PHF21A,ZMYM2,10
+BHC110 complex,RCOR1,ZMYM2,10
+BP-SMAD complex,ERCC3,KLF10,8
+BRAF53-BRCA2 complex,HDAC1,HDAC2,7
+BRAF53-BRCA2 complex,HDAC1,HMG20B,7
+BRAF53-BRCA2 complex,HDAC1,KDM1A,7
+BRAF53-BRCA2 complex,HDAC1,PHF21A,7
+BRAF53-BRCA2 complex,HDAC1,RCOR1,7
+BRAF53-BRCA2 complex,HDAC2,HMG20B,7
+BRAF53-BRCA2 complex,HDAC2,KDM1A,7
+BRAF53-BRCA2 complex,HDAC2,PHF21A,7
+BRAF53-BRCA2 complex,HDAC2,RCOR1,7
+BRAF53-BRCA2 complex,HMG20B,KDM1A,7
+BRAF53-BRCA2 complex,HMG20B,PHF21A,7
+BRAF53-BRCA2 complex,HMG20B,RCOR1,7
+BRAF53-BRCA2 complex,KDM1A,PHF21A,7
+BRAF53-BRCA2 complex,KDM1A,RCOR1,7
+BRAF53-BRCA2 complex,PHF21A,RCOR1,7
+BRCA1-BARD1-BACH1-DNA damage complex II,MRE11,NBN,8
+BRCA1-BARD1-BACH1-DNA damage complex II,MRE11,RAD50,8
+BRCA1-BARD1-BACH1-DNA damage complex II,NBN,RAD50,8
+BRCA1-HDAC1-HDAC2 complex,HDAC1,HDAC2,3
+BRCA1-RAD50-MRE11-NBS1 complex,MRE11,NBN,4
+BRCA1-RAD50-MRE11-NBS1 complex,MRE11,RAD50,4
+BRCA1-RAD50-MRE11-NBS1 complex,NBN,RAD50,4
+BRCA1-RNA polymerase II complex,ERCC3,GTF2H1,26
+BRCA1-RNA polymerase II complex,ERCC3,GTF2H3,26
+BRCA1-RNA polymerase II complex,ERCC3,GTF2H4,26
+BRCA1-RNA polymerase II complex,ERCC3,POLR2A,26
+BRCA1-RNA polymerase II complex,GTF2H1,GTF2H3,26
+BRCA1-RNA polymerase II complex,GTF2H1,GTF2H4,26
+BRCA1-RNA polymerase II complex,GTF2H1,POLR2A,26
+BRCA1-RNA polymerase II complex,GTF2H3,GTF2H4,26
+BRCA1-RNA polymerase II complex,GTF2H3,POLR2A,26
+BRCA1-RNA polymerase II complex,GTF2H4,POLR2A,26
+BRD4 complex,BRD4,MED1,8
+BRD4 complex,BRD4,MED12,8
+BRD4 complex,BRD4,MED14,8
+BRD4 complex,BRD4,MED17,8
+BRD4 complex,BRD4,MED24,8
+BRD4 complex,MED1,MED12,8
+BRD4 complex,MED1,MED14,8
+BRD4 complex,MED1,MED17,8
+BRD4 complex,MED1,MED24,8
+BRD4 complex,MED12,MED14,8
+BRD4 complex,MED12,MED17,8
+BRD4 complex,MED12,MED24,8
+BRD4 complex,MED14,MED17,8
+BRD4 complex,MED14,MED24,8
+BRD4 complex,MED17,MED24,8
+BRD4-RFC complex,BRD4,RFC1,6
+BRD4-RFC complex,BRD4,RFC4,6
+BRD4-RFC complex,RFC1,RFC4,6
+BRD7-CBP-SWI\u2013SNF complex,SMARCA4,SMARCE1,7
+BRD7-SWI\u2013SNF complex,ACTL6A,SMARCA4,11
+BRD7-SWI\u2013SNF complex,ACTL6A,SMARCC1,11
+BRD7-SWI\u2013SNF complex,ACTL6A,SMARCC2,11
+BRD7-SWI\u2013SNF complex,ACTL6A,SMARCD1,11
+BRD7-SWI\u2013SNF complex,ACTL6A,SMARCE1,11
+BRD7-SWI\u2013SNF complex,SMARCA4,SMARCC1,11
+BRD7-SWI\u2013SNF complex,SMARCA4,SMARCC2,11
+BRD7-SWI\u2013SNF complex,SMARCA4,SMARCD1,11
+BRD7-SWI\u2013SNF complex,SMARCA4,SMARCE1,11
+BRD7-SWI\u2013SNF complex,SMARCC1,SMARCC2,11
+BRD7-SWI\u2013SNF complex,SMARCC1,SMARCD1,11
+BRD7-SWI\u2013SNF complex,SMARCC1,SMARCE1,11
+BRD7-SWI\u2013SNF complex,SMARCC2,SMARCD1,11
+BRD7-SWI\u2013SNF complex,SMARCC2,SMARCE1,11
+BRD7-SWI\u2013SNF complex,SMARCD1,SMARCE1,11
+BRG1-SIN3A complex,ACTL6A,HDAC2,14
+BRG1-SIN3A complex,ACTL6A,RBBP4,14
+BRG1-SIN3A complex,ACTL6A,SIN3A,14
+BRG1-SIN3A complex,ACTL6A,SMARCA4,14
+BRG1-SIN3A complex,ACTL6A,SMARCB1,14
+BRG1-SIN3A complex,ACTL6A,SMARCC1,14
+BRG1-SIN3A complex,ACTL6A,SMARCC2,14
+BRG1-SIN3A complex,ACTL6A,SMARCD1,14
+BRG1-SIN3A complex,ACTL6A,SMARCD2,14
+BRG1-SIN3A complex,ACTL6A,SMARCE1,14
+BRG1-SIN3A complex,HDAC2,RBBP4,14
+BRG1-SIN3A complex,HDAC2,SIN3A,14
+BRG1-SIN3A complex,HDAC2,SMARCA4,14
+BRG1-SIN3A complex,HDAC2,SMARCB1,14
+BRG1-SIN3A complex,HDAC2,SMARCC1,14
+BRG1-SIN3A complex,HDAC2,SMARCC2,14
+BRG1-SIN3A complex,HDAC2,SMARCD1,14
+BRG1-SIN3A complex,HDAC2,SMARCD2,14
+BRG1-SIN3A complex,HDAC2,SMARCE1,14
+BRG1-SIN3A complex,RBBP4,SIN3A,14
+BRG1-SIN3A complex,RBBP4,SMARCA4,14
+BRG1-SIN3A complex,RBBP4,SMARCB1,14
+BRG1-SIN3A complex,RBBP4,SMARCC1,14
+BRG1-SIN3A complex,RBBP4,SMARCC2,14
+BRG1-SIN3A complex,RBBP4,SMARCD1,14
+BRG1-SIN3A complex,RBBP4,SMARCD2,14
+BRG1-SIN3A complex,RBBP4,SMARCE1,14
+BRG1-SIN3A complex,SIN3A,SMARCA4,14
+BRG1-SIN3A complex,SIN3A,SMARCB1,14
+BRG1-SIN3A complex,SIN3A,SMARCC1,14
+BRG1-SIN3A complex,SIN3A,SMARCC2,14
+BRG1-SIN3A complex,SIN3A,SMARCD1,14
+BRG1-SIN3A complex,SIN3A,SMARCD2,14
+BRG1-SIN3A complex,SIN3A,SMARCE1,14
+BRG1-SIN3A complex,SMARCA4,SMARCB1,14
+BRG1-SIN3A complex,SMARCA4,SMARCC1,14
+BRG1-SIN3A complex,SMARCA4,SMARCC2,14
+BRG1-SIN3A complex,SMARCA4,SMARCD1,14
+BRG1-SIN3A complex,SMARCA4,SMARCD2,14
+BRG1-SIN3A complex,SMARCA4,SMARCE1,14
+BRG1-SIN3A complex,SMARCB1,SMARCC1,14
+BRG1-SIN3A complex,SMARCB1,SMARCC2,14
+BRG1-SIN3A complex,SMARCB1,SMARCD1,14
+BRG1-SIN3A complex,SMARCB1,SMARCD2,14
+BRG1-SIN3A complex,SMARCB1,SMARCE1,14
+BRG1-SIN3A complex,SMARCC1,SMARCC2,14
+BRG1-SIN3A complex,SMARCC1,SMARCD1,14
+BRG1-SIN3A complex,SMARCC1,SMARCD2,14
+BRG1-SIN3A complex,SMARCC1,SMARCE1,14
+BRG1-SIN3A complex,SMARCC2,SMARCD1,14
+BRG1-SIN3A complex,SMARCC2,SMARCD2,14
+BRG1-SIN3A complex,SMARCC2,SMARCE1,14
+BRG1-SIN3A complex,SMARCD1,SMARCD2,14
+BRG1-SIN3A complex,SMARCD1,SMARCE1,14
+BRG1-SIN3A complex,SMARCD2,SMARCE1,14
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,ACTL6A,HDAC2,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,ACTL6A,SIN3A,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,ACTL6A,SMARCA4,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,ACTL6A,SMARCB1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,ACTL6A,SMARCC1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,ACTL6A,SMARCC2,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,ACTL6A,SMARCD1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,ACTL6A,SMARCE1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,HDAC2,SIN3A,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,HDAC2,SMARCA4,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,HDAC2,SMARCB1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,HDAC2,SMARCC1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,HDAC2,SMARCC2,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,HDAC2,SMARCD1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,HDAC2,SMARCE1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SIN3A,SMARCA4,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SIN3A,SMARCB1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SIN3A,SMARCC1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SIN3A,SMARCC2,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SIN3A,SMARCD1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SIN3A,SMARCE1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCA4,SMARCB1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCA4,SMARCC1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCA4,SMARCC2,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCA4,SMARCD1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCA4,SMARCE1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCB1,SMARCC1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCB1,SMARCC2,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCB1,SMARCD1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCB1,SMARCE1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCC1,SMARCC2,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCC1,SMARCD1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCC1,SMARCE1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCC2,SMARCD1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCC2,SMARCE1,11
+BRG1-SIN3A-HDAC containing SWI/SNF remodeling complex I,SMARCD1,SMARCE1,11
+BRM-SIN3A complex,ACTL6A,HDAC1,15
+BRM-SIN3A complex,ACTL6A,HDAC2,15
+BRM-SIN3A complex,ACTL6A,RBBP4,15
+BRM-SIN3A complex,ACTL6A,SIN3A,15
+BRM-SIN3A complex,ACTL6A,SMARCB1,15
+BRM-SIN3A complex,ACTL6A,SMARCC1,15
+BRM-SIN3A complex,ACTL6A,SMARCC2,15
+BRM-SIN3A complex,ACTL6A,SMARCD1,15
+BRM-SIN3A complex,ACTL6A,SMARCD2,15
+BRM-SIN3A complex,ACTL6A,SMARCE1,15
+BRM-SIN3A complex,HDAC1,HDAC2,15
+BRM-SIN3A complex,HDAC1,RBBP4,15
+BRM-SIN3A complex,HDAC1,SIN3A,15
+BRM-SIN3A complex,HDAC1,SMARCB1,15
+BRM-SIN3A complex,HDAC1,SMARCC1,15
+BRM-SIN3A complex,HDAC1,SMARCC2,15
+BRM-SIN3A complex,HDAC1,SMARCD1,15
+BRM-SIN3A complex,HDAC1,SMARCD2,15
+BRM-SIN3A complex,HDAC1,SMARCE1,15
+BRM-SIN3A complex,HDAC2,RBBP4,15
+BRM-SIN3A complex,HDAC2,SIN3A,15
+BRM-SIN3A complex,HDAC2,SMARCB1,15
+BRM-SIN3A complex,HDAC2,SMARCC1,15
+BRM-SIN3A complex,HDAC2,SMARCC2,15
+BRM-SIN3A complex,HDAC2,SMARCD1,15
+BRM-SIN3A complex,HDAC2,SMARCD2,15
+BRM-SIN3A complex,HDAC2,SMARCE1,15
+BRM-SIN3A complex,RBBP4,SIN3A,15
+BRM-SIN3A complex,RBBP4,SMARCB1,15
+BRM-SIN3A complex,RBBP4,SMARCC1,15
+BRM-SIN3A complex,RBBP4,SMARCC2,15
+BRM-SIN3A complex,RBBP4,SMARCD1,15
+BRM-SIN3A complex,RBBP4,SMARCD2,15
+BRM-SIN3A complex,RBBP4,SMARCE1,15
+BRM-SIN3A complex,SIN3A,SMARCB1,15
+BRM-SIN3A complex,SIN3A,SMARCC1,15
+BRM-SIN3A complex,SIN3A,SMARCC2,15
+BRM-SIN3A complex,SIN3A,SMARCD1,15
+BRM-SIN3A complex,SIN3A,SMARCD2,15
+BRM-SIN3A complex,SIN3A,SMARCE1,15
+BRM-SIN3A complex,SMARCB1,SMARCC1,15
+BRM-SIN3A complex,SMARCB1,SMARCC2,15
+BRM-SIN3A complex,SMARCB1,SMARCD1,15
+BRM-SIN3A complex,SMARCB1,SMARCD2,15
+BRM-SIN3A complex,SMARCB1,SMARCE1,15
+BRM-SIN3A complex,SMARCC1,SMARCC2,15
+BRM-SIN3A complex,SMARCC1,SMARCD1,15
+BRM-SIN3A complex,SMARCC1,SMARCD2,15
+BRM-SIN3A complex,SMARCC1,SMARCE1,15
+BRM-SIN3A complex,SMARCC2,SMARCD1,15
+BRM-SIN3A complex,SMARCC2,SMARCD2,15
+BRM-SIN3A complex,SMARCC2,SMARCE1,15
+BRM-SIN3A complex,SMARCD1,SMARCD2,15
+BRM-SIN3A complex,SMARCD1,SMARCE1,15
+BRM-SIN3A complex,SMARCD2,SMARCE1,15
+BRM-SIN3A-HDAC complex,ACTL6A,HDAC2,12
+BRM-SIN3A-HDAC complex,ACTL6A,SIN3A,12
+BRM-SIN3A-HDAC complex,ACTL6A,SMARCB1,12
+BRM-SIN3A-HDAC complex,ACTL6A,SMARCC1,12
+BRM-SIN3A-HDAC complex,ACTL6A,SMARCC2,12
+BRM-SIN3A-HDAC complex,ACTL6A,SMARCD1,12
+BRM-SIN3A-HDAC complex,ACTL6A,SMARCD2,12
+BRM-SIN3A-HDAC complex,ACTL6A,SMARCE1,12
+BRM-SIN3A-HDAC complex,HDAC2,SIN3A,12
+BRM-SIN3A-HDAC complex,HDAC2,SMARCB1,12
+BRM-SIN3A-HDAC complex,HDAC2,SMARCC1,12
+BRM-SIN3A-HDAC complex,HDAC2,SMARCC2,12
+BRM-SIN3A-HDAC complex,HDAC2,SMARCD1,12
+BRM-SIN3A-HDAC complex,HDAC2,SMARCD2,12
+BRM-SIN3A-HDAC complex,HDAC2,SMARCE1,12
+BRM-SIN3A-HDAC complex,SIN3A,SMARCB1,12
+BRM-SIN3A-HDAC complex,SIN3A,SMARCC1,12
+BRM-SIN3A-HDAC complex,SIN3A,SMARCC2,12
+BRM-SIN3A-HDAC complex,SIN3A,SMARCD1,12
+BRM-SIN3A-HDAC complex,SIN3A,SMARCD2,12
+BRM-SIN3A-HDAC complex,SIN3A,SMARCE1,12
+BRM-SIN3A-HDAC complex,SMARCB1,SMARCC1,12
+BRM-SIN3A-HDAC complex,SMARCB1,SMARCC2,12
+BRM-SIN3A-HDAC complex,SMARCB1,SMARCD1,12
+BRM-SIN3A-HDAC complex,SMARCB1,SMARCD2,12
+BRM-SIN3A-HDAC complex,SMARCB1,SMARCE1,12
+BRM-SIN3A-HDAC complex,SMARCC1,SMARCC2,12
+BRM-SIN3A-HDAC complex,SMARCC1,SMARCD1,12
+BRM-SIN3A-HDAC complex,SMARCC1,SMARCD2,12
+BRM-SIN3A-HDAC complex,SMARCC1,SMARCE1,12
+BRM-SIN3A-HDAC complex,SMARCC2,SMARCD1,12
+BRM-SIN3A-HDAC complex,SMARCC2,SMARCD2,12
+BRM-SIN3A-HDAC complex,SMARCC2,SMARCE1,12
+BRM-SIN3A-HDAC complex,SMARCD1,SMARCD2,12
+BRM-SIN3A-HDAC complex,SMARCD1,SMARCE1,12
+BRM-SIN3A-HDAC complex,SMARCD2,SMARCE1,12
+BRM-associated complex,ACTL6A,SMARCB1,10
+BRM-associated complex,ACTL6A,SMARCC1,10
+BRM-associated complex,ACTL6A,SMARCC2,10
+BRM-associated complex,ACTL6A,SMARCD1,10
+BRM-associated complex,ACTL6A,SMARCD2,10
+BRM-associated complex,ACTL6A,SMARCE1,10
+BRM-associated complex,SMARCB1,SMARCC1,10
+BRM-associated complex,SMARCB1,SMARCC2,10
+BRM-associated complex,SMARCB1,SMARCD1,10
+BRM-associated complex,SMARCB1,SMARCD2,10
+BRM-associated complex,SMARCB1,SMARCE1,10
+BRM-associated complex,SMARCC1,SMARCC2,10
+BRM-associated complex,SMARCC1,SMARCD1,10
+BRM-associated complex,SMARCC1,SMARCD2,10
+BRM-associated complex,SMARCC1,SMARCE1,10
+BRM-associated complex,SMARCC2,SMARCD1,10
+BRM-associated complex,SMARCC2,SMARCD2,10
+BRM-associated complex,SMARCC2,SMARCE1,10
+BRM-associated complex,SMARCD1,SMARCD2,10
+BRM-associated complex,SMARCD1,SMARCE1,10
+BRM-associated complex,SMARCD2,SMARCE1,10
+BRMS1-RBP1 complex,ARID4B,BRMS1,2
+BRMS1-SIN3-HDAC complex,BRMS1,HDAC1,8
+BRMS1-SIN3-HDAC complex,BRMS1,HDAC2,8
+BRMS1-SIN3-HDAC complex,BRMS1,RBBP4,8
+BRMS1-SIN3-HDAC complex,BRMS1,RBBP7,8
+BRMS1-SIN3-HDAC complex,BRMS1,SAP30,8
+BRMS1-SIN3-HDAC complex,BRMS1,SIN3A,8
+BRMS1-SIN3-HDAC complex,BRMS1,SIN3B,8
+BRMS1-SIN3-HDAC complex,HDAC1,HDAC2,8
+BRMS1-SIN3-HDAC complex,HDAC1,RBBP4,8
+BRMS1-SIN3-HDAC complex,HDAC1,RBBP7,8
+BRMS1-SIN3-HDAC complex,HDAC1,SAP30,8
+BRMS1-SIN3-HDAC complex,HDAC1,SIN3A,8
+BRMS1-SIN3-HDAC complex,HDAC1,SIN3B,8
+BRMS1-SIN3-HDAC complex,HDAC2,RBBP4,8
+BRMS1-SIN3-HDAC complex,HDAC2,RBBP7,8
+BRMS1-SIN3-HDAC complex,HDAC2,SAP30,8
+BRMS1-SIN3-HDAC complex,HDAC2,SIN3A,8
+BRMS1-SIN3-HDAC complex,HDAC2,SIN3B,8
+BRMS1-SIN3-HDAC complex,RBBP4,RBBP7,8
+BRMS1-SIN3-HDAC complex,RBBP4,SAP30,8
+BRMS1-SIN3-HDAC complex,RBBP4,SIN3A,8
+BRMS1-SIN3-HDAC complex,RBBP4,SIN3B,8
+BRMS1-SIN3-HDAC complex,RBBP7,SAP30,8
+BRMS1-SIN3-HDAC complex,RBBP7,SIN3A,8
+BRMS1-SIN3-HDAC complex,RBBP7,SIN3B,8
+BRMS1-SIN3-HDAC complex,SAP30,SIN3A,8
+BRMS1-SIN3-HDAC complex,SAP30,SIN3B,8
+BRMS1-SIN3-HDAC complex,SIN3A,SIN3B,8
+Brg1-associated complex I,ACTL6A,SMARCA4,9
+Brg1-associated complex I,ACTL6A,SMARCB1,9
+Brg1-associated complex I,ACTL6A,SMARCC1,9
+Brg1-associated complex I,ACTL6A,SMARCC2,9
+Brg1-associated complex I,ACTL6A,SMARCD1,9
+Brg1-associated complex I,ACTL6A,SMARCE1,9
+Brg1-associated complex I,SMARCA4,SMARCB1,9
+Brg1-associated complex I,SMARCA4,SMARCC1,9
+Brg1-associated complex I,SMARCA4,SMARCC2,9
+Brg1-associated complex I,SMARCA4,SMARCD1,9
+Brg1-associated complex I,SMARCA4,SMARCE1,9
+Brg1-associated complex I,SMARCB1,SMARCC1,9
+Brg1-associated complex I,SMARCB1,SMARCC2,9
+Brg1-associated complex I,SMARCB1,SMARCD1,9
+Brg1-associated complex I,SMARCB1,SMARCE1,9
+Brg1-associated complex I,SMARCC1,SMARCC2,9
+Brg1-associated complex I,SMARCC1,SMARCD1,9
+Brg1-associated complex I,SMARCC1,SMARCE1,9
+Brg1-associated complex I,SMARCC2,SMARCD1,9
+Brg1-associated complex I,SMARCC2,SMARCE1,9
+Brg1-associated complex I,SMARCD1,SMARCE1,9
+Brg1-associated complex II,ACTL6A,SMARCA4,7
+Brg1-associated complex II,ACTL6A,SMARCB1,7
+Brg1-associated complex II,ACTL6A,SMARCC1,7
+Brg1-associated complex II,ACTL6A,SMARCC2,7
+Brg1-associated complex II,SMARCA4,SMARCB1,7
+Brg1-associated complex II,SMARCA4,SMARCC1,7
+Brg1-associated complex II,SMARCA4,SMARCC2,7
+Brg1-associated complex II,SMARCB1,SMARCC1,7
+Brg1-associated complex II,SMARCB1,SMARCC2,7
+Brg1-associated complex II,SMARCC1,SMARCC2,7
+Brg1-based SWI/SNF complex,ACTL6A,SMARCB1,4
+Brg1-based SWI/SNF complex,ACTL6A,SMARCC1,4
+Brg1-based SWI/SNF complex,ACTL6A,SMARCC2,4
+Brg1-based SWI/SNF complex,SMARCB1,SMARCC1,4
+Brg1-based SWI/SNF complex,SMARCB1,SMARCC2,4
+Brg1-based SWI/SNF complex,SMARCC1,SMARCC2,4
+Brm-associated complex,ACTL6A,SMARCB1,9
+Brm-associated complex,ACTL6A,SMARCC1,9
+Brm-associated complex,ACTL6A,SMARCC2,9
+Brm-associated complex,ACTL6A,SMARCD1,9
+Brm-associated complex,ACTL6A,SMARCE1,9
+Brm-associated complex,SMARCB1,SMARCC1,9
+Brm-associated complex,SMARCB1,SMARCC2,9
+Brm-associated complex,SMARCB1,SMARCD1,9
+Brm-associated complex,SMARCB1,SMARCE1,9
+Brm-associated complex,SMARCC1,SMARCC2,9
+Brm-associated complex,SMARCC1,SMARCD1,9
+Brm-associated complex,SMARCC1,SMARCE1,9
+Brm-associated complex,SMARCC2,SMARCD1,9
+Brm-associated complex,SMARCC2,SMARCE1,9
+Brm-associated complex,SMARCD1,SMARCE1,9
+C complex spliceosome,AQR,CACTIN,80
+C complex spliceosome,AQR,DDX23,80
+C complex spliceosome,AQR,EFTUD2,80
+C complex spliceosome,AQR,LSM2,80
+C complex spliceosome,AQR,MTREX,80
+C complex spliceosome,AQR,PRPF6,80
+C complex spliceosome,AQR,PRPF8,80
+C complex spliceosome,AQR,SART1,80
+C complex spliceosome,AQR,SNRNP200,80
+C complex spliceosome,CACTIN,DDX23,80
+C complex spliceosome,CACTIN,EFTUD2,80
+C complex spliceosome,CACTIN,LSM2,80
+C complex spliceosome,CACTIN,MTREX,80
+C complex spliceosome,CACTIN,PRPF6,80
+C complex spliceosome,CACTIN,PRPF8,80
+C complex spliceosome,CACTIN,SART1,80
+C complex spliceosome,CACTIN,SNRNP200,80
+C complex spliceosome,DDX23,EFTUD2,80
+C complex spliceosome,DDX23,LSM2,80
+C complex spliceosome,DDX23,MTREX,80
+C complex spliceosome,DDX23,PRPF6,80
+C complex spliceosome,DDX23,PRPF8,80
+C complex spliceosome,DDX23,SART1,80
+C complex spliceosome,DDX23,SNRNP200,80
+C complex spliceosome,EFTUD2,LSM2,80
+C complex spliceosome,EFTUD2,MTREX,80
+C complex spliceosome,EFTUD2,PRPF6,80
+C complex spliceosome,EFTUD2,PRPF8,80
+C complex spliceosome,EFTUD2,SART1,80
+C complex spliceosome,EFTUD2,SNRNP200,80
+C complex spliceosome,LSM2,MTREX,80
+C complex spliceosome,LSM2,PRPF6,80
+C complex spliceosome,LSM2,PRPF8,80
+C complex spliceosome,LSM2,SART1,80
+C complex spliceosome,LSM2,SNRNP200,80
+C complex spliceosome,MTREX,PRPF6,80
+C complex spliceosome,MTREX,PRPF8,80
+C complex spliceosome,MTREX,SART1,80
+C complex spliceosome,MTREX,SNRNP200,80
+C complex spliceosome,PRPF6,PRPF8,80
+C complex spliceosome,PRPF6,SART1,80
+C complex spliceosome,PRPF6,SNRNP200,80
+C complex spliceosome,PRPF8,SART1,80
+C complex spliceosome,PRPF8,SNRNP200,80
+C complex spliceosome,SART1,SNRNP200,80
+CAMK2-delta-MASH1 promoter-coactivator complex,CAMK2D,CREBBP,8
+CAMK2-delta-MASH1 promoter-coactivator complex,CAMK2D,POLR2A,8
+CAMK2-delta-MASH1 promoter-coactivator complex,CREBBP,POLR2A,8
+CAND1-CUL2-RBX1 complex,CAND1,CUL2,3
+CAND1-CUL3-RBX1 complex,CAND1,CUL3,3
+CART complex,ACTN4,MYO5B,4
+CBC complex (cap binding complex),NCBP1,NCBP2,2
+CBF1-HDAC1-SMRT complex,HDAC1,NCOR2,3
+CBP80/20- dependent translation complex,NCBP1,NCBP2,6
+CCR4-NOT complex,CNOT1,CNOT10,9
+CCR4-NOT complex,CNOT1,CNOT11,9
+CCR4-NOT complex,CNOT1,CNOT2,9
+CCR4-NOT complex,CNOT1,CNOT3,9
+CCR4-NOT complex,CNOT1,CNOT9,9
+CCR4-NOT complex,CNOT10,CNOT11,9
+CCR4-NOT complex,CNOT10,CNOT2,9
+CCR4-NOT complex,CNOT10,CNOT3,9
+CCR4-NOT complex,CNOT10,CNOT9,9
+CCR4-NOT complex,CNOT11,CNOT2,9
+CCR4-NOT complex,CNOT11,CNOT3,9
+CCR4-NOT complex,CNOT11,CNOT9,9
+CCR4-NOT complex,CNOT2,CNOT3,9
+CCR4-NOT complex,CNOT2,CNOT9,9
+CCR4-NOT complex,CNOT3,CNOT9,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT1,CNOT10,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT1,CNOT11,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT1,CNOT2,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT1,CNOT3,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT1,CNOT9,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT10,CNOT11,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT10,CNOT2,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT10,CNOT3,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT10,CNOT9,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT11,CNOT2,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT11,CNOT3,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT11,CNOT9,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT2,CNOT3,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT2,CNOT9,9
+CCR4-NOT-CNOT7-CNOT6 complex,CNOT3,CNOT9,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT1,CNOT10,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT1,CNOT11,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT1,CNOT2,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT1,CNOT3,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT1,CNOT9,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT10,CNOT11,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT10,CNOT2,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT10,CNOT3,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT10,CNOT9,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT11,CNOT2,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT11,CNOT3,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT11,CNOT9,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT2,CNOT3,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT2,CNOT9,9
+CCR4-NOT-CNOT7-CNOT6L complex,CNOT3,CNOT9,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT1,CNOT10,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT1,CNOT11,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT1,CNOT2,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT1,CNOT3,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT1,CNOT9,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT10,CNOT11,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT10,CNOT2,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT10,CNOT3,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT10,CNOT9,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT11,CNOT2,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT11,CNOT3,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT11,CNOT9,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT2,CNOT3,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT2,CNOT9,9
+CCR4-NOT-CNOT8-CNOT6 complex,CNOT3,CNOT9,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT1,CNOT10,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT1,CNOT11,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT1,CNOT2,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT1,CNOT3,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT1,CNOT9,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT10,CNOT11,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT10,CNOT2,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT10,CNOT3,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT10,CNOT9,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT11,CNOT2,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT11,CNOT3,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT11,CNOT9,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT2,CNOT3,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT2,CNOT9,9
+CCR4-NOT-CNOT8-CNOT6L complex,CNOT3,CNOT9,9
+CDC5L complex,DYNC1H1,GCN1,30
+CDC5L complex,DYNC1H1,PRKDC,30
+CDC5L complex,DYNC1H1,SNRPA,30
+CDC5L complex,DYNC1H1,TCF4,30
+CDC5L complex,DYNC1H1,TOP2A,30
+CDC5L complex,GCN1,PRKDC,30
+CDC5L complex,GCN1,SNRPA,30
+CDC5L complex,GCN1,TCF4,30
+CDC5L complex,GCN1,TOP2A,30
+CDC5L complex,PRKDC,SNRPA,30
+CDC5L complex,PRKDC,TCF4,30
+CDC5L complex,PRKDC,TOP2A,30
+CDC5L complex,SNRPA,TCF4,30
+CDC5L complex,SNRPA,TOP2A,30
+CDC5L complex,TCF4,TOP2A,30
+CDH4-HDAC2-MTA2-RBBP7-TWIST1 complex,CHD4,HDAC2,5
+CDH4-HDAC2-MTA2-RBBP7-TWIST1 complex,CHD4,MTA2,5
+CDH4-HDAC2-MTA2-RBBP7-TWIST1 complex,CHD4,RBBP7,5
+CDH4-HDAC2-MTA2-RBBP7-TWIST1 complex,HDAC2,MTA2,5
+CDH4-HDAC2-MTA2-RBBP7-TWIST1 complex,HDAC2,RBBP7,5
+CDH4-HDAC2-MTA2-RBBP7-TWIST1 complex,MTA2,RBBP7,5
+CEN complex,DDB1,RACGAP1,37
+CEN complex,DDB1,SUPT16H,37
+CEN complex,DDB1,VIRMA,37
+CEN complex,DDB1,WDR11,37
+CEN complex,DDB1,WTAP,37
+CEN complex,DDB1,ZC3H13,37
+CEN complex,RACGAP1,SUPT16H,37
+CEN complex,RACGAP1,VIRMA,37
+CEN complex,RACGAP1,WDR11,37
+CEN complex,RACGAP1,WTAP,37
+CEN complex,RACGAP1,ZC3H13,37
+CEN complex,SUPT16H,VIRMA,37
+CEN complex,SUPT16H,WDR11,37
+CEN complex,SUPT16H,WTAP,37
+CEN complex,SUPT16H,ZC3H13,37
+CEN complex,VIRMA,WDR11,37
+CEN complex,VIRMA,WTAP,37
+CEN complex,VIRMA,ZC3H13,37
+CEN complex,WDR11,WTAP,37
+CEN complex,WDR11,ZC3H13,37
+CEN complex,WTAP,ZC3H13,37
+CF IIAm complex (Cleavage factor IIAm complex),CPSF3,ERCC3,16
+CF IIAm complex (Cleavage factor IIAm complex),CPSF3,GTF2H4,16
+CF IIAm complex (Cleavage factor IIAm complex),CPSF3,MRE11,16
+CF IIAm complex (Cleavage factor IIAm complex),CPSF3,TJP1,16
+CF IIAm complex (Cleavage factor IIAm complex),ERCC3,GTF2H4,16
+CF IIAm complex (Cleavage factor IIAm complex),ERCC3,MRE11,16
+CF IIAm complex (Cleavage factor IIAm complex),ERCC3,TJP1,16
+CF IIAm complex (Cleavage factor IIAm complex),GTF2H4,MRE11,16
+CF IIAm complex (Cleavage factor IIAm complex),GTF2H4,TJP1,16
+CF IIAm complex (Cleavage factor IIAm complex),MRE11,TJP1,16
+"CIA targeting (MIP18, CIAO1, MMS19) complex",CIAO1,MMS19,3
+CNOT1-CNOT2-CNOT3 complex,CNOT1,CNOT2,3
+CNOT1-CNOT2-CNOT3 complex,CNOT1,CNOT3,3
+CNOT1-CNOT2-CNOT3 complex,CNOT2,CNOT3,3
+CNS-P53 complex,COPS2,COPS4,9
+CNS-P53 complex,COPS2,GPS1,9
+CNS-P53 complex,COPS2,TP53,9
+CNS-P53 complex,COPS4,GPS1,9
+CNS-P53 complex,COPS4,TP53,9
+CNS-P53 complex,GPS1,TP53,9
+COP9 signalosome complex,COPS2,COPS4,8
+COP9 signalosome complex,COPS2,GPS1,8
+COP9 signalosome complex,COPS4,GPS1,8
+CPSF6-EWSR1-ITCH-NUDT21-POLR2A-UBAP2L complex,ITCH,POLR2A,6
+CPSF6-EWSR1-ITCH-NUDT21-POLR2A-UBAP2L complex,ITCH,UBAP2L,6
+CPSF6-EWSR1-ITCH-NUDT21-POLR2A-UBAP2L complex,POLR2A,UBAP2L,6
+CPSF6-ITCH-NUDT21-POLR2A complex,ITCH,POLR2A,4
+CPSF6-ITCH-NUDT21-POLR2A-UBAP2L complex,ITCH,POLR2A,5
+CPSF6-ITCH-NUDT21-POLR2A-UBAP2L complex,ITCH,UBAP2L,5
+CPSF6-ITCH-NUDT21-POLR2A-UBAP2L complex,POLR2A,UBAP2L,5
+CREBBP-SMAD2 hexameric complex,CREBBP,SMAD2,2
+CREBBP-SMAD2-SMAD4 pentameric complex,CREBBP,SMAD2,3
+CREBBP-SMAD2-SMAD4 pentameric complex,CREBBP,SMAD4,3
+CREBBP-SMAD2-SMAD4 pentameric complex,SMAD2,SMAD4,3
+CREBBP-SMAD3-SMAD4 pentameric complex,CREBBP,SMAD4,3
+CRM1-RAN-PHAX-CBC complex (cap binding complex),NCBP1,NCBP2,5
+CRM1-RAN-PHAX-CBC complex (cap binding complex),NCBP1,XPO1,5
+CRM1-RAN-PHAX-CBC complex (cap binding complex),NCBP2,XPO1,5
+CRSP complex,MED1,MED14,12
+CRSP complex,MED1,MED17,12
+CRSP complex,MED1,MED23,12
+CRSP complex,MED1,MED24,12
+CRSP complex,MED1,MED26,12
+CRSP complex,MED1,MED15,12
+CRSP complex,MED14,MED17,12
+CRSP complex,MED14,MED23,12
+CRSP complex,MED14,MED24,12
+CRSP complex,MED14,MED26,12
+CRSP complex,MED14,MED15,12
+CRSP complex,MED17,MED23,12
+CRSP complex,MED17,MED24,12
+CRSP complex,MED17,MED26,12
+CRSP complex,MED23,MED24,12
+CRSP complex,MED23,MED26,12
+CRSP complex,MED24,MED26,12
+CRSP complex,MED15,MED17,12
+CRSP complex,MED15,MED23,12
+CRSP complex,MED15,MED24,12
+CRSP complex,MED15,MED26,12
+CRSP-Mediator 2 complex,MED14,MED15,10
+CRSP-Mediator 2 complex,MED14,MED16,10
+CRSP-Mediator 2 complex,MED14,MED17,10
+CRSP-Mediator 2 complex,MED14,MED23,10
+CRSP-Mediator 2 complex,MED14,MED24,10
+CRSP-Mediator 2 complex,MED14,MED4,10
+CRSP-Mediator 2 complex,MED15,MED16,10
+CRSP-Mediator 2 complex,MED15,MED17,10
+CRSP-Mediator 2 complex,MED15,MED23,10
+CRSP-Mediator 2 complex,MED15,MED24,10
+CRSP-Mediator 2 complex,MED15,MED4,10
+CRSP-Mediator 2 complex,MED16,MED17,10
+CRSP-Mediator 2 complex,MED16,MED23,10
+CRSP-Mediator 2 complex,MED16,MED24,10
+CRSP-Mediator 2 complex,MED16,MED4,10
+CRSP-Mediator 2 complex,MED17,MED23,10
+CRSP-Mediator 2 complex,MED17,MED24,10
+CRSP-Mediator 2 complex,MED17,MED4,10
+CRSP-Mediator 2 complex,MED23,MED24,10
+CRSP-Mediator 2 complex,MED23,MED4,10
+CRSP-Mediator 2 complex,MED24,MED4,10
+CSA complex,COPS2,COPS4,12
+CSA complex,COPS2,DDB1,12
+CSA complex,COPS2,GPS1,12
+CSA complex,COPS4,DDB1,12
+CSA complex,COPS4,GPS1,12
+CSA complex,DDB1,GPS1,12
+CSA-POLIIa complex,COPS2,COPS4,13
+CSA-POLIIa complex,COPS2,DDB1,13
+CSA-POLIIa complex,COPS2,GPS1,13
+CSA-POLIIa complex,COPS2,POLR2A,13
+CSA-POLIIa complex,COPS4,DDB1,13
+CSA-POLIIa complex,COPS4,GPS1,13
+CSA-POLIIa complex,COPS4,POLR2A,13
+CSA-POLIIa complex,DDB1,GPS1,13
+CSA-POLIIa complex,DDB1,POLR2A,13
+CSA-POLIIa complex,GPS1,POLR2A,13
+CTCF-nucleophosmin-PARP-HIS-KPNA-LMNA-TOP complex,KPNA1,KPNA3,9
+CTCF-nucleophosmin-PARP-HIS-KPNA-LMNA-TOP complex,KPNA1,LMNA,9
+CTCF-nucleophosmin-PARP-HIS-KPNA-LMNA-TOP complex,KPNA1,TOP2A,9
+CTCF-nucleophosmin-PARP-HIS-KPNA-LMNA-TOP complex,KPNA3,LMNA,9
+CTCF-nucleophosmin-PARP-HIS-KPNA-LMNA-TOP complex,KPNA3,TOP2A,9
+CTCF-nucleophosmin-PARP-HIS-KPNA-LMNA-TOP complex,LMNA,TOP2A,9
+CTLH complex,ARMC8,MAEA,5
+CTLH complex,ARMC8,MKLN1,5
+CTLH complex,ARMC8,RANBP9,5
+CTLH complex,ARMC8,RMND5A,5
+CTLH complex,MAEA,MKLN1,5
+CTLH complex,MAEA,RANBP9,5
+CTLH complex,MAEA,RMND5A,5
+CTLH complex,MKLN1,RANBP9,5
+CTLH complex,MKLN1,RMND5A,5
+CTLH complex,RANBP9,RMND5A,5
+CTNNA1-CTNNB1 complex,CTNNA1,CTNNB1,2
+CTNNB1-EPCAM-FHL2-LEF1 complex,CTNNB1,FHL2,4
+CTNNB1-EPCAM-FHL2-LEF1 complex,CTNNB1,LEF1,4
+CTNNB1-EPCAM-FHL2-LEF1 complex,FHL2,LEF1,4
+CTNNB1-FERMT2-TCF7L2 complex,CTNNB1,TCF7L2,3
+CTNNB1-GID8 complex,CTNNB1,GID8,2
+CUL4A-DDB1-RBBP5 complex,DDB1,RBBP5,3
+CUL4A-DDB1-WDR61 complex,DDB1,WDR61,3
+CUL4B-DDB1-DTL-CSN complex,COPS2,DDB1,5
+CUL4B-DDB1-DTL-CSN complex,COPS2,GPS1,5
+CUL4B-DDB1-DTL-CSN complex,DDB1,GPS1,5
+CUL4B-DDB1-WDR26 complex,DDB1,WDR26,3
+Chromatin assembly complex (CAF-1 complex),CHAF1B,RBBP4,3
+Cleavage and polyadenylation factor (CPSF),CPSF1,CPSF2,5
+Cleavage and polyadenylation factor (CPSF),CPSF1,CPSF3,5
+Cleavage and polyadenylation factor (CPSF),CPSF1,CPSF4,5
+Cleavage and polyadenylation factor (CPSF),CPSF2,CPSF3,5
+Cleavage and polyadenylation factor (CPSF),CPSF2,CPSF4,5
+Cleavage and polyadenylation factor (CPSF),CPSF3,CPSF4,5
+CoREST-HDAC complex,HDAC1,HDAC2,7
+CoREST-HDAC complex,HDAC1,HMG20B,7
+CoREST-HDAC complex,HDAC1,KDM1A,7
+CoREST-HDAC complex,HDAC1,PHF21A,7
+CoREST-HDAC complex,HDAC1,RCOR1,7
+CoREST-HDAC complex,HDAC2,HMG20B,7
+CoREST-HDAC complex,HDAC2,KDM1A,7
+CoREST-HDAC complex,HDAC2,PHF21A,7
+CoREST-HDAC complex,HDAC2,RCOR1,7
+CoREST-HDAC complex,HMG20B,KDM1A,7
+CoREST-HDAC complex,HMG20B,PHF21A,7
+CoREST-HDAC complex,HMG20B,RCOR1,7
+CoREST-HDAC complex,KDM1A,PHF21A,7
+CoREST-HDAC complex,KDM1A,RCOR1,7
+CoREST-HDAC complex,PHF21A,RCOR1,7
+CoREST-HDAC2 complex,HDAC2,RCOR1,2
+Cohesin-SA1 complex,RAD21,SMC1A,4
+Cohesin-SA1 complex,RAD21,SMC3,4
+Cohesin-SA1 complex,SMC1A,SMC3,4
+Cohesin-SA2 complex,RAD21,SMC1A,4
+Cohesin-SA2 complex,RAD21,SMC3,4
+Cohesin-SA2 complex,RAD21,STAG2,4
+Cohesin-SA2 complex,SMC1A,SMC3,4
+Cohesin-SA2 complex,SMC1A,STAG2,4
+Cohesin-SA2 complex,SMC3,STAG2,4
+CtBP complex,CTBP1,CTBP2,17
+CtBP complex,CTBP1,EHMT1,17
+CtBP complex,CTBP1,EHMT2,17
+CtBP complex,CTBP1,HDAC1,17
+CtBP complex,CTBP1,HDAC2,17
+CtBP complex,CTBP1,KDM1A,17
+CtBP complex,CTBP1,RCOR1,17
+CtBP complex,CTBP1,RCOR3,17
+CtBP complex,CTBP2,EHMT1,17
+CtBP complex,CTBP2,EHMT2,17
+CtBP complex,CTBP2,HDAC1,17
+CtBP complex,CTBP2,HDAC2,17
+CtBP complex,CTBP2,KDM1A,17
+CtBP complex,CTBP2,RCOR1,17
+CtBP complex,CTBP2,RCOR3,17
+CtBP complex,EHMT1,EHMT2,17
+CtBP complex,EHMT1,HDAC1,17
+CtBP complex,EHMT1,HDAC2,17
+CtBP complex,EHMT1,KDM1A,17
+CtBP complex,EHMT1,RCOR1,17
+CtBP complex,EHMT1,RCOR3,17
+CtBP complex,EHMT2,HDAC1,17
+CtBP complex,EHMT2,HDAC2,17
+CtBP complex,EHMT2,KDM1A,17
+CtBP complex,EHMT2,RCOR1,17
+CtBP complex,EHMT2,RCOR3,17
+CtBP complex,HDAC1,HDAC2,17
+CtBP complex,HDAC1,KDM1A,17
+CtBP complex,HDAC1,RCOR1,17
+CtBP complex,HDAC1,RCOR3,17
+CtBP complex,HDAC2,KDM1A,17
+CtBP complex,HDAC2,RCOR1,17
+CtBP complex,HDAC2,RCOR3,17
+CtBP complex,KDM1A,RCOR1,17
+CtBP complex,KDM1A,RCOR3,17
+CtBP complex,RCOR1,RCOR3,17
+CtBP core complex,CTBP1,CTBP2,9
+CtBP core complex,CTBP1,EHMT1,9
+CtBP core complex,CTBP1,EHMT2,9
+CtBP core complex,CTBP1,HDAC1,9
+CtBP core complex,CTBP1,HDAC2,9
+CtBP core complex,CTBP1,KDM1A,9
+CtBP core complex,CTBP1,RCOR1,9
+CtBP core complex,CTBP2,EHMT1,9
+CtBP core complex,CTBP2,EHMT2,9
+CtBP core complex,CTBP2,HDAC1,9
+CtBP core complex,CTBP2,HDAC2,9
+CtBP core complex,CTBP2,KDM1A,9
+CtBP core complex,CTBP2,RCOR1,9
+CtBP core complex,EHMT1,EHMT2,9
+CtBP core complex,EHMT1,HDAC1,9
+CtBP core complex,EHMT1,HDAC2,9
+CtBP core complex,EHMT1,KDM1A,9
+CtBP core complex,EHMT1,RCOR1,9
+CtBP core complex,EHMT2,HDAC1,9
+CtBP core complex,EHMT2,HDAC2,9
+CtBP core complex,EHMT2,KDM1A,9
+CtBP core complex,EHMT2,RCOR1,9
+CtBP core complex,HDAC1,HDAC2,9
+CtBP core complex,HDAC1,KDM1A,9
+CtBP core complex,HDAC1,RCOR1,9
+CtBP core complex,HDAC2,KDM1A,9
+CtBP core complex,HDAC2,RCOR1,9
+CtBP core complex,KDM1A,RCOR1,9
+DAXX-Axin-p53-HIPK2 complex,AXIN1,TP53,4
+DBC1-SIRT1 complex,CCAR2,SIRT1,2
+DCP1A-DCP2 Decapping complex,DCP1A,DCP2,2
+DCP1A-NR3C1-PNRC2-UPF1-complex,DCP1A,UPF1,4
+DCX DET1-COP1,COP1,DDB1,5
+DDB2 complex,COPS2,COPS4,12
+DDB2 complex,COPS2,DDB1,12
+DDB2 complex,COPS2,GPS1,12
+DDB2 complex,COPS4,DDB1,12
+DDB2 complex,COPS4,GPS1,12
+DDB2 complex,DDB1,GPS1,12
+DDX11-RAD21-SMC1A-SMC3 complex,RAD21,SMC1A,4
+DDX11-RAD21-SMC1A-SMC3 complex,RAD21,SMC3,4
+DDX11-RAD21-SMC1A-SMC3 complex,SMC1A,SMC3,4
+DEAF1- complex,DEAF1,XRCC5,3
+DHX9-ADAR-vigilin-DNA-PK-Ku antigen complex,HDLBP,PRKDC,6
+DHX9-ADAR-vigilin-DNA-PK-Ku antigen complex,HDLBP,XRCC5,6
+DHX9-ADAR-vigilin-DNA-PK-Ku antigen complex,PRKDC,XRCC5,6
+DICER1-NCOA6-AGO2 complex,AGO2,NCOA6,3
+DLL1-CTNNB1-CDH2 complex,CDH2,CTNNB1,3
+DMAP1-associated complex,ACTL6A,RUVBL1,10
+DMAP1-associated complex,ACTL6A,RUVBL2,10
+DMAP1-associated complex,ACTL6A,TRRAP,10
+DMAP1-associated complex,RUVBL1,RUVBL2,10
+DMAP1-associated complex,RUVBL1,TRRAP,10
+DMAP1-associated complex,RUVBL2,TRRAP,10
+DNA double-strand break end-joining complex,MRE11,NBN,7
+DNA double-strand break end-joining complex,MRE11,RAD50,7
+DNA double-strand break end-joining complex,MRE11,XRCC5,7
+DNA double-strand break end-joining complex,NBN,RAD50,7
+DNA double-strand break end-joining complex,NBN,XRCC5,7
+DNA double-strand break end-joining complex,RAD50,XRCC5,7
+DNA ligase III-XRCC1 complex,LIG3,XRCC1,2
+DNA ligase III-XRCC1-PNK-DNA-pol III multiprotein complex,LIG3,PNKP,4
+DNA ligase III-XRCC1-PNK-DNA-pol III multiprotein complex,LIG3,POLB,4
+DNA ligase III-XRCC1-PNK-DNA-pol III multiprotein complex,LIG3,XRCC1,4
+DNA ligase III-XRCC1-PNK-DNA-pol III multiprotein complex,PNKP,POLB,4
+DNA ligase III-XRCC1-PNK-DNA-pol III multiprotein complex,PNKP,XRCC1,4
+DNA ligase III-XRCC1-PNK-DNA-pol III multiprotein complex,POLB,XRCC1,4
+DNA repair complex NEIL1-PNK-Pol(beta)-LigIII(alpha)-XRCC1,LIG3,POLB,5
+DNA repair complex NEIL1-PNK-Pol(beta)-LigIII(alpha)-XRCC1,LIG3,XRCC1,5
+DNA repair complex NEIL1-PNK-Pol(beta)-LigIII(alpha)-XRCC1,POLB,XRCC1,5
+DNA repair complex NEIL2-PNK-Pol(beta)-LigIII(alpha)-XRCC1,LIG3,POLB,5
+DNA repair complex NEIL2-PNK-Pol(beta)-LigIII(alpha)-XRCC1,LIG3,XRCC1,5
+DNA repair complex NEIL2-PNK-Pol(beta)-LigIII(alpha)-XRCC1,POLB,XRCC1,5
+DNA synthesome complex (13 subunits),POLD1,RFC1,13
+DNA synthesome complex (13 subunits),POLD1,TOP2A,13
+DNA synthesome complex (13 subunits),RFC1,TOP2A,13
+DNA synthesome complex (15 subunits),POLD1,POLE,15
+DNA synthesome complex (15 subunits),POLD1,RFC1,15
+DNA synthesome complex (15 subunits),POLE,RFC1,15
+DNA synthesome complex (17 subunits),POLD1,POLE,17
+DNA synthesome complex (17 subunits),POLD1,RFC1,17
+DNA synthesome complex (17 subunits),POLD1,TOP2A,17
+DNA synthesome complex (17 subunits),POLE,RFC1,17
+DNA synthesome complex (17 subunits),POLE,TOP2A,17
+DNA synthesome complex (17 subunits),RFC1,TOP2A,17
+DNA synthesome core complex,POLD1,RFC1,10
+DNA-PK-Ku-eIF2-NF90-NF45 complex,PRKDC,XRCC5,8
+DNMT1-RB1-HDAC1-E2F1 complex,HDAC1,RB1,4
+DNMT3B complex,HDAC1,SIN3A,7
+DNTTIP1-ZNF541-HDAC1-HDAC2 complex,DNTTIP1,HDAC1,4
+DNTTIP1-ZNF541-HDAC1-HDAC2 complex,DNTTIP1,HDAC2,4
+DNTTIP1-ZNF541-HDAC1-HDAC2 complex,HDAC1,HDAC2,4
+DRIP complex,MED1,MED12,14
+DRIP complex,MED1,MED14,14
+DRIP complex,MED1,MED16,14
+DRIP complex,MED1,MED17,14
+DRIP complex,MED1,MED23,14
+DRIP complex,MED1,MED24,14
+DRIP complex,MED1,MED26,14
+DRIP complex,MED1,MED4,14
+DRIP complex,MED12,MED14,14
+DRIP complex,MED12,MED16,14
+DRIP complex,MED12,MED17,14
+DRIP complex,MED12,MED23,14
+DRIP complex,MED12,MED24,14
+DRIP complex,MED12,MED26,14
+DRIP complex,MED12,MED4,14
+DRIP complex,MED14,MED16,14
+DRIP complex,MED14,MED17,14
+DRIP complex,MED14,MED23,14
+DRIP complex,MED14,MED24,14
+DRIP complex,MED14,MED26,14
+DRIP complex,MED14,MED4,14
+DRIP complex,MED16,MED17,14
+DRIP complex,MED16,MED23,14
+DRIP complex,MED16,MED24,14
+DRIP complex,MED16,MED26,14
+DRIP complex,MED16,MED4,14
+DRIP complex,MED17,MED23,14
+DRIP complex,MED17,MED24,14
+DRIP complex,MED17,MED26,14
+DRIP complex,MED17,MED4,14
+DRIP complex,MED23,MED24,14
+DRIP complex,MED23,MED26,14
+DRIP complex,MED23,MED4,14
+DRIP complex,MED24,MED26,14
+DRIP complex,MED24,MED4,14
+DRIP complex,MED26,MED4,14
+Daxx-Axin-p53 complex,AXIN1,TP53,3
+Decapping complex,DCP1A,DCP2,5
+Decapping complex,DCP1A,EDC3,5
+Decapping complex,DCP1A,EDC4,5
+Decapping complex,DCP2,EDC3,5
+Decapping complex,DCP2,EDC4,5
+Decapping complex,EDC3,EDC4,5
+Dynein complex,DYNC1H1,DYNC1LI1,4
+Dynein-dynactin complex,DYNC1H1,DYNC1LI1,5
+Dysbindin 1-A-DNA-PK-complex,PRKDC,XRCC5,4
+E2F-6 complex,EHMT1,EHMT2,12
+E6AP-HERC2-MAPK6-NEURL4 complex,HERC2,NEURL4,4
+EBAFa complex,ACTL6A,SMARCA4,10
+EBAFa complex,ACTL6A,SMARCB1,10
+EBAFa complex,ACTL6A,SMARCC1,10
+EBAFa complex,ACTL6A,SMARCC2,10
+EBAFa complex,ACTL6A,SMARCD1,10
+EBAFa complex,ACTL6A,SMARCD2,10
+EBAFa complex,ACTL6A,SMARCE1,10
+EBAFa complex,SMARCA4,SMARCB1,10
+EBAFa complex,SMARCA4,SMARCC1,10
+EBAFa complex,SMARCA4,SMARCC2,10
+EBAFa complex,SMARCA4,SMARCD1,10
+EBAFa complex,SMARCA4,SMARCD2,10
+EBAFa complex,SMARCA4,SMARCE1,10
+EBAFa complex,SMARCB1,SMARCC1,10
+EBAFa complex,SMARCB1,SMARCC2,10
+EBAFa complex,SMARCB1,SMARCD1,10
+EBAFa complex,SMARCB1,SMARCD2,10
+EBAFa complex,SMARCB1,SMARCE1,10
+EBAFa complex,SMARCC1,SMARCC2,10
+EBAFa complex,SMARCC1,SMARCD1,10
+EBAFa complex,SMARCC1,SMARCD2,10
+EBAFa complex,SMARCC1,SMARCE1,10
+EBAFa complex,SMARCC2,SMARCD1,10
+EBAFa complex,SMARCC2,SMARCD2,10
+EBAFa complex,SMARCC2,SMARCE1,10
+EBAFa complex,SMARCD1,SMARCD2,10
+EBAFa complex,SMARCD1,SMARCE1,10
+EBAFa complex,SMARCD2,SMARCE1,10
+EBAFb complex,ACTL6A,ARID1B,10
+EBAFb complex,ACTL6A,SMARCA4,10
+EBAFb complex,ACTL6A,SMARCB1,10
+EBAFb complex,ACTL6A,SMARCC1,10
+EBAFb complex,ACTL6A,SMARCC2,10
+EBAFb complex,ACTL6A,SMARCD1,10
+EBAFb complex,ACTL6A,SMARCD2,10
+EBAFb complex,ACTL6A,SMARCE1,10
+EBAFb complex,ARID1B,SMARCA4,10
+EBAFb complex,ARID1B,SMARCB1,10
+EBAFb complex,ARID1B,SMARCC1,10
+EBAFb complex,ARID1B,SMARCC2,10
+EBAFb complex,ARID1B,SMARCD1,10
+EBAFb complex,ARID1B,SMARCD2,10
+EBAFb complex,ARID1B,SMARCE1,10
+EBAFb complex,SMARCA4,SMARCB1,10
+EBAFb complex,SMARCA4,SMARCC1,10
+EBAFb complex,SMARCA4,SMARCC2,10
+EBAFb complex,SMARCA4,SMARCD1,10
+EBAFb complex,SMARCA4,SMARCD2,10
+EBAFb complex,SMARCA4,SMARCE1,10
+EBAFb complex,SMARCB1,SMARCC1,10
+EBAFb complex,SMARCB1,SMARCC2,10
+EBAFb complex,SMARCB1,SMARCD1,10
+EBAFb complex,SMARCB1,SMARCD2,10
+EBAFb complex,SMARCB1,SMARCE1,10
+EBAFb complex,SMARCC1,SMARCC2,10
+EBAFb complex,SMARCC1,SMARCD1,10
+EBAFb complex,SMARCC1,SMARCD2,10
+EBAFb complex,SMARCC1,SMARCE1,10
+EBAFb complex,SMARCC2,SMARCD1,10
+EBAFb complex,SMARCC2,SMARCD2,10
+EBAFb complex,SMARCC2,SMARCE1,10
+EBAFb complex,SMARCD1,SMARCD2,10
+EBAFb complex,SMARCD1,SMARCE1,10
+EBAFb complex,SMARCD2,SMARCE1,10
+"EIF3 complex (EIF3A, EIF3B, EIF3G, EIF3I, EIF3C)",EIF3A,EIF3G,5
+"EIF3 complex (EIF3A, EIF3B, EIF3G, EIF3I, EIF3C)",EIF3A,EIF3I,5
+"EIF3 complex (EIF3A, EIF3B, EIF3G, EIF3I, EIF3C)",EIF3G,EIF3I,5
+"EIF3 complex (EIF3A, EIF3B, EIF3G, EIF3I, EIF3J)",EIF3A,EIF3G,5
+"EIF3 complex (EIF3A, EIF3B, EIF3G, EIF3I, EIF3J)",EIF3A,EIF3I,5
+"EIF3 complex (EIF3A, EIF3B, EIF3G, EIF3I, EIF3J)",EIF3G,EIF3I,5
+"EIF3 complex (EIF3B, EIF3G, EIF3I)",EIF3G,EIF3I,3
+"EIF3 core complex (EIF3A, EIF3B, EIF3G, EIF3I)",EIF3A,EIF3G,4
+"EIF3 core complex (EIF3A, EIF3B, EIF3G, EIF3I)",EIF3A,EIF3I,4
+"EIF3 core complex (EIF3A, EIF3B, EIF3G, EIF3I)",EIF3G,EIF3I,4
+ESR1-CDK7-CCNH-MNAT1-MTA1-HDAC2 complex,HDAC2,MTA1,6
+ESR1-RELA-BCL3-NCOA3 complex,NCOA3,RELA,4
+ESR1-TRAP/Mediator coactivator-complex,EP300,MED1,18
+ESR1-TRAP/Mediator coactivator-complex,EP300,MED12,18
+ESR1-TRAP/Mediator coactivator-complex,EP300,MED14,18
+ESR1-TRAP/Mediator coactivator-complex,EP300,MED16,18
+ESR1-TRAP/Mediator coactivator-complex,EP300,MED17,18
+ESR1-TRAP/Mediator coactivator-complex,EP300,MED20,18
+ESR1-TRAP/Mediator coactivator-complex,EP300,MED23,18
+ESR1-TRAP/Mediator coactivator-complex,EP300,MED24,18
+ESR1-TRAP/Mediator coactivator-complex,EP300,NCOA1,18
+ESR1-TRAP/Mediator coactivator-complex,MED1,MED12,18
+ESR1-TRAP/Mediator coactivator-complex,MED1,MED14,18
+ESR1-TRAP/Mediator coactivator-complex,MED1,MED16,18
+ESR1-TRAP/Mediator coactivator-complex,MED1,MED17,18
+ESR1-TRAP/Mediator coactivator-complex,MED1,MED20,18
+ESR1-TRAP/Mediator coactivator-complex,MED1,MED23,18
+ESR1-TRAP/Mediator coactivator-complex,MED1,MED24,18
+ESR1-TRAP/Mediator coactivator-complex,MED1,NCOA1,18
+ESR1-TRAP/Mediator coactivator-complex,MED12,MED14,18
+ESR1-TRAP/Mediator coactivator-complex,MED12,MED16,18
+ESR1-TRAP/Mediator coactivator-complex,MED12,MED17,18
+ESR1-TRAP/Mediator coactivator-complex,MED12,MED20,18
+ESR1-TRAP/Mediator coactivator-complex,MED12,MED23,18
+ESR1-TRAP/Mediator coactivator-complex,MED12,MED24,18
+ESR1-TRAP/Mediator coactivator-complex,MED12,NCOA1,18
+ESR1-TRAP/Mediator coactivator-complex,MED14,MED16,18
+ESR1-TRAP/Mediator coactivator-complex,MED14,MED17,18
+ESR1-TRAP/Mediator coactivator-complex,MED14,MED20,18
+ESR1-TRAP/Mediator coactivator-complex,MED14,MED23,18
+ESR1-TRAP/Mediator coactivator-complex,MED14,MED24,18
+ESR1-TRAP/Mediator coactivator-complex,MED14,NCOA1,18
+ESR1-TRAP/Mediator coactivator-complex,MED16,MED17,18
+ESR1-TRAP/Mediator coactivator-complex,MED16,MED20,18
+ESR1-TRAP/Mediator coactivator-complex,MED16,MED23,18
+ESR1-TRAP/Mediator coactivator-complex,MED16,MED24,18
+ESR1-TRAP/Mediator coactivator-complex,MED16,NCOA1,18
+ESR1-TRAP/Mediator coactivator-complex,MED17,MED20,18
+ESR1-TRAP/Mediator coactivator-complex,MED17,MED23,18
+ESR1-TRAP/Mediator coactivator-complex,MED17,MED24,18
+ESR1-TRAP/Mediator coactivator-complex,MED17,NCOA1,18
+ESR1-TRAP/Mediator coactivator-complex,MED20,MED23,18
+ESR1-TRAP/Mediator coactivator-complex,MED20,MED24,18
+ESR1-TRAP/Mediator coactivator-complex,MED20,NCOA1,18
+ESR1-TRAP/Mediator coactivator-complex,MED23,MED24,18
+ESR1-TRAP/Mediator coactivator-complex,MED23,NCOA1,18
+ESR1-TRAP/Mediator coactivator-complex,MED24,NCOA1,18
+ESR2-TRAP/Mediator coactivator complex,EP300,MED1,18
+ESR2-TRAP/Mediator coactivator complex,EP300,MED12,18
+ESR2-TRAP/Mediator coactivator complex,EP300,MED14,18
+ESR2-TRAP/Mediator coactivator complex,EP300,MED16,18
+ESR2-TRAP/Mediator coactivator complex,EP300,MED17,18
+ESR2-TRAP/Mediator coactivator complex,EP300,MED20,18
+ESR2-TRAP/Mediator coactivator complex,EP300,MED23,18
+ESR2-TRAP/Mediator coactivator complex,EP300,MED24,18
+ESR2-TRAP/Mediator coactivator complex,EP300,NCOA1,18
+ESR2-TRAP/Mediator coactivator complex,MED1,MED12,18
+ESR2-TRAP/Mediator coactivator complex,MED1,MED14,18
+ESR2-TRAP/Mediator coactivator complex,MED1,MED16,18
+ESR2-TRAP/Mediator coactivator complex,MED1,MED17,18
+ESR2-TRAP/Mediator coactivator complex,MED1,MED20,18
+ESR2-TRAP/Mediator coactivator complex,MED1,MED23,18
+ESR2-TRAP/Mediator coactivator complex,MED1,MED24,18
+ESR2-TRAP/Mediator coactivator complex,MED1,NCOA1,18
+ESR2-TRAP/Mediator coactivator complex,MED12,MED14,18
+ESR2-TRAP/Mediator coactivator complex,MED12,MED16,18
+ESR2-TRAP/Mediator coactivator complex,MED12,MED17,18
+ESR2-TRAP/Mediator coactivator complex,MED12,MED20,18
+ESR2-TRAP/Mediator coactivator complex,MED12,MED23,18
+ESR2-TRAP/Mediator coactivator complex,MED12,MED24,18
+ESR2-TRAP/Mediator coactivator complex,MED12,NCOA1,18
+ESR2-TRAP/Mediator coactivator complex,MED14,MED16,18
+ESR2-TRAP/Mediator coactivator complex,MED14,MED17,18
+ESR2-TRAP/Mediator coactivator complex,MED14,MED20,18
+ESR2-TRAP/Mediator coactivator complex,MED14,MED23,18
+ESR2-TRAP/Mediator coactivator complex,MED14,MED24,18
+ESR2-TRAP/Mediator coactivator complex,MED14,NCOA1,18
+ESR2-TRAP/Mediator coactivator complex,MED16,MED17,18
+ESR2-TRAP/Mediator coactivator complex,MED16,MED20,18
+ESR2-TRAP/Mediator coactivator complex,MED16,MED23,18
+ESR2-TRAP/Mediator coactivator complex,MED16,MED24,18
+ESR2-TRAP/Mediator coactivator complex,MED16,NCOA1,18
+ESR2-TRAP/Mediator coactivator complex,MED17,MED20,18
+ESR2-TRAP/Mediator coactivator complex,MED17,MED23,18
+ESR2-TRAP/Mediator coactivator complex,MED17,MED24,18
+ESR2-TRAP/Mediator coactivator complex,MED17,NCOA1,18
+ESR2-TRAP/Mediator coactivator complex,MED20,MED23,18
+ESR2-TRAP/Mediator coactivator complex,MED20,MED24,18
+ESR2-TRAP/Mediator coactivator complex,MED20,NCOA1,18
+ESR2-TRAP/Mediator coactivator complex,MED23,MED24,18
+ESR2-TRAP/Mediator coactivator complex,MED23,NCOA1,18
+ESR2-TRAP/Mediator coactivator complex,MED24,NCOA1,18
+ETS2-SMARCA4-INI1 complex,SMARCA4,SMARCB1,3
+Ectodermin-SMAD4 complex,SMAD4,TRIM33,2
+Emerin architectural complex,LMNA,SPTAN1,6
+Emerin complex 1,LMO7,MYH9,8
+Emerin complex 1,LMO7,MYO1E,8
+Emerin complex 1,LMO7,SPTAN1,8
+Emerin complex 1,MYH9,MYO1E,8
+Emerin complex 1,MYH9,SPTAN1,8
+Emerin complex 1,MYO1E,SPTAN1,8
+Emerin complex 24,LMNA,RB1,15
+Emerin complex 24,LMNA,SAP130,15
+Emerin complex 24,RB1,SAP130,15
+Emerin complex 25,CDC37,LSM2,16
+Emerin complex 25,CDC37,SAP130,16
+Emerin complex 25,LSM2,SAP130,16
+Emerin complex 32,CHD4,DPY30,22
+Emerin complex 32,CHD4,HDAC1,22
+Emerin complex 32,CHD4,HDAC3,22
+Emerin complex 32,CHD4,MED4,22
+Emerin complex 32,CHD4,RBL1,22
+Emerin complex 32,CHD4,RCOR1,22
+Emerin complex 32,CHD4,SMARCB1,22
+Emerin complex 32,CHD4,SMARCC1,22
+Emerin complex 32,CHD4,SMARCC2,22
+Emerin complex 32,CHD4,SPTAN1,22
+Emerin complex 32,CHD4,TBL1XR1,22
+Emerin complex 32,DPY30,HDAC1,22
+Emerin complex 32,DPY30,HDAC3,22
+Emerin complex 32,DPY30,MED4,22
+Emerin complex 32,DPY30,RBL1,22
+Emerin complex 32,DPY30,RCOR1,22
+Emerin complex 32,DPY30,SMARCB1,22
+Emerin complex 32,DPY30,SMARCC1,22
+Emerin complex 32,DPY30,SMARCC2,22
+Emerin complex 32,DPY30,SPTAN1,22
+Emerin complex 32,DPY30,TBL1XR1,22
+Emerin complex 32,HDAC1,HDAC3,22
+Emerin complex 32,HDAC1,MED4,22
+Emerin complex 32,HDAC1,RBL1,22
+Emerin complex 32,HDAC1,RCOR1,22
+Emerin complex 32,HDAC1,SMARCB1,22
+Emerin complex 32,HDAC1,SMARCC1,22
+Emerin complex 32,HDAC1,SMARCC2,22
+Emerin complex 32,HDAC1,SPTAN1,22
+Emerin complex 32,HDAC1,TBL1XR1,22
+Emerin complex 32,HDAC3,MED4,22
+Emerin complex 32,HDAC3,RBL1,22
+Emerin complex 32,HDAC3,RCOR1,22
+Emerin complex 32,HDAC3,SMARCB1,22
+Emerin complex 32,HDAC3,SMARCC1,22
+Emerin complex 32,HDAC3,SMARCC2,22
+Emerin complex 32,HDAC3,SPTAN1,22
+Emerin complex 32,HDAC3,TBL1XR1,22
+Emerin complex 32,MED4,RBL1,22
+Emerin complex 32,MED4,RCOR1,22
+Emerin complex 32,MED4,SMARCB1,22
+Emerin complex 32,MED4,SMARCC1,22
+Emerin complex 32,MED4,SMARCC2,22
+Emerin complex 32,MED4,SPTAN1,22
+Emerin complex 32,MED4,TBL1XR1,22
+Emerin complex 32,RBL1,RCOR1,22
+Emerin complex 32,RBL1,SMARCB1,22
+Emerin complex 32,RBL1,SMARCC1,22
+Emerin complex 32,RBL1,SMARCC2,22
+Emerin complex 32,RBL1,SPTAN1,22
+Emerin complex 32,RBL1,TBL1XR1,22
+Emerin complex 32,RCOR1,SMARCB1,22
+Emerin complex 32,RCOR1,SMARCC1,22
+Emerin complex 32,RCOR1,SMARCC2,22
+Emerin complex 32,RCOR1,SPTAN1,22
+Emerin complex 32,RCOR1,TBL1XR1,22
+Emerin complex 32,SMARCB1,SMARCC1,22
+Emerin complex 32,SMARCB1,SMARCC2,22
+Emerin complex 32,SMARCB1,SPTAN1,22
+Emerin complex 32,SMARCB1,TBL1XR1,22
+Emerin complex 32,SMARCC1,SMARCC2,22
+Emerin complex 32,SMARCC1,SPTAN1,22
+Emerin complex 32,SMARCC1,TBL1XR1,22
+Emerin complex 32,SMARCC2,SPTAN1,22
+Emerin complex 32,SMARCC2,TBL1XR1,22
+Emerin complex 32,SPTAN1,TBL1XR1,22
+Emerin regulatory complex,HDAC1,HDAC3,9
+Emerin regulatory complex,HDAC1,LMO7,9
+Emerin regulatory complex,HDAC1,RBL1,9
+Emerin regulatory complex,HDAC3,LMO7,9
+Emerin regulatory complex,HDAC3,RBL1,9
+Emerin regulatory complex,LMO7,RBL1,9
+"Estrogen receptor complex (ESR1, EP300, NCOA1)",EP300,NCOA1,3
+"FACT complex, UV-activated",CSNK2A2,SUPT16H,5
+FARP2-NRP1-PlexinA1 complex,FARP2,NRP1,3
+FARP2-NRP1-PlexinA2 complex,FARP2,NRP1,3
+FARP2-NRP1-PlexinA3 complex,FARP2,NRP1,3
+FARP2-NRP1-PlexinA4 complex,FARP2,NRP1,3
+FHL2-FHL3 complex,FHL2,FHL3,2
+FHL2-p53-HIPK2 complex,FHL2,TP53,3
+FOXO1-FHL2-SIRT1 complex,FHL2,SIRT1,3
+Farnesyltransferase,FNTA,FNTB,2
+GAA1-GPI8-PIGT-PIG-PIGS complex,PIGK,PIGT,5
+GALNS-lysosomal hydrolase 1.27 MDa complex,CTSA,GLB1,4
+GNAI1- GNB5-GNG4 complex,GNAI1,GNG4,3
+GNAI1-GNB1-GNG4 complex,GNAI1,GNG4,3
+GNAI1-GNB2-GNG4 complex,GNAI1,GNG4,3
+GNAI1-GNB3-GNG4 complex,GNAI1,GNG4,3
+GNAI1-GNB4-GNG4 complex,GNAI1,GNG4,3
+Gamma-BAR-AP1 complex,AP1B1,AP1G1,9
+Gamma-BAR-AP1 complex,AP1B1,AP1M1,9
+Gamma-BAR-AP1 complex,AP1G1,AP1M1,9
+H2AX complex I,CALR,DHX30,7
+"H2AX complex, isolated from cells without IR exposure",CALR,EIF3L,13
+"H2AX complex, isolated from cells without IR exposure",CALR,SUPT16H,13
+"H2AX complex, isolated from cells without IR exposure",EIF3L,SUPT16H,13
+HCF-1 complex,ASH2L,HCFC1,18
+HCF-1 complex,ASH2L,HDAC1,18
+HCF-1 complex,ASH2L,HDAC2,18
+HCF-1 complex,ASH2L,OGT,18
+HCF-1 complex,ASH2L,RBBP4,18
+HCF-1 complex,ASH2L,RBBP7,18
+HCF-1 complex,ASH2L,SAP30,18
+HCF-1 complex,ASH2L,SIN3A,18
+HCF-1 complex,ASH2L,SIN3B,18
+HCF-1 complex,ASH2L,SUDS3,18
+HCF-1 complex,HCFC1,HDAC1,18
+HCF-1 complex,HCFC1,HDAC2,18
+HCF-1 complex,HCFC1,OGT,18
+HCF-1 complex,HCFC1,RBBP4,18
+HCF-1 complex,HCFC1,RBBP7,18
+HCF-1 complex,HCFC1,SAP30,18
+HCF-1 complex,HCFC1,SIN3A,18
+HCF-1 complex,HCFC1,SIN3B,18
+HCF-1 complex,HCFC1,SUDS3,18
+HCF-1 complex,HDAC1,HDAC2,18
+HCF-1 complex,HDAC1,OGT,18
+HCF-1 complex,HDAC1,RBBP4,18
+HCF-1 complex,HDAC1,RBBP7,18
+HCF-1 complex,HDAC1,SAP30,18
+HCF-1 complex,HDAC1,SIN3A,18
+HCF-1 complex,HDAC1,SIN3B,18
+HCF-1 complex,HDAC1,SUDS3,18
+HCF-1 complex,HDAC2,OGT,18
+HCF-1 complex,HDAC2,RBBP4,18
+HCF-1 complex,HDAC2,RBBP7,18
+HCF-1 complex,HDAC2,SAP30,18
+HCF-1 complex,HDAC2,SIN3A,18
+HCF-1 complex,HDAC2,SIN3B,18
+HCF-1 complex,HDAC2,SUDS3,18
+HCF-1 complex,OGT,RBBP4,18
+HCF-1 complex,OGT,RBBP7,18
+HCF-1 complex,OGT,SAP30,18
+HCF-1 complex,OGT,SIN3A,18
+HCF-1 complex,OGT,SIN3B,18
+HCF-1 complex,OGT,SUDS3,18
+HCF-1 complex,RBBP4,RBBP7,18
+HCF-1 complex,RBBP4,SAP30,18
+HCF-1 complex,RBBP4,SIN3A,18
+HCF-1 complex,RBBP4,SIN3B,18
+HCF-1 complex,RBBP4,SUDS3,18
+HCF-1 complex,RBBP7,SAP30,18
+HCF-1 complex,RBBP7,SIN3A,18
+HCF-1 complex,RBBP7,SIN3B,18
+HCF-1 complex,RBBP7,SUDS3,18
+HCF-1 complex,SAP30,SIN3A,18
+HCF-1 complex,SAP30,SIN3B,18
+HCF-1 complex,SAP30,SUDS3,18
+HCF-1 complex,SIN3A,SIN3B,18
+HCF-1 complex,SIN3A,SUDS3,18
+HCF-1 complex,SIN3B,SUDS3,18
+HDAC1-associated core complex cI,HDAC1,KDM1A,3
+HDAC1-associated core complex cI,HDAC1,RCOR1,3
+HDAC1-associated core complex cI,KDM1A,RCOR1,3
+HDAC1-associated core complex cII,CHD3,GATAD2A,9
+HDAC1-associated core complex cII,CHD3,HDAC1,9
+HDAC1-associated core complex cII,CHD3,MBD2,9
+HDAC1-associated core complex cII,CHD3,MBD3,9
+HDAC1-associated core complex cII,CHD3,MTA2,9
+HDAC1-associated core complex cII,CHD3,RBBP4,9
+HDAC1-associated core complex cII,CHD3,RBBP7,9
+HDAC1-associated core complex cII,CHD3,RCOR1,9
+HDAC1-associated core complex cII,GATAD2A,HDAC1,9
+HDAC1-associated core complex cII,GATAD2A,MBD2,9
+HDAC1-associated core complex cII,GATAD2A,MBD3,9
+HDAC1-associated core complex cII,GATAD2A,MTA2,9
+HDAC1-associated core complex cII,GATAD2A,RBBP4,9
+HDAC1-associated core complex cII,GATAD2A,RBBP7,9
+HDAC1-associated core complex cII,GATAD2A,RCOR1,9
+HDAC1-associated core complex cII,HDAC1,MBD2,9
+HDAC1-associated core complex cII,HDAC1,MBD3,9
+HDAC1-associated core complex cII,HDAC1,MTA2,9
+HDAC1-associated core complex cII,HDAC1,RBBP4,9
+HDAC1-associated core complex cII,HDAC1,RBBP7,9
+HDAC1-associated core complex cII,HDAC1,RCOR1,9
+HDAC1-associated core complex cII,MBD2,MBD3,9
+HDAC1-associated core complex cII,MBD2,MTA2,9
+HDAC1-associated core complex cII,MBD2,RBBP4,9
+HDAC1-associated core complex cII,MBD2,RBBP7,9
+HDAC1-associated core complex cII,MBD2,RCOR1,9
+HDAC1-associated core complex cII,MBD3,MTA2,9
+HDAC1-associated core complex cII,MBD3,RBBP4,9
+HDAC1-associated core complex cII,MBD3,RBBP7,9
+HDAC1-associated core complex cII,MBD3,RCOR1,9
+HDAC1-associated core complex cII,MTA2,RBBP4,9
+HDAC1-associated core complex cII,MTA2,RBBP7,9
+HDAC1-associated core complex cII,MTA2,RCOR1,9
+HDAC1-associated core complex cII,RBBP4,RBBP7,9
+HDAC1-associated core complex cII,RBBP4,RCOR1,9
+HDAC1-associated core complex cII,RBBP7,RCOR1,9
+HDAC1-associated protein complex,CHD3,HDAC1,9
+HDAC1-associated protein complex,CHD3,KDM1A,9
+HDAC1-associated protein complex,CHD3,MBD2,9
+HDAC1-associated protein complex,CHD3,MBD3,9
+HDAC1-associated protein complex,CHD3,MTA2,9
+HDAC1-associated protein complex,CHD3,RBBP4,9
+HDAC1-associated protein complex,CHD3,RBBP7,9
+HDAC1-associated protein complex,CHD3,RCOR1,9
+HDAC1-associated protein complex,HDAC1,KDM1A,9
+HDAC1-associated protein complex,HDAC1,MBD2,9
+HDAC1-associated protein complex,HDAC1,MBD3,9
+HDAC1-associated protein complex,HDAC1,MTA2,9
+HDAC1-associated protein complex,HDAC1,RBBP4,9
+HDAC1-associated protein complex,HDAC1,RBBP7,9
+HDAC1-associated protein complex,HDAC1,RCOR1,9
+HDAC1-associated protein complex,KDM1A,MBD2,9
+HDAC1-associated protein complex,KDM1A,MBD3,9
+HDAC1-associated protein complex,KDM1A,MTA2,9
+HDAC1-associated protein complex,KDM1A,RBBP4,9
+HDAC1-associated protein complex,KDM1A,RBBP7,9
+HDAC1-associated protein complex,KDM1A,RCOR1,9
+HDAC1-associated protein complex,MBD2,MBD3,9
+HDAC1-associated protein complex,MBD2,MTA2,9
+HDAC1-associated protein complex,MBD2,RBBP4,9
+HDAC1-associated protein complex,MBD2,RBBP7,9
+HDAC1-associated protein complex,MBD2,RCOR1,9
+HDAC1-associated protein complex,MBD3,MTA2,9
+HDAC1-associated protein complex,MBD3,RBBP4,9
+HDAC1-associated protein complex,MBD3,RBBP7,9
+HDAC1-associated protein complex,MBD3,RCOR1,9
+HDAC1-associated protein complex,MTA2,RBBP4,9
+HDAC1-associated protein complex,MTA2,RBBP7,9
+HDAC1-associated protein complex,MTA2,RCOR1,9
+HDAC1-associated protein complex,RBBP4,RBBP7,9
+HDAC1-associated protein complex,RBBP4,RCOR1,9
+HDAC1-associated protein complex,RBBP7,RCOR1,9
+HDAC2-asscociated core complex,CHD3,GATAD2A,7
+HDAC2-asscociated core complex,CHD3,HDAC2,7
+HDAC2-asscociated core complex,CHD3,MBD3,7
+HDAC2-asscociated core complex,CHD3,MTA2,7
+HDAC2-asscociated core complex,CHD3,RBBP4,7
+HDAC2-asscociated core complex,CHD3,RBBP7,7
+HDAC2-asscociated core complex,GATAD2A,HDAC2,7
+HDAC2-asscociated core complex,GATAD2A,MBD3,7
+HDAC2-asscociated core complex,GATAD2A,MTA2,7
+HDAC2-asscociated core complex,GATAD2A,RBBP4,7
+HDAC2-asscociated core complex,GATAD2A,RBBP7,7
+HDAC2-asscociated core complex,HDAC2,MBD3,7
+HDAC2-asscociated core complex,HDAC2,MTA2,7
+HDAC2-asscociated core complex,HDAC2,RBBP4,7
+HDAC2-asscociated core complex,HDAC2,RBBP7,7
+HDAC2-asscociated core complex,MBD3,MTA2,7
+HDAC2-asscociated core complex,MBD3,RBBP4,7
+HDAC2-asscociated core complex,MBD3,RBBP7,7
+HDAC2-asscociated core complex,MTA2,RBBP4,7
+HDAC2-asscociated core complex,MTA2,RBBP7,7
+HDAC2-asscociated core complex,RBBP4,RBBP7,7
+HDAC3-H1.3-SMRT-N-Cor complex,HDAC3,NCOR1,4
+HDAC3-H1.3-SMRT-N-Cor complex,HDAC3,NCOR2,4
+HDAC3-H1.3-SMRT-N-Cor complex,NCOR1,NCOR2,4
+HERP1/HEY2-NCOR-SIN3A complex,HDAC1,NCOR2,4
+HERP1/HEY2-NCOR-SIN3A complex,HDAC1,SIN3A,4
+HERP1/HEY2-NCOR-SIN3A complex,NCOR2,SIN3A,4
+HES1 promoter corepressor complex,CREBBP,EP300,6
+HES1 promoter corepressor complex,CREBBP,POLR2A,6
+HES1 promoter corepressor complex,CREBBP,SUPT6H,6
+HES1 promoter corepressor complex,EP300,POLR2A,6
+HES1 promoter corepressor complex,EP300,SUPT6H,6
+HES1 promoter corepressor complex,POLR2A,SUPT6H,6
+HES1 promoter-Notch enhancer complex,EP300,MED1,13
+HES1 promoter-Notch enhancer complex,EP300,POLR2A,13
+HES1 promoter-Notch enhancer complex,EP300,SUPT16H,13
+HES1 promoter-Notch enhancer complex,EP300,SUPT6H,13
+HES1 promoter-Notch enhancer complex,MED1,POLR2A,13
+HES1 promoter-Notch enhancer complex,MED1,SUPT16H,13
+HES1 promoter-Notch enhancer complex,MED1,SUPT6H,13
+HES1 promoter-Notch enhancer complex,POLR2A,SUPT16H,13
+HES1 promoter-Notch enhancer complex,POLR2A,SUPT6H,13
+HES1 promoter-Notch enhancer complex,SUPT16H,SUPT6H,13
+HEXIM1-DNA-PK-paraspeckle components-ribonucleoprotein complex,MATR3,PRKDC,9
+HEXIM1-DNA-PK-paraspeckle components-ribonucleoprotein complex,MATR3,XRCC5,9
+HEXIM1-DNA-PK-paraspeckle components-ribonucleoprotein complex,PRKDC,XRCC5,9
+HOOK2-PAR3-Par6alpha-PKCiota complex,PARD3,PRKCI,4
+HRD1 complex,AUP1,ERLEC1,13
+HRD1 complex,AUP1,SEL1L,13
+HRD1 complex,ERLEC1,SEL1L,13
+Histone H3.1 complex,CHAF1B,IPO4,10
+Histone H3.1 complex,CHAF1B,RBBP4,10
+Histone H3.1 complex,IPO4,RBBP4,10
+Histone H3.3 complex,HIRA,IPO4,9
+Histone H3.3 complex,HIRA,RBBP4,9
+Histone H3.3 complex,IPO4,RBBP4,9
+ICAT-AR-beta-catenin complex,CTNNB1,CTNNBIP1,3
+IKBKB-CDC37-KIAA1967-HSP90AB1-HSP90AA1 complex,CCAR2,CDC37,5
+ING2 complex,ARID4A,ARID4B,13
+ING2 complex,ARID4A,BRMS1,13
+ING2 complex,ARID4A,BRMS1L,13
+ING2 complex,ARID4A,HDAC1,13
+ING2 complex,ARID4A,HDAC2,13
+ING2 complex,ARID4A,ING2,13
+ING2 complex,ARID4A,RBBP4,13
+ING2 complex,ARID4A,RBBP7,13
+ING2 complex,ARID4A,SAP130,13
+ING2 complex,ARID4A,SAP30,13
+ING2 complex,ARID4A,SIN3A,13
+ING2 complex,ARID4A,SUDS3,13
+ING2 complex,ARID4B,BRMS1,13
+ING2 complex,ARID4B,BRMS1L,13
+ING2 complex,ARID4B,HDAC1,13
+ING2 complex,ARID4B,HDAC2,13
+ING2 complex,ARID4B,ING2,13
+ING2 complex,ARID4B,RBBP4,13
+ING2 complex,ARID4B,RBBP7,13
+ING2 complex,ARID4B,SAP130,13
+ING2 complex,ARID4B,SAP30,13
+ING2 complex,ARID4B,SIN3A,13
+ING2 complex,ARID4B,SUDS3,13
+ING2 complex,BRMS1,BRMS1L,13
+ING2 complex,BRMS1,HDAC1,13
+ING2 complex,BRMS1,HDAC2,13
+ING2 complex,BRMS1,ING2,13
+ING2 complex,BRMS1,RBBP4,13
+ING2 complex,BRMS1,RBBP7,13
+ING2 complex,BRMS1,SAP130,13
+ING2 complex,BRMS1,SAP30,13
+ING2 complex,BRMS1,SIN3A,13
+ING2 complex,BRMS1,SUDS3,13
+ING2 complex,BRMS1L,HDAC1,13
+ING2 complex,BRMS1L,HDAC2,13
+ING2 complex,BRMS1L,ING2,13
+ING2 complex,BRMS1L,RBBP4,13
+ING2 complex,BRMS1L,RBBP7,13
+ING2 complex,BRMS1L,SAP130,13
+ING2 complex,BRMS1L,SAP30,13
+ING2 complex,BRMS1L,SIN3A,13
+ING2 complex,BRMS1L,SUDS3,13
+ING2 complex,HDAC1,HDAC2,13
+ING2 complex,HDAC1,ING2,13
+ING2 complex,HDAC1,RBBP4,13
+ING2 complex,HDAC1,RBBP7,13
+ING2 complex,HDAC1,SAP130,13
+ING2 complex,HDAC1,SAP30,13
+ING2 complex,HDAC1,SIN3A,13
+ING2 complex,HDAC1,SUDS3,13
+ING2 complex,HDAC2,ING2,13
+ING2 complex,HDAC2,RBBP4,13
+ING2 complex,HDAC2,RBBP7,13
+ING2 complex,HDAC2,SAP130,13
+ING2 complex,HDAC2,SAP30,13
+ING2 complex,HDAC2,SIN3A,13
+ING2 complex,HDAC2,SUDS3,13
+ING2 complex,ING2,RBBP4,13
+ING2 complex,ING2,RBBP7,13
+ING2 complex,ING2,SAP130,13
+ING2 complex,ING2,SAP30,13
+ING2 complex,ING2,SIN3A,13
+ING2 complex,ING2,SUDS3,13
+ING2 complex,RBBP4,RBBP7,13
+ING2 complex,RBBP4,SAP130,13
+ING2 complex,RBBP4,SAP30,13
+ING2 complex,RBBP4,SIN3A,13
+ING2 complex,RBBP4,SUDS3,13
+ING2 complex,RBBP7,SAP130,13
+ING2 complex,RBBP7,SAP30,13
+ING2 complex,RBBP7,SIN3A,13
+ING2 complex,RBBP7,SUDS3,13
+ING2 complex,SAP130,SAP30,13
+ING2 complex,SAP130,SIN3A,13
+ING2 complex,SAP130,SUDS3,13
+ING2 complex,SAP30,SIN3A,13
+ING2 complex,SAP30,SUDS3,13
+ING2 complex,SIN3A,SUDS3,13
+INO80 chromatin remodeling complex,ACTL6A,RUVBL1,13
+INO80 chromatin remodeling complex,ACTL6A,RUVBL2,13
+INO80 chromatin remodeling complex,ACTL6A,TCF3,13
+INO80 chromatin remodeling complex,RUVBL1,RUVBL2,13
+INO80 chromatin remodeling complex,RUVBL1,TCF3,13
+INO80 chromatin remodeling complex,RUVBL2,TCF3,13
+IRF2BP2-IRF2BP1-IRF2BPL complex,IRF2BP1,IRF2BPL,3
+ITCH-USP9X complex,ITCH,USP9X,2
+"IkappaB kinase complex (IKBKB, CHUK, IKBKAP, NFKBIA, RELA, MAP3K14)",ELP1,RELA,6
+Intraflagellar transport complex B,IFT172,IFT27,16
+Intraflagellar transport complex B,IFT172,IFT57,16
+Intraflagellar transport complex B,IFT172,IFT80,16
+Intraflagellar transport complex B,IFT172,IFT81,16
+Intraflagellar transport complex B,IFT172,IFT88,16
+Intraflagellar transport complex B,IFT172,TRAF3IP1,16
+Intraflagellar transport complex B,IFT172,TTC26,16
+Intraflagellar transport complex B,IFT27,IFT57,16
+Intraflagellar transport complex B,IFT27,IFT80,16
+Intraflagellar transport complex B,IFT27,IFT81,16
+Intraflagellar transport complex B,IFT27,IFT88,16
+Intraflagellar transport complex B,IFT27,TRAF3IP1,16
+Intraflagellar transport complex B,IFT27,TTC26,16
+Intraflagellar transport complex B,IFT57,IFT80,16
+Intraflagellar transport complex B,IFT57,IFT81,16
+Intraflagellar transport complex B,IFT57,IFT88,16
+Intraflagellar transport complex B,IFT57,TRAF3IP1,16
+Intraflagellar transport complex B,IFT57,TTC26,16
+Intraflagellar transport complex B,IFT80,IFT81,16
+Intraflagellar transport complex B,IFT80,IFT88,16
+Intraflagellar transport complex B,IFT80,TRAF3IP1,16
+Intraflagellar transport complex B,IFT80,TTC26,16
+Intraflagellar transport complex B,IFT81,IFT88,16
+Intraflagellar transport complex B,IFT81,TRAF3IP1,16
+Intraflagellar transport complex B,IFT81,TTC26,16
+Intraflagellar transport complex B,IFT88,TRAF3IP1,16
+Intraflagellar transport complex B,IFT88,TTC26,16
+Intraflagellar transport complex B,TRAF3IP1,TTC26,16
+Intraflagellar transport complex B core complex,IFT27,IFT81,10
+Intraflagellar transport complex B core complex,IFT27,IFT88,10
+Intraflagellar transport complex B core complex,IFT27,TTC26,10
+Intraflagellar transport complex B core complex,IFT81,IFT88,10
+Intraflagellar transport complex B core complex,IFT81,TTC26,10
+Intraflagellar transport complex B core complex,IFT88,TTC26,10
+Intraflagellar transport complex B peripheral subcomplex,IFT172,IFT57,6
+Intraflagellar transport complex B peripheral subcomplex,IFT172,IFT80,6
+Intraflagellar transport complex B peripheral subcomplex,IFT172,TRAF3IP1,6
+Intraflagellar transport complex B peripheral subcomplex,IFT57,IFT80,6
+Intraflagellar transport complex B peripheral subcomplex,IFT57,TRAF3IP1,6
+Intraflagellar transport complex B peripheral subcomplex,IFT80,TRAF3IP1,6
+"Isocitrate dehydrogenase [NAD], mitochondrial",IDH3A,IDH3G,3
+JUN-TCF4-CTNNB1 complex,CTNNB1,JUN,3
+JUN-TCF4-CTNNB1 complex,CTNNB1,TCF4,3
+JUN-TCF4-CTNNB1 complex,JUN,TCF4,3
+KIF3A/B-PAR-3-aPKC-PAR-6 complex,PARD3,PRKCI,5
+KMT2E-OGT-USP7 complex,KMT2E,OGT,3
+KMT2E-OGT-USP7 complex,KMT2E,USP7,3
+KMT2E-OGT-USP7 complex,OGT,USP7,3
+Kaiso-NCOR complex,GPS2,HDAC3,10
+Kaiso-NCOR complex,GPS2,NCOR1,10
+Kaiso-NCOR complex,GPS2,TBL1X,10
+Kaiso-NCOR complex,GPS2,TBL1XR1,10
+Kaiso-NCOR complex,GPS2,TRIM33,10
+Kaiso-NCOR complex,GPS2,ZBTB33,10
+Kaiso-NCOR complex,HDAC3,NCOR1,10
+Kaiso-NCOR complex,HDAC3,TBL1X,10
+Kaiso-NCOR complex,HDAC3,TBL1XR1,10
+Kaiso-NCOR complex,HDAC3,TRIM33,10
+Kaiso-NCOR complex,HDAC3,ZBTB33,10
+Kaiso-NCOR complex,NCOR1,TBL1X,10
+Kaiso-NCOR complex,NCOR1,TBL1XR1,10
+Kaiso-NCOR complex,NCOR1,TRIM33,10
+Kaiso-NCOR complex,NCOR1,ZBTB33,10
+Kaiso-NCOR complex,TBL1X,TBL1XR1,10
+Kaiso-NCOR complex,TBL1X,TRIM33,10
+Kaiso-NCOR complex,TBL1X,ZBTB33,10
+Kaiso-NCOR complex,TBL1XR1,TRIM33,10
+Kaiso-NCOR complex,TBL1XR1,ZBTB33,10
+Kaiso-NCOR complex,TRIM33,ZBTB33,10
+Kinase maturation complex 1,CDC37,MARK2,16
+Kinase maturation complex 1,CDC37,TRAF7,16
+Kinase maturation complex 1,CDC37,YWHAG,16
+Kinase maturation complex 1,CDC37,YWHAH,16
+Kinase maturation complex 1,MARK2,TRAF7,16
+Kinase maturation complex 1,MARK2,YWHAG,16
+Kinase maturation complex 1,MARK2,YWHAH,16
+Kinase maturation complex 1,TRAF7,YWHAG,16
+Kinase maturation complex 1,TRAF7,YWHAH,16
+Kinase maturation complex 1,YWHAG,YWHAH,16
+Kinase maturation complex 2,CDC37,TRAF2,8
+Ku antigen-NARG1 complex,NAA15,XRCC5,3
+Ku-ORC complex,ORC4,XRCC5,6
+Ku70/Ku80/DNA-PK,PRKDC,XRCC5,3
+LARC complex (LCR-associated remodeling complex),ACTL6A,CHD4,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,DPF2,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,GATAD2B,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,HDAC1,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,HDAC2,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,MBD2,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,MBD3,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,MTA2,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,RBBP4,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,SMARCA4,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),ACTL6A,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),CHD4,DPF2,19
+LARC complex (LCR-associated remodeling complex),CHD4,GATAD2B,19
+LARC complex (LCR-associated remodeling complex),CHD4,HDAC1,19
+LARC complex (LCR-associated remodeling complex),CHD4,HDAC2,19
+LARC complex (LCR-associated remodeling complex),CHD4,MBD2,19
+LARC complex (LCR-associated remodeling complex),CHD4,MBD3,19
+LARC complex (LCR-associated remodeling complex),CHD4,MTA2,19
+LARC complex (LCR-associated remodeling complex),CHD4,RBBP4,19
+LARC complex (LCR-associated remodeling complex),CHD4,SMARCA4,19
+LARC complex (LCR-associated remodeling complex),CHD4,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),CHD4,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),CHD4,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),CHD4,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),CHD4,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),DPF2,GATAD2B,19
+LARC complex (LCR-associated remodeling complex),DPF2,HDAC1,19
+LARC complex (LCR-associated remodeling complex),DPF2,HDAC2,19
+LARC complex (LCR-associated remodeling complex),DPF2,MBD2,19
+LARC complex (LCR-associated remodeling complex),DPF2,MBD3,19
+LARC complex (LCR-associated remodeling complex),DPF2,MTA2,19
+LARC complex (LCR-associated remodeling complex),DPF2,RBBP4,19
+LARC complex (LCR-associated remodeling complex),DPF2,SMARCA4,19
+LARC complex (LCR-associated remodeling complex),DPF2,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),DPF2,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),DPF2,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),DPF2,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),DPF2,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,HDAC1,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,HDAC2,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,MBD2,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,MBD3,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,MTA2,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,RBBP4,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,SMARCA4,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),GATAD2B,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),HDAC1,HDAC2,19
+LARC complex (LCR-associated remodeling complex),HDAC1,MBD2,19
+LARC complex (LCR-associated remodeling complex),HDAC1,MBD3,19
+LARC complex (LCR-associated remodeling complex),HDAC1,MTA2,19
+LARC complex (LCR-associated remodeling complex),HDAC1,RBBP4,19
+LARC complex (LCR-associated remodeling complex),HDAC1,SMARCA4,19
+LARC complex (LCR-associated remodeling complex),HDAC1,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),HDAC1,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),HDAC1,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),HDAC1,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),HDAC1,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),HDAC2,MBD2,19
+LARC complex (LCR-associated remodeling complex),HDAC2,MBD3,19
+LARC complex (LCR-associated remodeling complex),HDAC2,MTA2,19
+LARC complex (LCR-associated remodeling complex),HDAC2,RBBP4,19
+LARC complex (LCR-associated remodeling complex),HDAC2,SMARCA4,19
+LARC complex (LCR-associated remodeling complex),HDAC2,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),HDAC2,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),HDAC2,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),HDAC2,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),HDAC2,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),MBD2,MBD3,19
+LARC complex (LCR-associated remodeling complex),MBD2,MTA2,19
+LARC complex (LCR-associated remodeling complex),MBD2,RBBP4,19
+LARC complex (LCR-associated remodeling complex),MBD2,SMARCA4,19
+LARC complex (LCR-associated remodeling complex),MBD2,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),MBD2,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),MBD2,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),MBD2,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),MBD2,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),MBD3,MTA2,19
+LARC complex (LCR-associated remodeling complex),MBD3,RBBP4,19
+LARC complex (LCR-associated remodeling complex),MBD3,SMARCA4,19
+LARC complex (LCR-associated remodeling complex),MBD3,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),MBD3,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),MBD3,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),MBD3,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),MBD3,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),MTA2,RBBP4,19
+LARC complex (LCR-associated remodeling complex),MTA2,SMARCA4,19
+LARC complex (LCR-associated remodeling complex),MTA2,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),MTA2,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),MTA2,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),MTA2,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),MTA2,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),RBBP4,SMARCA4,19
+LARC complex (LCR-associated remodeling complex),RBBP4,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),RBBP4,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),RBBP4,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),RBBP4,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),RBBP4,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),SMARCA4,SMARCB1,19
+LARC complex (LCR-associated remodeling complex),SMARCA4,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),SMARCA4,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),SMARCA4,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),SMARCA4,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),SMARCB1,SMARCC1,19
+LARC complex (LCR-associated remodeling complex),SMARCB1,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),SMARCB1,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),SMARCB1,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),SMARCC1,SMARCC2,19
+LARC complex (LCR-associated remodeling complex),SMARCC1,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),SMARCC1,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),SMARCC2,SMARCD2,19
+LARC complex (LCR-associated remodeling complex),SMARCC2,SMARCE1,19
+LARC complex (LCR-associated remodeling complex),SMARCD2,SMARCE1,19
+LAS1L-PELP1-TEX10-WDR18-NOL9-SENP3  complex,PELP1,SENP3,6
+LAS1L-PELP1-TEX10-WDR18-NOL9-SENP3  complex,PELP1,TEX10,6
+LAS1L-PELP1-TEX10-WDR18-NOL9-SENP3  complex,SENP3,TEX10,6
+LGR4-RSPO supercomplex,IQGAP1,WASL,10
+LIN2-LIN7-SAP97 complex,CASK,DLG1,3
+LIN2-LIN7-SAP97-MINT1 complex,CASK,DLG1,4
+LIN2-SAP97 complex,CASK,DLG1,2
+"LINC complex, S-phase",RBBP4,RBL1,7
+LMO4-BRCA1-CTIP-LDB1 complex,LDB1,LMO4,4
+LSD1 complex,CTBP1,HDAC1,14
+LSD1 complex,CTBP1,HMG20A,14
+LSD1 complex,CTBP1,HMG20B,14
+LSD1 complex,CTBP1,KDM1A,14
+LSD1 complex,CTBP1,PHF21A,14
+LSD1 complex,CTBP1,RCOR1,14
+LSD1 complex,CTBP1,RCOR3,14
+LSD1 complex,CTBP1,ZMYM2,14
+LSD1 complex,HDAC1,HMG20A,14
+LSD1 complex,HDAC1,HMG20B,14
+LSD1 complex,HDAC1,KDM1A,14
+LSD1 complex,HDAC1,PHF21A,14
+LSD1 complex,HDAC1,RCOR1,14
+LSD1 complex,HDAC1,RCOR3,14
+LSD1 complex,HDAC1,ZMYM2,14
+LSD1 complex,HMG20A,HMG20B,14
+LSD1 complex,HMG20A,KDM1A,14
+LSD1 complex,HMG20A,PHF21A,14
+LSD1 complex,HMG20A,RCOR1,14
+LSD1 complex,HMG20A,RCOR3,14
+LSD1 complex,HMG20A,ZMYM2,14
+LSD1 complex,HMG20B,KDM1A,14
+LSD1 complex,HMG20B,PHF21A,14
+LSD1 complex,HMG20B,RCOR1,14
+LSD1 complex,HMG20B,RCOR3,14
+LSD1 complex,HMG20B,ZMYM2,14
+LSD1 complex,KDM1A,PHF21A,14
+LSD1 complex,KDM1A,RCOR1,14
+LSD1 complex,KDM1A,RCOR3,14
+LSD1 complex,KDM1A,ZMYM2,14
+LSD1 complex,PHF21A,RCOR1,14
+LSD1 complex,PHF21A,RCOR3,14
+LSD1 complex,PHF21A,ZMYM2,14
+LSD1 complex,RCOR1,RCOR3,14
+LSD1 complex,RCOR1,ZMYM2,14
+LSD1 complex,RCOR3,ZMYM2,14
+LSD1-CoREST complex,KDM1A,RCOR1,2
+LSm1-7 complex,LSM1,LSM2,7
+LSm1-7 complex,LSM1,LSM4,7
+LSm1-7 complex,LSM1,LSM5,7
+LSm1-7 complex,LSM1,LSM6,7
+LSm1-7 complex,LSM2,LSM4,7
+LSm1-7 complex,LSM2,LSM5,7
+LSm1-7 complex,LSM2,LSM6,7
+LSm1-7 complex,LSM4,LSM5,7
+LSm1-7 complex,LSM4,LSM6,7
+LSm1-7 complex,LSM5,LSM6,7
+LSm2-8 complex,LSM2,LSM4,7
+LSm2-8 complex,LSM2,LSM5,7
+LSm2-8 complex,LSM2,LSM6,7
+LSm2-8 complex,LSM4,LSM5,7
+LSm2-8 complex,LSM4,LSM6,7
+LSm2-8 complex,LSM5,LSM6,7
+MAD1-mSin3A-HDAC2 complex,HDAC2,SIN3A,3
+MASH1 promoter-coactivator complex,CREBBP,POLR2A,9
+MDC1-MRE11-RAD50-NBS1 complex,MDC1,MRE11,4
+MDC1-MRE11-RAD50-NBS1 complex,MDC1,NBN,4
+MDC1-MRE11-RAD50-NBS1 complex,MDC1,RAD50,4
+MDC1-MRE11-RAD50-NBS1 complex,MRE11,NBN,4
+MDC1-MRE11-RAD50-NBS1 complex,MRE11,RAD50,4
+MDC1-MRE11-RAD50-NBS1 complex,NBN,RAD50,4
+MDC1-MRN-ATM-FANCD2 complex,FANCD2,MDC1,6
+MDC1-MRN-ATM-FANCD2 complex,FANCD2,MRE11,6
+MDC1-MRN-ATM-FANCD2 complex,FANCD2,NBN,6
+MDC1-MRN-ATM-FANCD2 complex,FANCD2,RAD50,6
+MDC1-MRN-ATM-FANCD2 complex,MDC1,MRE11,6
+MDC1-MRN-ATM-FANCD2 complex,MDC1,NBN,6
+MDC1-MRN-ATM-FANCD2 complex,MDC1,RAD50,6
+MDC1-MRN-ATM-FANCD2 complex,MRE11,NBN,6
+MDC1-MRN-ATM-FANCD2 complex,MRE11,RAD50,6
+MDC1-MRN-ATM-FANCD2 complex,NBN,RAD50,6
+MDC1-p53BP1-SMC1 complex,MDC1,SMC1A,3
+MED18-MED20-MED29 mediator subcomplex,MED20,MED29,3
+MGC1-DNA-PKcs-Ku complex,MDC1,PRKDC,4
+MGC1-DNA-PKcs-Ku complex,MDC1,XRCC5,4
+MGC1-DNA-PKcs-Ku complex,PRKDC,XRCC5,4
+MIB complex,IMMT,MTX2,11
+MLL-HCF complex,ASH2L,HCFC1,7
+MLL-HCF complex,ASH2L,MEN1,7
+MLL-HCF complex,ASH2L,RBBP5,7
+MLL-HCF complex,HCFC1,MEN1,7
+MLL-HCF complex,HCFC1,RBBP5,7
+MLL-HCF complex,MEN1,RBBP5,7
+MLL/SET subcomplex,ASH2L,DPY30,4
+MLL/SET subcomplex,ASH2L,RBBP5,4
+MLL/SET subcomplex,DPY30,RBBP5,4
+MLL1 complex,ASH2L,DPY30,8
+MLL1 complex,ASH2L,RBBP5,8
+MLL1 complex,ASH2L,HCFC1,8
+MLL1 complex,ASH2L,MEN1,8
+MLL1 complex,ASH2L,OGT,8
+MLL1 complex,DPY30,RBBP5,8
+MLL1 complex,DPY30,HCFC1,8
+MLL1 complex,DPY30,MEN1,8
+MLL1 complex,DPY30,OGT,8
+MLL1 complex,HCFC1,RBBP5,8
+MLL1 complex,HCFC1,MEN1,8
+MLL1 complex,HCFC1,OGT,8
+MLL1 complex,MEN1,RBBP5,8
+MLL1 complex,MEN1,OGT,8
+MLL1 complex,OGT,RBBP5,8
+MLL1 core complex,ASH2L,RBBP5,4
+MLL1-WDR5 complex,ASH2L,CHD8,27
+MLL1-WDR5 complex,ASH2L,HCFC1,27
+MLL1-WDR5 complex,ASH2L,PELP1,27
+MLL1-WDR5 complex,ASH2L,PRPF31,27
+MLL1-WDR5 complex,ASH2L,RBBP5,27
+MLL1-WDR5 complex,ASH2L,RUVBL1,27
+MLL1-WDR5 complex,ASH2L,SENP3,27
+MLL1-WDR5 complex,ASH2L,TEX10,27
+MLL1-WDR5 complex,CHD8,HCFC1,27
+MLL1-WDR5 complex,CHD8,PELP1,27
+MLL1-WDR5 complex,CHD8,PRPF31,27
+MLL1-WDR5 complex,CHD8,RBBP5,27
+MLL1-WDR5 complex,CHD8,RUVBL1,27
+MLL1-WDR5 complex,CHD8,SENP3,27
+MLL1-WDR5 complex,CHD8,TEX10,27
+MLL1-WDR5 complex,HCFC1,PELP1,27
+MLL1-WDR5 complex,HCFC1,PRPF31,27
+MLL1-WDR5 complex,HCFC1,RBBP5,27
+MLL1-WDR5 complex,HCFC1,RUVBL1,27
+MLL1-WDR5 complex,HCFC1,SENP3,27
+MLL1-WDR5 complex,HCFC1,TEX10,27
+MLL1-WDR5 complex,PELP1,PRPF31,27
+MLL1-WDR5 complex,PELP1,RBBP5,27
+MLL1-WDR5 complex,PELP1,RUVBL1,27
+MLL1-WDR5 complex,PELP1,SENP3,27
+MLL1-WDR5 complex,PELP1,TEX10,27
+MLL1-WDR5 complex,PRPF31,RBBP5,27
+MLL1-WDR5 complex,PRPF31,RUVBL1,27
+MLL1-WDR5 complex,PRPF31,SENP3,27
+MLL1-WDR5 complex,PRPF31,TEX10,27
+MLL1-WDR5 complex,RBBP5,RUVBL1,27
+MLL1-WDR5 complex,RBBP5,SENP3,27
+MLL1-WDR5 complex,RBBP5,TEX10,27
+MLL1-WDR5 complex,RUVBL1,SENP3,27
+MLL1-WDR5 complex,RUVBL1,TEX10,27
+MLL1-WDR5 complex,SENP3,TEX10,27
+MLL2 complex,ASH2L,DPY30,10
+MLL2 complex,ASH2L,HCFC1,10
+MLL2 complex,ASH2L,MEN1,10
+MLL2 complex,ASH2L,OGT,10
+MLL2 complex,ASH2L,RBBP5,10
+MLL2 complex,DPY30,HCFC1,10
+MLL2 complex,DPY30,MEN1,10
+MLL2 complex,DPY30,OGT,10
+MLL2 complex,DPY30,RBBP5,10
+MLL2 complex,HCFC1,MEN1,10
+MLL2 complex,HCFC1,OGT,10
+MLL2 complex,HCFC1,RBBP5,10
+MLL2 complex,MEN1,OGT,10
+MLL2 complex,MEN1,RBBP5,10
+MLL2 complex,OGT,RBBP5,10
+MLL3 complex,ASH2L,DPY30,9
+MLL3 complex,ASH2L,KMT2C,9
+MLL3 complex,ASH2L,NCOA6,9
+MLL3 complex,ASH2L,PAXIP1,9
+MLL3 complex,ASH2L,RBBP5,9
+MLL3 complex,DPY30,KMT2C,9
+MLL3 complex,DPY30,NCOA6,9
+MLL3 complex,DPY30,PAXIP1,9
+MLL3 complex,DPY30,RBBP5,9
+MLL3 complex,KMT2C,NCOA6,9
+MLL3 complex,KMT2C,PAXIP1,9
+MLL3 complex,KMT2C,RBBP5,9
+MLL3 complex,NCOA6,PAXIP1,9
+MLL3 complex,NCOA6,RBBP5,9
+MLL3 complex,PAXIP1,RBBP5,9
+MLL4 complex,ASH2L,DPY30,9
+MLL4 complex,ASH2L,NCOA6,9
+MLL4 complex,ASH2L,PAXIP1,9
+MLL4 complex,ASH2L,RBBP5,9
+MLL4 complex,DPY30,NCOA6,9
+MLL4 complex,DPY30,PAXIP1,9
+MLL4 complex,DPY30,RBBP5,9
+MLL4 complex,NCOA6,PAXIP1,9
+MLL4 complex,NCOA6,RBBP5,9
+MLL4 complex,PAXIP1,RBBP5,9
+MMS19 complex,CIAO1,MMS19,4
+MMXD complex,CIAO1,MMS19,5
+MPP7-DLG1-LIN7A complex,DLG1,MPP7,3
+MPP7-DLG1-LIN7C complex,DLG1,MPP7,3
+MR-UBC9-SRC1 complex,NCOA1,NR3C2,3
+MRE11/RAD50/NBS1,MRE11,NBN,3
+MRE11/RAD50/NBS1,MRE11,RAD50,3
+MRE11/RAD50/NBS1,NBN,RAD50,3
+MRE11A-RAD50-NBN-TRF2 complex,MRE11,NBN,4
+MRE11A-RAD50-NBN-TRF2 complex,MRE11,RAD50,4
+MRE11A-RAD50-NBN-TRF2 complex,NBN,RAD50,4
+MRG15-PAM14-RB complex,MORF4L1,RB1,3
+MRIP-MBS complex,MPRIP,PPP1R12A,2
+MRIP-MBS-RHOA complex,MPRIP,PPP1R12A,3
+MRN-TRRAP complex (MRE11A-RAD50-NBN-TRRAP complex),MRE11,NBN,4
+MRN-TRRAP complex (MRE11A-RAD50-NBN-TRRAP complex),MRE11,RAD50,4
+MRN-TRRAP complex (MRE11A-RAD50-NBN-TRRAP complex),MRE11,TRRAP,4
+MRN-TRRAP complex (MRE11A-RAD50-NBN-TRRAP complex),NBN,RAD50,4
+MRN-TRRAP complex (MRE11A-RAD50-NBN-TRRAP complex),NBN,TRRAP,4
+MRN-TRRAP complex (MRE11A-RAD50-NBN-TRRAP complex),RAD50,TRRAP,4
+MST2-SAV1 complex,SAV1,STK3,2
+MTA1 complex,HDAC1,HDAC2,6
+MTA1 complex,HDAC1,MBD3,6
+MTA1 complex,HDAC1,MTA1,6
+MTA1 complex,HDAC1,RBBP4,6
+MTA1 complex,HDAC1,RBBP7,6
+MTA1 complex,HDAC2,MBD3,6
+MTA1 complex,HDAC2,MTA1,6
+MTA1 complex,HDAC2,RBBP4,6
+MTA1 complex,HDAC2,RBBP7,6
+MTA1 complex,MBD3,MTA1,6
+MTA1 complex,MBD3,RBBP4,6
+MTA1 complex,MBD3,RBBP7,6
+MTA1 complex,MTA1,RBBP4,6
+MTA1 complex,MTA1,RBBP7,6
+MTA1 complex,RBBP4,RBBP7,6
+MTA1-HDAC core complex,HDAC1,HDAC2,5
+MTA1-HDAC core complex,HDAC1,MTA1,5
+MTA1-HDAC core complex,HDAC1,RBBP4,5
+MTA1-HDAC core complex,HDAC1,RBBP7,5
+MTA1-HDAC core complex,HDAC2,MTA1,5
+MTA1-HDAC core complex,HDAC2,RBBP4,5
+MTA1-HDAC core complex,HDAC2,RBBP7,5
+MTA1-HDAC core complex,MTA1,RBBP4,5
+MTA1-HDAC core complex,MTA1,RBBP7,5
+MTA1-HDAC core complex,RBBP4,RBBP7,5
+MTA2 complex,CHD4,HDAC1,8
+MTA2 complex,CHD4,HDAC2,8
+MTA2 complex,CHD4,MBD3,8
+MTA2 complex,CHD4,MTA2,8
+MTA2 complex,CHD4,RBBP4,8
+MTA2 complex,CHD4,RBBP7,8
+MTA2 complex,CHD4,SIN3A,8
+MTA2 complex,HDAC1,HDAC2,8
+MTA2 complex,HDAC1,MBD3,8
+MTA2 complex,HDAC1,MTA2,8
+MTA2 complex,HDAC1,RBBP4,8
+MTA2 complex,HDAC1,RBBP7,8
+MTA2 complex,HDAC1,SIN3A,8
+MTA2 complex,HDAC2,MBD3,8
+MTA2 complex,HDAC2,MTA2,8
+MTA2 complex,HDAC2,RBBP4,8
+MTA2 complex,HDAC2,RBBP7,8
+MTA2 complex,HDAC2,SIN3A,8
+MTA2 complex,MBD3,MTA2,8
+MTA2 complex,MBD3,RBBP4,8
+MTA2 complex,MBD3,RBBP7,8
+MTA2 complex,MBD3,SIN3A,8
+MTA2 complex,MTA2,RBBP4,8
+MTA2 complex,MTA2,RBBP7,8
+MTA2 complex,MTA2,SIN3A,8
+MTA2 complex,RBBP4,RBBP7,8
+MTA2 complex,RBBP4,SIN3A,8
+MTA2 complex,RBBP7,SIN3A,8
+MeCP1 complex,CHD4,HDAC1,9
+MeCP1 complex,CHD4,HDAC2,9
+MeCP1 complex,CHD4,MBD2,9
+MeCP1 complex,CHD4,MBD3,9
+MeCP1 complex,CHD4,MTA2,9
+MeCP1 complex,CHD4,RBBP4,9
+MeCP1 complex,CHD4,RBBP7,9
+MeCP1 complex,CHD4,GATAD2B,9
+MeCP1 complex,HDAC1,HDAC2,9
+MeCP1 complex,HDAC1,MBD2,9
+MeCP1 complex,HDAC1,MBD3,9
+MeCP1 complex,HDAC1,MTA2,9
+MeCP1 complex,HDAC1,RBBP4,9
+MeCP1 complex,HDAC1,RBBP7,9
+MeCP1 complex,HDAC2,MBD2,9
+MeCP1 complex,HDAC2,MBD3,9
+MeCP1 complex,HDAC2,MTA2,9
+MeCP1 complex,HDAC2,RBBP4,9
+MeCP1 complex,HDAC2,RBBP7,9
+MeCP1 complex,MBD2,MBD3,9
+MeCP1 complex,MBD2,MTA2,9
+MeCP1 complex,MBD2,RBBP4,9
+MeCP1 complex,MBD2,RBBP7,9
+MeCP1 complex,MBD3,MTA2,9
+MeCP1 complex,MBD3,RBBP4,9
+MeCP1 complex,MBD3,RBBP7,9
+MeCP1 complex,MTA2,RBBP4,9
+MeCP1 complex,MTA2,RBBP7,9
+MeCP1 complex,RBBP4,RBBP7,9
+MeCP1 complex,GATAD2B,HDAC1,9
+MeCP1 complex,GATAD2B,HDAC2,9
+MeCP1 complex,GATAD2B,MBD2,9
+MeCP1 complex,GATAD2B,MBD3,9
+MeCP1 complex,GATAD2B,MTA2,9
+MeCP1 complex,GATAD2B,RBBP4,9
+MeCP1 complex,GATAD2B,RBBP7,9
+MeCP2-SIN3A-HDAC complex,HDAC1,HDAC2,4
+MeCP2-SIN3A-HDAC complex,HDAC1,SIN3A,4
+MeCP2-SIN3A-HDAC complex,HDAC2,SIN3A,4
+Mediator complex,MED1,MED12,33
+Mediator complex,MED1,MED13L,33
+Mediator complex,MED1,MED14,33
+Mediator complex,MED1,MED15,33
+Mediator complex,MED1,MED16,33
+Mediator complex,MED1,MED17,33
+Mediator complex,MED1,MED19,33
+Mediator complex,MED1,MED20,33
+Mediator complex,MED1,MED23,33
+Mediator complex,MED1,MED24,33
+Mediator complex,MED1,MED26,33
+Mediator complex,MED1,MED29,33
+Mediator complex,MED1,MED4,33
+Mediator complex,MED1,OPA1,33
+Mediator complex,MED12,MED13L,33
+Mediator complex,MED12,MED14,33
+Mediator complex,MED12,MED15,33
+Mediator complex,MED12,MED16,33
+Mediator complex,MED12,MED17,33
+Mediator complex,MED12,MED19,33
+Mediator complex,MED12,MED20,33
+Mediator complex,MED12,MED23,33
+Mediator complex,MED12,MED24,33
+Mediator complex,MED12,MED26,33
+Mediator complex,MED12,MED29,33
+Mediator complex,MED12,MED4,33
+Mediator complex,MED12,OPA1,33
+Mediator complex,MED13L,MED14,33
+Mediator complex,MED13L,MED15,33
+Mediator complex,MED13L,MED16,33
+Mediator complex,MED13L,MED17,33
+Mediator complex,MED13L,MED19,33
+Mediator complex,MED13L,MED20,33
+Mediator complex,MED13L,MED23,33
+Mediator complex,MED13L,MED24,33
+Mediator complex,MED13L,MED26,33
+Mediator complex,MED13L,MED29,33
+Mediator complex,MED13L,MED4,33
+Mediator complex,MED13L,OPA1,33
+Mediator complex,MED14,MED15,33
+Mediator complex,MED14,MED16,33
+Mediator complex,MED14,MED17,33
+Mediator complex,MED14,MED19,33
+Mediator complex,MED14,MED20,33
+Mediator complex,MED14,MED23,33
+Mediator complex,MED14,MED24,33
+Mediator complex,MED14,MED26,33
+Mediator complex,MED14,MED29,33
+Mediator complex,MED14,MED4,33
+Mediator complex,MED14,OPA1,33
+Mediator complex,MED15,MED16,33
+Mediator complex,MED15,MED17,33
+Mediator complex,MED15,MED19,33
+Mediator complex,MED15,MED20,33
+Mediator complex,MED15,MED23,33
+Mediator complex,MED15,MED24,33
+Mediator complex,MED15,MED26,33
+Mediator complex,MED15,MED29,33
+Mediator complex,MED15,MED4,33
+Mediator complex,MED15,OPA1,33
+Mediator complex,MED16,MED17,33
+Mediator complex,MED16,MED19,33
+Mediator complex,MED16,MED20,33
+Mediator complex,MED16,MED23,33
+Mediator complex,MED16,MED24,33
+Mediator complex,MED16,MED26,33
+Mediator complex,MED16,MED29,33
+Mediator complex,MED16,MED4,33
+Mediator complex,MED16,OPA1,33
+Mediator complex,MED17,MED19,33
+Mediator complex,MED17,MED20,33
+Mediator complex,MED17,MED23,33
+Mediator complex,MED17,MED24,33
+Mediator complex,MED17,MED26,33
+Mediator complex,MED17,MED29,33
+Mediator complex,MED17,MED4,33
+Mediator complex,MED17,OPA1,33
+Mediator complex,MED19,MED20,33
+Mediator complex,MED19,MED23,33
+Mediator complex,MED19,MED24,33
+Mediator complex,MED19,MED26,33
+Mediator complex,MED19,MED29,33
+Mediator complex,MED19,MED4,33
+Mediator complex,MED19,OPA1,33
+Mediator complex,MED20,MED23,33
+Mediator complex,MED20,MED24,33
+Mediator complex,MED20,MED26,33
+Mediator complex,MED20,MED29,33
+Mediator complex,MED20,MED4,33
+Mediator complex,MED20,OPA1,33
+Mediator complex,MED23,MED24,33
+Mediator complex,MED23,MED26,33
+Mediator complex,MED23,MED29,33
+Mediator complex,MED23,MED4,33
+Mediator complex,MED23,OPA1,33
+Mediator complex,MED24,MED26,33
+Mediator complex,MED24,MED29,33
+Mediator complex,MED24,MED4,33
+Mediator complex,MED24,OPA1,33
+Mediator complex,MED26,MED29,33
+Mediator complex,MED26,MED4,33
+Mediator complex,MED26,OPA1,33
+Mediator complex,MED29,MED4,33
+Mediator complex,MED29,OPA1,33
+Mediator complex,MED4,OPA1,33
+Mediator complex 1,MED14,MED23,5
+Mediator complex 2,MED14,MED23,3
+Menin-associated histone methyltransferase complex,ASH2L,DPY30,7
+Menin-associated histone methyltransferase complex,ASH2L,MEN1,7
+Menin-associated histone methyltransferase complex,ASH2L,RBBP5,7
+Menin-associated histone methyltransferase complex,DPY30,MEN1,7
+Menin-associated histone methyltransferase complex,DPY30,RBBP5,7
+Menin-associated histone methyltransferase complex,MEN1,RBBP5,7
+Mi-2/NuRD-MTA3 complex,HDAC1,MBD3,5
+Mi-2/NuRD-MTA3 complex,HDAC1,MTA2,5
+Mi-2/NuRD-MTA3 complex,HDAC1,MTA3,5
+Mi-2/NuRD-MTA3 complex,MBD3,MTA2,5
+Mi-2/NuRD-MTA3 complex,MBD3,MTA3,5
+Mi-2/NuRD-MTA3 complex,MTA2,MTA3,5
+Mi2/NuRD complex,CHD4,HDAC1,7
+Mi2/NuRD complex,CHD4,HDAC2,7
+Mi2/NuRD complex,CHD4,MBD3,7
+Mi2/NuRD complex,CHD4,MTA2,7
+Mi2/NuRD complex,CHD4,RBBP4,7
+Mi2/NuRD complex,CHD4,RBBP7,7
+Mi2/NuRD complex,HDAC1,HDAC2,7
+Mi2/NuRD complex,HDAC1,MBD3,7
+Mi2/NuRD complex,HDAC1,MTA2,7
+Mi2/NuRD complex,HDAC1,RBBP4,7
+Mi2/NuRD complex,HDAC1,RBBP7,7
+Mi2/NuRD complex,HDAC2,MBD3,7
+Mi2/NuRD complex,HDAC2,MTA2,7
+Mi2/NuRD complex,HDAC2,RBBP4,7
+Mi2/NuRD complex,HDAC2,RBBP7,7
+Mi2/NuRD complex,MBD3,MTA2,7
+Mi2/NuRD complex,MBD3,RBBP4,7
+Mi2/NuRD complex,MBD3,RBBP7,7
+Mi2/NuRD complex,MTA2,RBBP4,7
+Mi2/NuRD complex,MTA2,RBBP7,7
+Mi2/NuRD complex,RBBP4,RBBP7,7
+Mi2/NuRD-BCL6-MTA3 complex,CHD4,HDAC1,5
+Mi2/NuRD-BCL6-MTA3 complex,CHD4,MBD3,5
+Mi2/NuRD-BCL6-MTA3 complex,CHD4,MTA3,5
+Mi2/NuRD-BCL6-MTA3 complex,HDAC1,MBD3,5
+Mi2/NuRD-BCL6-MTA3 complex,HDAC1,MTA3,5
+Mi2/NuRD-BCL6-MTA3 complex,MBD3,MTA3,5
+MiDAC complex,DNTTIP1,HDAC1,4
+MiDAC complex,DNTTIP1,HDAC2,4
+MiDAC complex,HDAC1,HDAC2,4
+Multisubunit ACTR coactivator complex,CREBBP,EP300,4
+Multisubunit ACTR coactivator complex,CREBBP,NCOA3,4
+Multisubunit ACTR coactivator complex,EP300,NCOA3,4
+NAT complex,MED14,MED23,7
+NCOA6-DNA-PK-Ku-PARP1 complex,NCOA6,PRKDC,5
+NCOA6-DNA-PK-Ku-PARP1 complex,NCOA6,XRCC5,5
+NCOA6-DNA-PK-Ku-PARP1 complex,PRKDC,XRCC5,5
+NCOR complex,GPS2,HDAC3,6
+NCOR complex,GPS2,NCOR1,6
+NCOR complex,GPS2,TBL1X,6
+NCOR complex,GPS2,TBL1XR1,6
+NCOR complex,HDAC3,NCOR1,6
+NCOR complex,HDAC3,TBL1X,6
+NCOR complex,HDAC3,TBL1XR1,6
+NCOR complex,NCOR1,TBL1X,6
+NCOR complex,NCOR1,TBL1XR1,6
+NCOR complex,TBL1X,TBL1XR1,6
+NCOR-HDAC3 complex,GPS2,HDAC3,5
+NCOR-HDAC3 complex,GPS2,NCOR1,5
+NCOR-HDAC3 complex,GPS2,TBL1X,5
+NCOR-HDAC3 complex,GPS2,TBL1XR1,5
+NCOR-HDAC3 complex,HDAC3,NCOR1,5
+NCOR-HDAC3 complex,HDAC3,TBL1X,5
+NCOR-HDAC3 complex,HDAC3,TBL1XR1,5
+NCOR-HDAC3 complex,NCOR1,TBL1X,5
+NCOR-HDAC3 complex,NCOR1,TBL1XR1,5
+NCOR-HDAC3 complex,TBL1X,TBL1XR1,5
+NCOR-SIN3-HDAC-HESX1 complex,HDAC1,HDAC2,6
+NCOR-SIN3-HDAC-HESX1 complex,HDAC1,NCOR2,6
+NCOR-SIN3-HDAC-HESX1 complex,HDAC1,SIN3A,6
+NCOR-SIN3-HDAC-HESX1 complex,HDAC1,SIN3B,6
+NCOR-SIN3-HDAC-HESX1 complex,HDAC2,NCOR2,6
+NCOR-SIN3-HDAC-HESX1 complex,HDAC2,SIN3A,6
+NCOR-SIN3-HDAC-HESX1 complex,HDAC2,SIN3B,6
+NCOR-SIN3-HDAC-HESX1 complex,NCOR2,SIN3A,6
+NCOR-SIN3-HDAC-HESX1 complex,NCOR2,SIN3B,6
+NCOR-SIN3-HDAC-HESX1 complex,SIN3A,SIN3B,6
+NCOR-SIN3-HDAC1 complex,HDAC1,NCOR2,3
+NCOR-SIN3-HDAC1 complex,HDAC1,SIN3A,3
+NCOR-SIN3-HDAC1 complex,NCOR2,SIN3A,3
+NCOR-SIN3-RPD3 complex,HDAC2,NCOR2,4
+NCOR-SIN3-RPD3 complex,HDAC2,SIN3A,4
+NCOR-SIN3-RPD3 complex,HDAC2,SIN3B,4
+NCOR-SIN3-RPD3 complex,NCOR2,SIN3A,4
+NCOR-SIN3-RPD3 complex,NCOR2,SIN3B,4
+NCOR-SIN3-RPD3 complex,SIN3A,SIN3B,4
+NCOR1 complex,HDAC3,NCOR1,10
+NCOR1 complex,HDAC3,SMARCA4,10
+NCOR1 complex,HDAC3,SMARCB1,10
+NCOR1 complex,HDAC3,SMARCC1,10
+NCOR1 complex,HDAC3,SMARCC2,10
+NCOR1 complex,NCOR1,SMARCA4,10
+NCOR1 complex,NCOR1,SMARCB1,10
+NCOR1 complex,NCOR1,SMARCC1,10
+NCOR1 complex,NCOR1,SMARCC2,10
+NCOR1 complex,SMARCA4,SMARCB1,10
+NCOR1 complex,SMARCA4,SMARCC1,10
+NCOR1 complex,SMARCA4,SMARCC2,10
+NCOR1 complex,SMARCB1,SMARCC1,10
+NCOR1 complex,SMARCB1,SMARCC2,10
+NCOR1 complex,SMARCC1,SMARCC2,10
+NCOR2 complex,HDAC1,HDAC2,7
+NCOR2 complex,HDAC1,HDAC3,7
+NCOR2 complex,HDAC1,NCOR1,7
+NCOR2 complex,HDAC1,NCOR2,7
+NCOR2 complex,HDAC1,SAP30,7
+NCOR2 complex,HDAC1,SIN3A,7
+NCOR2 complex,HDAC2,HDAC3,7
+NCOR2 complex,HDAC2,NCOR1,7
+NCOR2 complex,HDAC2,NCOR2,7
+NCOR2 complex,HDAC2,SAP30,7
+NCOR2 complex,HDAC2,SIN3A,7
+NCOR2 complex,HDAC3,NCOR1,7
+NCOR2 complex,HDAC3,NCOR2,7
+NCOR2 complex,HDAC3,SAP30,7
+NCOR2 complex,HDAC3,SIN3A,7
+NCOR2 complex,NCOR1,NCOR2,7
+NCOR2 complex,NCOR1,SAP30,7
+NCOR2 complex,NCOR1,SIN3A,7
+NCOR2 complex,NCOR2,SAP30,7
+NCOR2 complex,NCOR2,SIN3A,7
+NCOR2 complex,SAP30,SIN3A,7
+NEK2A-SAV1-STK3 complex,SAV1,STK3,3
+NIF1-ASH2L-RBBP5-WDR5 complex,ASH2L,RBBP5,4
+NK-3-Groucho-HIPK2-SIN3A-RbpA48-HDAC1 complex,HDAC1,RBBP4,6
+NK-3-Groucho-HIPK2-SIN3A-RbpA48-HDAC1 complex,HDAC1,SIN3A,6
+NK-3-Groucho-HIPK2-SIN3A-RbpA48-HDAC1 complex,RBBP4,SIN3A,6
+"NPC subcomplex (NUP98, NUP107, NUP133, NUP160)",NUP107,NUP133,4
+"NPC subcomplex (NUP98, NUP107, NUP133, NUP160)",NUP107,NUP160,4
+"NPC subcomplex (NUP98, NUP107, NUP133, NUP160)",NUP107,NUP98,4
+"NPC subcomplex (NUP98, NUP107, NUP133, NUP160)",NUP133,NUP160,4
+"NPC subcomplex (NUP98, NUP107, NUP133, NUP160)",NUP133,NUP98,4
+"NPC subcomplex (NUP98, NUP107, NUP133, NUP160)",NUP160,NUP98,4
+NR3C2-UBC9-SRC-1 complex,NCOA1,NR3C2,3
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD3,CHD4,7
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD3,HDAC1,7
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD3,HDAC2,7
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD3,KDM1A,7
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD3,MTA1,7
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD3,RBBP4,7
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD4,HDAC1,7
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD4,HDAC2,7
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD4,KDM1A,7
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD4,MTA1,7
+NRD complex (Nucleosome remodeling and deacetylation complex),CHD4,RBBP4,7
+NRD complex (Nucleosome remodeling and deacetylation complex),HDAC1,HDAC2,7
+NRD complex (Nucleosome remodeling and deacetylation complex),HDAC1,KDM1A,7
+NRD complex (Nucleosome remodeling and deacetylation complex),HDAC1,MTA1,7
+NRD complex (Nucleosome remodeling and deacetylation complex),HDAC1,RBBP4,7
+NRD complex (Nucleosome remodeling and deacetylation complex),HDAC2,KDM1A,7
+NRD complex (Nucleosome remodeling and deacetylation complex),HDAC2,MTA1,7
+NRD complex (Nucleosome remodeling and deacetylation complex),HDAC2,RBBP4,7
+NRD complex (Nucleosome remodeling and deacetylation complex),KDM1A,MTA1,7
+NRD complex (Nucleosome remodeling and deacetylation complex),KDM1A,RBBP4,7
+NRD complex (Nucleosome remodeling and deacetylation complex),MTA1,RBBP4,7
+NSL complex,HCFC1,OGT,9
+NUMAC complex (nucleosomal methylation activator complex),CARM1,SMARCA4,10
+NUMAC complex (nucleosomal methylation activator complex),CARM1,SMARCB1,10
+NUMAC complex (nucleosomal methylation activator complex),CARM1,SMARCC1,10
+NUMAC complex (nucleosomal methylation activator complex),CARM1,SMARCC2,10
+NUMAC complex (nucleosomal methylation activator complex),CARM1,SMARCD1,10
+NUMAC complex (nucleosomal methylation activator complex),CARM1,SMARCE1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCA4,SMARCB1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCA4,SMARCC1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCA4,SMARCC2,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCA4,SMARCD1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCA4,SMARCE1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCB1,SMARCC1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCB1,SMARCC2,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCB1,SMARCD1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCB1,SMARCE1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCC1,SMARCC2,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCC1,SMARCD1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCC1,SMARCE1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCC2,SMARCD1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCC2,SMARCE1,10
+NUMAC complex (nucleosomal methylation activator complex),SMARCD1,SMARCE1,10
+NuA4/Tip60 HAT complex,ACTL6A,MORF4L1,14
+NuA4/Tip60 HAT complex,ACTL6A,RUVBL1,14
+NuA4/Tip60 HAT complex,ACTL6A,TRRAP,14
+NuA4/Tip60 HAT complex,ACTL6A,RUVBL2,14
+NuA4/Tip60 HAT complex,MORF4L1,RUVBL1,14
+NuA4/Tip60 HAT complex,MORF4L1,TRRAP,14
+NuA4/Tip60 HAT complex,MORF4L1,RUVBL2,14
+NuA4/Tip60 HAT complex,RUVBL1,TRRAP,14
+NuA4/Tip60 HAT complex,RUVBL1,RUVBL2,14
+NuA4/Tip60 HAT complex,RUVBL2,TRRAP,14
+NuA4/Tip60-HAT complex,ACTL6A,MORF4L1,16
+NuA4/Tip60-HAT complex,ACTL6A,MORF4L2,16
+NuA4/Tip60-HAT complex,ACTL6A,RUVBL1,16
+NuA4/Tip60-HAT complex,ACTL6A,RUVBL2,16
+NuA4/Tip60-HAT complex,ACTL6A,TRRAP,16
+NuA4/Tip60-HAT complex,MORF4L1,MORF4L2,16
+NuA4/Tip60-HAT complex,MORF4L1,RUVBL1,16
+NuA4/Tip60-HAT complex,MORF4L1,RUVBL2,16
+NuA4/Tip60-HAT complex,MORF4L1,TRRAP,16
+NuA4/Tip60-HAT complex,MORF4L2,RUVBL1,16
+NuA4/Tip60-HAT complex,MORF4L2,RUVBL2,16
+NuA4/Tip60-HAT complex,MORF4L2,TRRAP,16
+NuA4/Tip60-HAT complex,RUVBL1,RUVBL2,16
+NuA4/Tip60-HAT complex,RUVBL1,TRRAP,16
+NuA4/Tip60-HAT complex,RUVBL2,TRRAP,16
+NuA4/Tip60-HAT complex A,ACTL6A,MORF4L1,15
+NuA4/Tip60-HAT complex A,ACTL6A,RUVBL1,15
+NuA4/Tip60-HAT complex A,ACTL6A,RUVBL2,15
+NuA4/Tip60-HAT complex A,ACTL6A,TRRAP,15
+NuA4/Tip60-HAT complex A,MORF4L1,RUVBL1,15
+NuA4/Tip60-HAT complex A,MORF4L1,RUVBL2,15
+NuA4/Tip60-HAT complex A,MORF4L1,TRRAP,15
+NuA4/Tip60-HAT complex A,RUVBL1,RUVBL2,15
+NuA4/Tip60-HAT complex A,RUVBL1,TRRAP,15
+NuA4/Tip60-HAT complex A,RUVBL2,TRRAP,15
+NuA4/Tip60-HAT complex B,ACTL6A,MORF4L1,8
+NuA4/Tip60-HAT complex B,ACTL6A,RUVBL1,8
+NuA4/Tip60-HAT complex B,ACTL6A,RUVBL2,8
+NuA4/Tip60-HAT complex B,ACTL6A,TRRAP,8
+NuA4/Tip60-HAT complex B,MORF4L1,RUVBL1,8
+NuA4/Tip60-HAT complex B,MORF4L1,RUVBL2,8
+NuA4/Tip60-HAT complex B,MORF4L1,TRRAP,8
+NuA4/Tip60-HAT complex B,RUVBL1,RUVBL2,8
+NuA4/Tip60-HAT complex B,RUVBL1,TRRAP,8
+NuA4/Tip60-HAT complex B,RUVBL2,TRRAP,8
+NuMA-LGN-G-alpha-i-1 complex,GNAI1,NUMA1,3
+NuRD.1 complex,CHD4,HDAC1,8
+NuRD.1 complex,CHD4,HDAC2,8
+NuRD.1 complex,CHD4,MBD3,8
+NuRD.1 complex,CHD4,MTA1,8
+NuRD.1 complex,CHD4,MTA3,8
+NuRD.1 complex,CHD4,RBBP4,8
+NuRD.1 complex,CHD4,RBBP7,8
+NuRD.1 complex,HDAC1,HDAC2,8
+NuRD.1 complex,HDAC1,MBD3,8
+NuRD.1 complex,HDAC1,MTA1,8
+NuRD.1 complex,HDAC1,MTA3,8
+NuRD.1 complex,HDAC1,RBBP4,8
+NuRD.1 complex,HDAC1,RBBP7,8
+NuRD.1 complex,HDAC2,MBD3,8
+NuRD.1 complex,HDAC2,MTA1,8
+NuRD.1 complex,HDAC2,MTA3,8
+NuRD.1 complex,HDAC2,RBBP4,8
+NuRD.1 complex,HDAC2,RBBP7,8
+NuRD.1 complex,MBD3,MTA1,8
+NuRD.1 complex,MBD3,MTA3,8
+NuRD.1 complex,MBD3,RBBP4,8
+NuRD.1 complex,MBD3,RBBP7,8
+NuRD.1 complex,MTA1,MTA3,8
+NuRD.1 complex,MTA1,RBBP4,8
+NuRD.1 complex,MTA1,RBBP7,8
+NuRD.1 complex,MTA3,RBBP4,8
+NuRD.1 complex,MTA3,RBBP7,8
+NuRD.1 complex,RBBP4,RBBP7,8
+Nup 107-160 subcomplex,NUP107,NUP133,9
+Nup 107-160 subcomplex,NUP107,NUP160,9
+Nup 107-160 subcomplex,NUP107,NUP37,9
+Nup 107-160 subcomplex,NUP107,NUP43,9
+Nup 107-160 subcomplex,NUP107,NUP85,9
+Nup 107-160 subcomplex,NUP107,NUP98,9
+Nup 107-160 subcomplex,NUP133,NUP160,9
+Nup 107-160 subcomplex,NUP133,NUP37,9
+Nup 107-160 subcomplex,NUP133,NUP43,9
+Nup 107-160 subcomplex,NUP133,NUP85,9
+Nup 107-160 subcomplex,NUP133,NUP98,9
+Nup 107-160 subcomplex,NUP160,NUP37,9
+Nup 107-160 subcomplex,NUP160,NUP43,9
+Nup 107-160 subcomplex,NUP160,NUP85,9
+Nup 107-160 subcomplex,NUP160,NUP98,9
+Nup 107-160 subcomplex,NUP37,NUP43,9
+Nup 107-160 subcomplex,NUP37,NUP85,9
+Nup 107-160 subcomplex,NUP37,NUP98,9
+Nup 107-160 subcomplex,NUP43,NUP85,9
+Nup 107-160 subcomplex,NUP43,NUP98,9
+Nup 107-160 subcomplex,NUP85,NUP98,9
+OGT-HIRA complex,CABIN1,HIRA,4
+OGT-HIRA complex,CABIN1,OGT,4
+OGT-HIRA complex,CABIN1,UBN1,4
+OGT-HIRA complex,HIRA,OGT,4
+OGT-HIRA complex,HIRA,UBN1,4
+OGT-HIRA complex,OGT,UBN1,4
+OVOL2-beta-catenin-TCF4 complex,CTNNB1,TCF4,3
+P-TEFb-BRD4-TRAP220 complex,BRD4,MED1,4
+P2X7 receptor signalling complex,ACTN4,SVIL,12
+PA28-20S proteasome,PSMA2,PSMB5,16
+PA28gamma-20S proteasome,PSMA2,PSMB5,15
+PA700-20S-PA28 complex,PSMA2,PSMB5,36
+PAR-3-PAR-6B-PRKCI complex,PARD3,PRKCI,3
+PAR-3-VE-cadherin-beta-catenin complex,CTNNB1,PARD3,3
+PBAF complex (Polybromo- and BAF containing complex),ACTL6A,SMARCA4,11
+PBAF complex (Polybromo- and BAF containing complex),ACTL6A,SMARCB1,11
+PBAF complex (Polybromo- and BAF containing complex),ACTL6A,SMARCC1,11
+PBAF complex (Polybromo- and BAF containing complex),ACTL6A,SMARCC2,11
+PBAF complex (Polybromo- and BAF containing complex),ACTL6A,SMARCD1,11
+PBAF complex (Polybromo- and BAF containing complex),ACTL6A,SMARCE1,11
+PBAF complex (Polybromo- and BAF containing complex),ACTL6A,SMARCD2,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCA4,SMARCB1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCA4,SMARCC1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCA4,SMARCC2,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCA4,SMARCD1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCA4,SMARCE1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCA4,SMARCD2,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCB1,SMARCC1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCB1,SMARCC2,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCB1,SMARCD1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCB1,SMARCE1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCB1,SMARCD2,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCC1,SMARCC2,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCC1,SMARCD1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCC1,SMARCE1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCC1,SMARCD2,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCC2,SMARCD1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCC2,SMARCE1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCC2,SMARCD2,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCD1,SMARCE1,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCD1,SMARCD2,11
+PBAF complex (Polybromo- and BAF containing complex),SMARCD2,SMARCE1,11
+PC2 complex,MED14,MED16,12
+PC2 complex,MED14,MED17,12
+PC2 complex,MED14,MED20,12
+PC2 complex,MED14,MED24,12
+PC2 complex,MED16,MED17,12
+PC2 complex,MED16,MED20,12
+PC2 complex,MED16,MED24,12
+PC2 complex,MED17,MED20,12
+PC2 complex,MED17,MED24,12
+PC2 complex,MED20,MED24,12
+PELP1-TEX10-WDR18 complex,PELP1,TEX10,3
+PHAX-CBC complex (cap binding complex),NCBP1,NCBP2,3
+PI4K2A-WASH complex,ARHGEF1,CLTC,14
+PI4K2A-WASH complex,ARHGEF1,DNM2,14
+PI4K2A-WASH complex,ARHGEF1,DOCK7,14
+PI4K2A-WASH complex,CLTC,DNM2,14
+PI4K2A-WASH complex,CLTC,DOCK7,14
+PI4K2A-WASH complex,DNM2,DOCK7,14
+PID complex,CHD4,HDAC1,5
+PID complex,CHD4,MBD3,5
+PID complex,CHD4,MTA2,5
+PID complex,CHD4,RBBP4,5
+PID complex,HDAC1,MBD3,5
+PID complex,HDAC1,MTA2,5
+PID complex,HDAC1,RBBP4,5
+PID complex,MBD3,MTA2,5
+PID complex,MBD3,RBBP4,5
+PID complex,MTA2,RBBP4,5
+PITX2-MLL4-ASH2L-RBBP5-PTIP complex,ASH2L,PAXIP1,5
+PITX2-MLL4-ASH2L-RBBP5-PTIP complex,ASH2L,RBBP5,5
+PITX2-MLL4-ASH2L-RBBP5-PTIP complex,PAXIP1,RBBP5,5
+POLR2A-CCNT1-CDK9-NCL-LEM6-CPSF2 complex,CPSF2,POLR2A,6
+PP2A A/C-SG2NA complex,PPP2CA,PPP2R1A,3
+PP2A A/C-striatin complex,PPP2CA,PPP2R1A,3
+PP2A-NR3A complex,PPP2CA,PPP2R1A,4
+PPP2CA-PPP2R1A complex,PPP2CA,PPP2R1A,2
+PPP2CA-PPP2R1A-PPP2R3A complex,PPP2CA,PPP2R1A,3
+PPP2R1A-PPP2R1B-PPP2CA-PPME1-EIF4A1 complex,PPP2CA,PPP2R1A,5
+PPP2R1A-PPP2R1B-PPP2CA-PPME1-EIF4A1 complex,PPP2CA,PPP2R1B,5
+PPP2R1A-PPP2R1B-PPP2CA-PPME1-EIF4A1 complex,PPP2R1A,PPP2R1B,5
+PPP4C-PPP4R2-Gemin3-Gemin4 complex,DDX20,GEMIN4,4
+PPP4C-PPP4R2-Gemin3-Gemin4 complex,DDX20,PPP4C,4
+PPP4C-PPP4R2-Gemin3-Gemin4 complex,GEMIN4,PPP4C,4
+PTIP-DNA damage response complex,MRE11,NBN,6
+PTIP-DNA damage response complex,MRE11,PAXIP1,6
+PTIP-DNA damage response complex,MRE11,RAD50,6
+PTIP-DNA damage response complex,NBN,PAXIP1,6
+PTIP-DNA damage response complex,NBN,RAD50,6
+PTIP-DNA damage response complex,PAXIP1,RAD50,6
+PTIP-HMT complex,ASH2L,DPY30,10
+PTIP-HMT complex,ASH2L,KMT2C,10
+PTIP-HMT complex,ASH2L,NCOA6,10
+PTIP-HMT complex,ASH2L,PAXIP1,10
+PTIP-HMT complex,ASH2L,RBBP5,10
+PTIP-HMT complex,DPY30,KMT2C,10
+PTIP-HMT complex,DPY30,NCOA6,10
+PTIP-HMT complex,DPY30,PAXIP1,10
+PTIP-HMT complex,DPY30,RBBP5,10
+PTIP-HMT complex,KMT2C,NCOA6,10
+PTIP-HMT complex,KMT2C,PAXIP1,10
+PTIP-HMT complex,KMT2C,RBBP5,10
+PTIP-HMT complex,NCOA6,PAXIP1,10
+PTIP-HMT complex,NCOA6,RBBP5,10
+PTIP-HMT complex,PAXIP1,RBBP5,10
+PU.1-SIN3A-HDAC complex,HDAC1,SIN3A,3
+Paf complex,CDC73,CTR9,5
+Paf complex,CDC73,LEO1,5
+Paf complex,CDC73,PAF1,5
+Paf complex,CDC73,WDR61,5
+Paf complex,CTR9,LEO1,5
+Paf complex,CTR9,PAF1,5
+Paf complex,CTR9,WDR61,5
+Paf complex,LEO1,PAF1,5
+Paf complex,LEO1,WDR61,5
+Paf complex,PAF1,WDR61,5
+"Polyadenylation complex (CSTF1, CSTF2, CSTF3, SYMPK CPSF1, CPSF2, CPSF3)",CPSF1,CPSF2,7
+"Polyadenylation complex (CSTF1, CSTF2, CSTF3, SYMPK CPSF1, CPSF2, CPSF3)",CPSF1,CPSF3,7
+"Polyadenylation complex (CSTF1, CSTF2, CSTF3, SYMPK CPSF1, CPSF2, CPSF3)",CPSF2,CPSF3,7
+Polycomb repressive complex 2 (PRC 2),RBBP4,RBBP7,5
+"Polycystin-1 multiprotein complex (ACTN1, CDH1, SRC, JUP, VCL, CTNNB1, PXN, BCAR1, PKD1, PTK2, TLN1)",ACTN1,CTNNB1,11
+"Polycystin-1 multiprotein complex (ACTN1, CDH1, SRC, JUP, VCL, CTNNB1, PXN, BCAR1, PKD1, PTK2, TLN1)",ACTN1,TLN1,11
+"Polycystin-1 multiprotein complex (ACTN1, CDH1, SRC, JUP, VCL, CTNNB1, PXN, BCAR1, PKD1, PTK2, TLN1)",CTNNB1,TLN1,11
+Polycystin-1-E-cadherin-beta-catenin-Flotillin-2 complex,CTNNB1,FLOT2,4
+Postsplicing complex,NXF1,UPF1,7
+Prefoldin complex,PFDN1,PFDN4,6
+Prefoldin complex,PFDN1,PFDN5,6
+Prefoldin complex,PFDN1,PFDN6,6
+Prefoldin complex,PFDN4,PFDN5,6
+Prefoldin complex,PFDN4,PFDN6,6
+Prefoldin complex,PFDN5,PFDN6,6
+Prohibitin-HIRA complex,CABIN1,HIRA,4
+Prohibitin-HIRA complex,CABIN1,UBN1,4
+Prohibitin-HIRA complex,HIRA,UBN1,4
+Prolyl 4-hydroxylase (alpha(I)-type),P4HA1,P4HB,2
+R/M complex (RAD50-MRE11 complex),MRE11,RAD50,2
+RAF1-PPP2-PIN1 complex,PPP2CB,PPP2R1A,5
+RANBPM-Muskelin-TWA1-HSMpp8 complex,GID8,MKLN1,4
+RANBPM-Muskelin-TWA1-HSMpp8 complex,GID8,RANBP9,4
+RANBPM-Muskelin-TWA1-HSMpp8 complex,MKLN1,RANBP9,4
+RB1-HDAC1-BRG1 complex,HDAC1,RB1,3
+RB1-HDAC1-BRG1 complex,HDAC1,SMARCA4,3
+RB1-HDAC1-BRG1 complex,RB1,SMARCA4,3
+"RBL2 complex (E2F4, E2F5, HDAC1, SUV39H1, P300, RBL2)",EP300,HDAC1,6
+RC complex (Replication competent complex),RFC1,RFC4,9
+RC complex during G2/M-phase of cell cycle,POLD1,POLE,13
+RC complex during G2/M-phase of cell cycle,POLD1,RFC1,13
+RC complex during G2/M-phase of cell cycle,POLE,RFC1,13
+RC complex during S-phase of cell cycle,POLD1,POLE,13
+RC complex during S-phase of cell cycle,POLD1,RFC1,13
+RC complex during S-phase of cell cycle,POLE,RFC1,13
+REST-CoREST-mSIN3A complex,RCOR1,SIN3A,3
+RFC complex,RFC1,RFC4,5
+RFC2-RIalpha complex,PPP2R1A,RFC4,3
+RICH1-PAR3-aPKC polarity complex,PARD3,PRKCI,3
+"RICH1/AMOT polarity complex, Flag-Amot precipitated",AMOTL1,MPP7,8
+"RNA polymerase II complex (CBP, PCAF, RPB1, BAF47, CYCC, CDK8), chromatin structure modifying",CREBBP,POLR2A,6
+"RNA polymerase II complex (CBP, PCAF, RPB1, BAF47, CYCC, CDK8), chromatin structure modifying",CREBBP,SMARCB1,6
+"RNA polymerase II complex (CBP, PCAF, RPB1, BAF47, CYCC, CDK8), chromatin structure modifying",POLR2A,SMARCB1,6
+"RNA polymerase II complex (RPB1, RAP74, CDK8, CYCC, SRB7, BAF190, BAF47), chromatin structure modifying",POLR2A,SMARCB1,7
+"RNA polymerase II complex, (CBP, RPBI, PCAF, BAF47), chromatin structure modifying",CREBBP,POLR2A,4
+"RNA polymerase II complex, (CBP, RPBI, PCAF, BAF47), chromatin structure modifying",CREBBP,SMARCB1,4
+"RNA polymerase II complex, (CBP, RPBI, PCAF, BAF47), chromatin structure modifying",POLR2A,SMARCB1,4
+"RNA polymerase II complex, (CDK8 complex), chromatin structure modifying",SMARCB1,SMARCC1,8
+"RNA polymerase II complex, (CDK8 complex), chromatin structure modifying",SMARCB1,SMARCC2,8
+"RNA polymerase II complex, (CDK8 complex), chromatin structure modifying",SMARCC1,SMARCC2,8
+"RNA polymerase II complex, chromatin structure modifying",GTF2H1,POLR2A,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H1,SMARCB1,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H1,SMARCC1,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H1,SMARCC2,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H1,SMARCD1,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H1,SMARCE1,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H1,GTF2H3,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H1,SMARCA4,23
+"RNA polymerase II complex, chromatin structure modifying",POLR2A,SMARCB1,23
+"RNA polymerase II complex, chromatin structure modifying",POLR2A,SMARCC1,23
+"RNA polymerase II complex, chromatin structure modifying",POLR2A,SMARCC2,23
+"RNA polymerase II complex, chromatin structure modifying",POLR2A,SMARCD1,23
+"RNA polymerase II complex, chromatin structure modifying",POLR2A,SMARCE1,23
+"RNA polymerase II complex, chromatin structure modifying",POLR2A,SMARCA4,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCB1,SMARCC1,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCB1,SMARCC2,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCB1,SMARCD1,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCB1,SMARCE1,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCC1,SMARCC2,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCC1,SMARCD1,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCC1,SMARCE1,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCC2,SMARCD1,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCC2,SMARCE1,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCD1,SMARCE1,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,GTF2H1,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,POLR2A,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,SMARCB1,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,SMARCC1,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,SMARCC2,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,SMARCD1,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,SMARCE1,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,CREBBP,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,ERCC3,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,GTF2H3,23
+"RNA polymerase II complex, chromatin structure modifying",ACTL6A,SMARCA4,23
+"RNA polymerase II complex, chromatin structure modifying",CREBBP,GTF2H1,23
+"RNA polymerase II complex, chromatin structure modifying",CREBBP,POLR2A,23
+"RNA polymerase II complex, chromatin structure modifying",CREBBP,SMARCB1,23
+"RNA polymerase II complex, chromatin structure modifying",CREBBP,SMARCC1,23
+"RNA polymerase II complex, chromatin structure modifying",CREBBP,SMARCC2,23
+"RNA polymerase II complex, chromatin structure modifying",CREBBP,SMARCD1,23
+"RNA polymerase II complex, chromatin structure modifying",CREBBP,SMARCE1,23
+"RNA polymerase II complex, chromatin structure modifying",CREBBP,ERCC3,23
+"RNA polymerase II complex, chromatin structure modifying",CREBBP,GTF2H3,23
+"RNA polymerase II complex, chromatin structure modifying",CREBBP,SMARCA4,23
+"RNA polymerase II complex, chromatin structure modifying",ERCC3,GTF2H1,23
+"RNA polymerase II complex, chromatin structure modifying",ERCC3,POLR2A,23
+"RNA polymerase II complex, chromatin structure modifying",ERCC3,SMARCB1,23
+"RNA polymerase II complex, chromatin structure modifying",ERCC3,SMARCC1,23
+"RNA polymerase II complex, chromatin structure modifying",ERCC3,SMARCC2,23
+"RNA polymerase II complex, chromatin structure modifying",ERCC3,SMARCD1,23
+"RNA polymerase II complex, chromatin structure modifying",ERCC3,SMARCE1,23
+"RNA polymerase II complex, chromatin structure modifying",ERCC3,GTF2H3,23
+"RNA polymerase II complex, chromatin structure modifying",ERCC3,SMARCA4,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H3,POLR2A,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H3,SMARCB1,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H3,SMARCC1,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H3,SMARCC2,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H3,SMARCD1,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H3,SMARCE1,23
+"RNA polymerase II complex, chromatin structure modifying",GTF2H3,SMARCA4,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCA4,SMARCB1,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCA4,SMARCC1,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCA4,SMARCC2,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCA4,SMARCD1,23
+"RNA polymerase II complex, chromatin structure modifying",SMARCA4,SMARCE1,23
+RNA polymerase II holoenzyme complex,ERCC3,GTF2H1,24
+RNA polymerase II holoenzyme complex,ERCC3,GTF2H3,24
+RNA polymerase II holoenzyme complex,ERCC3,GTF2H4,24
+RNA polymerase II holoenzyme complex,ERCC3,POLR2A,24
+RNA polymerase II holoenzyme complex,GTF2H1,GTF2H3,24
+RNA polymerase II holoenzyme complex,GTF2H1,GTF2H4,24
+RNA polymerase II holoenzyme complex,GTF2H1,POLR2A,24
+RNA polymerase II holoenzyme complex,GTF2H3,GTF2H4,24
+RNA polymerase II holoenzyme complex,GTF2H3,POLR2A,24
+RNA polymerase II holoenzyme complex,GTF2H4,POLR2A,24
+RNF20-RNF40-UbE2E1 complex,RNF20,RNF40,3
+RSmad complex,ARID1B,CREBBP,10
+RSmad complex,ARID1B,NCOA3,10
+RSmad complex,ARID1B,SMAD2,10
+RSmad complex,ARID1B,SMAD4,10
+RSmad complex,ARID1B,SMARCA4,10
+RSmad complex,ARID1B,SMARCC1,10
+RSmad complex,ARID1B,SMARCC2,10
+RSmad complex,ARID1B,TRIM33,10
+RSmad complex,CREBBP,NCOA3,10
+RSmad complex,CREBBP,SMAD2,10
+RSmad complex,CREBBP,SMAD4,10
+RSmad complex,CREBBP,SMARCA4,10
+RSmad complex,CREBBP,SMARCC1,10
+RSmad complex,CREBBP,SMARCC2,10
+RSmad complex,CREBBP,TRIM33,10
+RSmad complex,NCOA3,SMAD2,10
+RSmad complex,NCOA3,SMAD4,10
+RSmad complex,NCOA3,SMARCA4,10
+RSmad complex,NCOA3,SMARCC1,10
+RSmad complex,NCOA3,SMARCC2,10
+RSmad complex,NCOA3,TRIM33,10
+RSmad complex,SMAD2,SMAD4,10
+RSmad complex,SMAD2,SMARCA4,10
+RSmad complex,SMAD2,SMARCC1,10
+RSmad complex,SMAD2,SMARCC2,10
+RSmad complex,SMAD2,TRIM33,10
+RSmad complex,SMAD4,SMARCA4,10
+RSmad complex,SMAD4,SMARCC1,10
+RSmad complex,SMAD4,SMARCC2,10
+RSmad complex,SMAD4,TRIM33,10
+RSmad complex,SMARCA4,SMARCC1,10
+RSmad complex,SMARCA4,SMARCC2,10
+RSmad complex,SMARCA4,TRIM33,10
+RSmad complex,SMARCC1,SMARCC2,10
+RSmad complex,SMARCC1,TRIM33,10
+RSmad complex,SMARCC2,TRIM33,10
+Rap1 complex,MRE11,RAD50,11
+Rap1 complex,MRE11,XRCC5,11
+Rap1 complex,RAD50,XRCC5,11
+Rb-HDAC1 complex,HDAC1,RB1,2
+Rb-tal-1-E2A-Lmo2-Ldb1 complex,LDB1,RB1,5
+Rb-tal-1-E2A-Lmo2-Ldb1 complex,LDB1,TCF3,5
+Rb-tal-1-E2A-Lmo2-Ldb1 complex,RB1,TCF3,5
+"Respiratory chain complex I (holoenzyme), mitochondrial",NDUFA10,NDUFAB1,44
+"Respiratory chain complex I (holoenzyme), mitochondrial",NDUFA10,NDUFS2,44
+"Respiratory chain complex I (holoenzyme), mitochondrial",NDUFAB1,NDUFS2,44
+"Respiratory chain complex I (incomplete intermediate), mitochondrial",NDUFA10,NDUFS2,11
+"SAGA complex, GCN5-linked",SGF29,TRRAP,19
+SAP complex (Sin3-associated protein complex),ARID4B,HDAC1,9
+SAP complex (Sin3-associated protein complex),ARID4B,HDAC2,9
+SAP complex (Sin3-associated protein complex),ARID4B,RBBP4,9
+SAP complex (Sin3-associated protein complex),ARID4B,RBBP7,9
+SAP complex (Sin3-associated protein complex),ARID4B,SAP130,9
+SAP complex (Sin3-associated protein complex),ARID4B,SAP30,9
+SAP complex (Sin3-associated protein complex),ARID4B,SIN3A,9
+SAP complex (Sin3-associated protein complex),ARID4B,SUDS3,9
+SAP complex (Sin3-associated protein complex),HDAC1,HDAC2,9
+SAP complex (Sin3-associated protein complex),HDAC1,RBBP4,9
+SAP complex (Sin3-associated protein complex),HDAC1,RBBP7,9
+SAP complex (Sin3-associated protein complex),HDAC1,SAP130,9
+SAP complex (Sin3-associated protein complex),HDAC1,SAP30,9
+SAP complex (Sin3-associated protein complex),HDAC1,SIN3A,9
+SAP complex (Sin3-associated protein complex),HDAC1,SUDS3,9
+SAP complex (Sin3-associated protein complex),HDAC2,RBBP4,9
+SAP complex (Sin3-associated protein complex),HDAC2,RBBP7,9
+SAP complex (Sin3-associated protein complex),HDAC2,SAP130,9
+SAP complex (Sin3-associated protein complex),HDAC2,SAP30,9
+SAP complex (Sin3-associated protein complex),HDAC2,SIN3A,9
+SAP complex (Sin3-associated protein complex),HDAC2,SUDS3,9
+SAP complex (Sin3-associated protein complex),RBBP4,RBBP7,9
+SAP complex (Sin3-associated protein complex),RBBP4,SAP130,9
+SAP complex (Sin3-associated protein complex),RBBP4,SAP30,9
+SAP complex (Sin3-associated protein complex),RBBP4,SIN3A,9
+SAP complex (Sin3-associated protein complex),RBBP4,SUDS3,9
+SAP complex (Sin3-associated protein complex),RBBP7,SAP130,9
+SAP complex (Sin3-associated protein complex),RBBP7,SAP30,9
+SAP complex (Sin3-associated protein complex),RBBP7,SIN3A,9
+SAP complex (Sin3-associated protein complex),RBBP7,SUDS3,9
+SAP complex (Sin3-associated protein complex),SAP130,SAP30,9
+SAP complex (Sin3-associated protein complex),SAP130,SIN3A,9
+SAP complex (Sin3-associated protein complex),SAP130,SUDS3,9
+SAP complex (Sin3-associated protein complex),SAP30,SIN3A,9
+SAP complex (Sin3-associated protein complex),SAP30,SUDS3,9
+SAP complex (Sin3-associated protein complex),SIN3A,SUDS3,9
+SCRIB-APC complex,APC,SCRIB,2
+SETD7-YAP-AXIN1-beta-catenin complex,AXIN1,CTNNB1,4
+SHARP-CtBP complex,CTBP1,CTBP2,3
+SIN3 complex,HDAC1,HDAC2,7
+SIN3 complex,HDAC1,RBBP4,7
+SIN3 complex,HDAC1,RBBP7,7
+SIN3 complex,HDAC1,SAP30,7
+SIN3 complex,HDAC1,SIN3A,7
+SIN3 complex,HDAC2,RBBP4,7
+SIN3 complex,HDAC2,RBBP7,7
+SIN3 complex,HDAC2,SAP30,7
+SIN3 complex,HDAC2,SIN3A,7
+SIN3 complex,RBBP4,RBBP7,7
+SIN3 complex,RBBP4,SAP30,7
+SIN3 complex,RBBP4,SIN3A,7
+SIN3 complex,RBBP7,SAP30,7
+SIN3 complex,RBBP7,SIN3A,7
+SIN3 complex,SAP30,SIN3A,7
+SIN3-HDAC-SAP30-ARID4 complex,ARID4B,HDAC1,7
+SIN3-HDAC-SAP30-ARID4 complex,ARID4B,HDAC2,7
+SIN3-HDAC-SAP30-ARID4 complex,ARID4B,RBBP4,7
+SIN3-HDAC-SAP30-ARID4 complex,ARID4B,RBBP7,7
+SIN3-HDAC-SAP30-ARID4 complex,ARID4B,SAP30,7
+SIN3-HDAC-SAP30-ARID4 complex,ARID4B,SIN3A,7
+SIN3-HDAC-SAP30-ARID4 complex,HDAC1,HDAC2,7
+SIN3-HDAC-SAP30-ARID4 complex,HDAC1,RBBP4,7
+SIN3-HDAC-SAP30-ARID4 complex,HDAC1,RBBP7,7
+SIN3-HDAC-SAP30-ARID4 complex,HDAC1,SAP30,7
+SIN3-HDAC-SAP30-ARID4 complex,HDAC1,SIN3A,7
+SIN3-HDAC-SAP30-ARID4 complex,HDAC2,RBBP4,7
+SIN3-HDAC-SAP30-ARID4 complex,HDAC2,RBBP7,7
+SIN3-HDAC-SAP30-ARID4 complex,HDAC2,SAP30,7
+SIN3-HDAC-SAP30-ARID4 complex,HDAC2,SIN3A,7
+SIN3-HDAC-SAP30-ARID4 complex,RBBP4,RBBP7,7
+SIN3-HDAC-SAP30-ARID4 complex,RBBP4,SAP30,7
+SIN3-HDAC-SAP30-ARID4 complex,RBBP4,SIN3A,7
+SIN3-HDAC-SAP30-ARID4 complex,RBBP7,SAP30,7
+SIN3-HDAC-SAP30-ARID4 complex,RBBP7,SIN3A,7
+SIN3-HDAC-SAP30-ARID4 complex,SAP30,SIN3A,7
+SIN3-ING1b complex I,ARID4B,HDAC1,9
+SIN3-ING1b complex I,ARID4B,HDAC2,9
+SIN3-ING1b complex I,ARID4B,RBBP4,9
+SIN3-ING1b complex I,ARID4B,RBBP7,9
+SIN3-ING1b complex I,ARID4B,SAP30,9
+SIN3-ING1b complex I,ARID4B,SIN3A,9
+SIN3-ING1b complex I,HDAC1,HDAC2,9
+SIN3-ING1b complex I,HDAC1,RBBP4,9
+SIN3-ING1b complex I,HDAC1,RBBP7,9
+SIN3-ING1b complex I,HDAC1,SAP30,9
+SIN3-ING1b complex I,HDAC1,SIN3A,9
+SIN3-ING1b complex I,HDAC2,RBBP4,9
+SIN3-ING1b complex I,HDAC2,RBBP7,9
+SIN3-ING1b complex I,HDAC2,SAP30,9
+SIN3-ING1b complex I,HDAC2,SIN3A,9
+SIN3-ING1b complex I,RBBP4,RBBP7,9
+SIN3-ING1b complex I,RBBP4,SAP30,9
+SIN3-ING1b complex I,RBBP4,SIN3A,9
+SIN3-ING1b complex I,RBBP7,SAP30,9
+SIN3-ING1b complex I,RBBP7,SIN3A,9
+SIN3-ING1b complex I,SAP30,SIN3A,9
+SIN3-ING1b complex II,ACTL6A,ARID4B,16
+SIN3-ING1b complex II,ACTL6A,HDAC1,16
+SIN3-ING1b complex II,ACTL6A,HDAC2,16
+SIN3-ING1b complex II,ACTL6A,RBBP4,16
+SIN3-ING1b complex II,ACTL6A,RBBP7,16
+SIN3-ING1b complex II,ACTL6A,SAP30,16
+SIN3-ING1b complex II,ACTL6A,SIN3A,16
+SIN3-ING1b complex II,ACTL6A,SMARCA4,16
+SIN3-ING1b complex II,ACTL6A,SMARCB1,16
+SIN3-ING1b complex II,ACTL6A,SMARCC1,16
+SIN3-ING1b complex II,ACTL6A,SMARCC2,16
+SIN3-ING1b complex II,ACTL6A,SMARCD1,16
+SIN3-ING1b complex II,ARID4B,HDAC1,16
+SIN3-ING1b complex II,ARID4B,HDAC2,16
+SIN3-ING1b complex II,ARID4B,RBBP4,16
+SIN3-ING1b complex II,ARID4B,RBBP7,16
+SIN3-ING1b complex II,ARID4B,SAP30,16
+SIN3-ING1b complex II,ARID4B,SIN3A,16
+SIN3-ING1b complex II,ARID4B,SMARCA4,16
+SIN3-ING1b complex II,ARID4B,SMARCB1,16
+SIN3-ING1b complex II,ARID4B,SMARCC1,16
+SIN3-ING1b complex II,ARID4B,SMARCC2,16
+SIN3-ING1b complex II,ARID4B,SMARCD1,16
+SIN3-ING1b complex II,HDAC1,HDAC2,16
+SIN3-ING1b complex II,HDAC1,RBBP4,16
+SIN3-ING1b complex II,HDAC1,RBBP7,16
+SIN3-ING1b complex II,HDAC1,SAP30,16
+SIN3-ING1b complex II,HDAC1,SIN3A,16
+SIN3-ING1b complex II,HDAC1,SMARCA4,16
+SIN3-ING1b complex II,HDAC1,SMARCB1,16
+SIN3-ING1b complex II,HDAC1,SMARCC1,16
+SIN3-ING1b complex II,HDAC1,SMARCC2,16
+SIN3-ING1b complex II,HDAC1,SMARCD1,16
+SIN3-ING1b complex II,HDAC2,RBBP4,16
+SIN3-ING1b complex II,HDAC2,RBBP7,16
+SIN3-ING1b complex II,HDAC2,SAP30,16
+SIN3-ING1b complex II,HDAC2,SIN3A,16
+SIN3-ING1b complex II,HDAC2,SMARCA4,16
+SIN3-ING1b complex II,HDAC2,SMARCB1,16
+SIN3-ING1b complex II,HDAC2,SMARCC1,16
+SIN3-ING1b complex II,HDAC2,SMARCC2,16
+SIN3-ING1b complex II,HDAC2,SMARCD1,16
+SIN3-ING1b complex II,RBBP4,RBBP7,16
+SIN3-ING1b complex II,RBBP4,SAP30,16
+SIN3-ING1b complex II,RBBP4,SIN3A,16
+SIN3-ING1b complex II,RBBP4,SMARCA4,16
+SIN3-ING1b complex II,RBBP4,SMARCB1,16
+SIN3-ING1b complex II,RBBP4,SMARCC1,16
+SIN3-ING1b complex II,RBBP4,SMARCC2,16
+SIN3-ING1b complex II,RBBP4,SMARCD1,16
+SIN3-ING1b complex II,RBBP7,SAP30,16
+SIN3-ING1b complex II,RBBP7,SIN3A,16
+SIN3-ING1b complex II,RBBP7,SMARCA4,16
+SIN3-ING1b complex II,RBBP7,SMARCB1,16
+SIN3-ING1b complex II,RBBP7,SMARCC1,16
+SIN3-ING1b complex II,RBBP7,SMARCC2,16
+SIN3-ING1b complex II,RBBP7,SMARCD1,16
+SIN3-ING1b complex II,SAP30,SIN3A,16
+SIN3-ING1b complex II,SAP30,SMARCA4,16
+SIN3-ING1b complex II,SAP30,SMARCB1,16
+SIN3-ING1b complex II,SAP30,SMARCC1,16
+SIN3-ING1b complex II,SAP30,SMARCC2,16
+SIN3-ING1b complex II,SAP30,SMARCD1,16
+SIN3-ING1b complex II,SIN3A,SMARCA4,16
+SIN3-ING1b complex II,SIN3A,SMARCB1,16
+SIN3-ING1b complex II,SIN3A,SMARCC1,16
+SIN3-ING1b complex II,SIN3A,SMARCC2,16
+SIN3-ING1b complex II,SIN3A,SMARCD1,16
+SIN3-ING1b complex II,SMARCA4,SMARCB1,16
+SIN3-ING1b complex II,SMARCA4,SMARCC1,16
+SIN3-ING1b complex II,SMARCA4,SMARCC2,16
+SIN3-ING1b complex II,SMARCA4,SMARCD1,16
+SIN3-ING1b complex II,SMARCB1,SMARCC1,16
+SIN3-ING1b complex II,SMARCB1,SMARCC2,16
+SIN3-ING1b complex II,SMARCB1,SMARCD1,16
+SIN3-ING1b complex II,SMARCC1,SMARCC2,16
+SIN3-ING1b complex II,SMARCC1,SMARCD1,16
+SIN3-ING1b complex II,SMARCC2,SMARCD1,16
+SIN3-SAP25 complex,ARID4B,HDAC1,12
+SIN3-SAP25 complex,ARID4B,HDAC2,12
+SIN3-SAP25 complex,ARID4B,RBBP4,12
+SIN3-SAP25 complex,ARID4B,RBBP7,12
+SIN3-SAP25 complex,ARID4B,SAP130,12
+SIN3-SAP25 complex,ARID4B,SAP30,12
+SIN3-SAP25 complex,ARID4B,SIN3A,12
+SIN3-SAP25 complex,ARID4B,SUDS3,12
+SIN3-SAP25 complex,HDAC1,HDAC2,12
+SIN3-SAP25 complex,HDAC1,RBBP4,12
+SIN3-SAP25 complex,HDAC1,RBBP7,12
+SIN3-SAP25 complex,HDAC1,SAP130,12
+SIN3-SAP25 complex,HDAC1,SAP30,12
+SIN3-SAP25 complex,HDAC1,SIN3A,12
+SIN3-SAP25 complex,HDAC1,SUDS3,12
+SIN3-SAP25 complex,HDAC2,RBBP4,12
+SIN3-SAP25 complex,HDAC2,RBBP7,12
+SIN3-SAP25 complex,HDAC2,SAP130,12
+SIN3-SAP25 complex,HDAC2,SAP30,12
+SIN3-SAP25 complex,HDAC2,SIN3A,12
+SIN3-SAP25 complex,HDAC2,SUDS3,12
+SIN3-SAP25 complex,RBBP4,RBBP7,12
+SIN3-SAP25 complex,RBBP4,SAP130,12
+SIN3-SAP25 complex,RBBP4,SAP30,12
+SIN3-SAP25 complex,RBBP4,SIN3A,12
+SIN3-SAP25 complex,RBBP4,SUDS3,12
+SIN3-SAP25 complex,RBBP7,SAP130,12
+SIN3-SAP25 complex,RBBP7,SAP30,12
+SIN3-SAP25 complex,RBBP7,SIN3A,12
+SIN3-SAP25 complex,RBBP7,SUDS3,12
+SIN3-SAP25 complex,SAP130,SAP30,12
+SIN3-SAP25 complex,SAP130,SIN3A,12
+SIN3-SAP25 complex,SAP130,SUDS3,12
+SIN3-SAP25 complex,SAP30,SIN3A,12
+SIN3-SAP25 complex,SAP30,SUDS3,12
+SIN3-SAP25 complex,SIN3A,SUDS3,12
+SKI complex,SKIV2L,TTC37,3
+SKI complex,SKIV2L,WDR61,3
+SKI complex,TTC37,WDR61,3
+SKI-NCOR1-SIN3A-HDAC1 complex,HDAC1,NCOR1,4
+SKI-NCOR1-SIN3A-HDAC1 complex,HDAC1,SIN3A,4
+SKI-NCOR1-SIN3A-HDAC1 complex,HDAC1,SKI,4
+SKI-NCOR1-SIN3A-HDAC1 complex,NCOR1,SIN3A,4
+SKI-NCOR1-SIN3A-HDAC1 complex,NCOR1,SKI,4
+SKI-NCOR1-SIN3A-HDAC1 complex,SIN3A,SKI,4
+SKI-SMAD2 complex,SKI,SMAD2,2
+SKI-SMAD2-SMAD4  pentameric complex,SKI,SMAD2,3
+SKI-SMAD2-SMAD4  pentameric complex,SKI,SMAD4,3
+SKI-SMAD2-SMAD4  pentameric complex,SMAD2,SMAD4,3
+SKI-SMAD3-SMAD4 complex,SKI,SMAD4,3
+SMAD2-SKI-NCOR complex,NCOR1,SKI,3
+SMAD2-SKI-NCOR complex,NCOR1,SMAD2,3
+SMAD2-SKI-NCOR complex,SKI,SMAD2,3
+SMAD2-SMAD4-FAST1 complex,SMAD2,SMAD4,3
+"SMAD2-SMAD4-FAST1-TGIF complex, TGF(beta) induced",SMAD2,SMAD4,4
+"SMAD2-SMAD4-FAST1-TGIF-HDAC1 complex, TGF(beta) induced",HDAC1,SMAD2,5
+"SMAD2-SMAD4-FAST1-TGIF-HDAC1 complex, TGF(beta) induced",HDAC1,SMAD4,5
+"SMAD2-SMAD4-FAST1-TGIF-HDAC1 complex, TGF(beta) induced",SMAD2,SMAD4,5
+SMAD2-SMAD4-WWTR1 complex,SMAD2,SMAD4,3
+SMAD3-SKI-NCOR complex,NCOR1,SKI,3
+SMAD3-SMAD4-cJUN complex,JUN,SMAD4,3
+SMAD3-SMAD4-cJun-cFos complex,JUN,SMAD4,4
+SMAD3-cSKI-SIN3A-HDAC1 complex,HDAC1,SIN3A,4
+SMAD3-cSKI-SIN3A-HDAC1 complex,HDAC1,SKI,4
+SMAD3-cSKI-SIN3A-HDAC1 complex,SIN3A,SKI,4
+SMAD3/4-E2F4/5-p107-DP1 complex,RBL1,SMAD4,6
+SMAD4-SKI complex,SKI,SMAD4,2
+SMAD4-SKI-NCOR complex,NCOR1,SKI,3
+SMAD4-SKI-NCOR complex,NCOR1,SMAD4,3
+SMAD4-SKI-NCOR complex,SKI,SMAD4,3
+SMAD4-SMAD2-SMAD3 complex,SMAD2,SMAD4,3
+SMAD4-SNO-SKI complex,SKI,SMAD4,3
+SMAR1-HDAC1-SIN3A-SIN3B repressor complex,HDAC1,SIN3A,4
+SMAR1-HDAC1-SIN3A-SIN3B repressor complex,HDAC1,SIN3B,4
+SMAR1-HDAC1-SIN3A-SIN3B repressor complex,SIN3A,SIN3B,4
+SMAR1-HDAC1-SIN3A-SIN3B-p107-p130 repressor complex,HDAC1,RBL1,6
+SMAR1-HDAC1-SIN3A-SIN3B-p107-p130 repressor complex,HDAC1,SIN3A,6
+SMAR1-HDAC1-SIN3A-SIN3B-p107-p130 repressor complex,HDAC1,SIN3B,6
+SMAR1-HDAC1-SIN3A-SIN3B-p107-p130 repressor complex,RBL1,SIN3A,6
+SMAR1-HDAC1-SIN3A-SIN3B-p107-p130 repressor complex,RBL1,SIN3B,6
+SMAR1-HDAC1-SIN3A-SIN3B-p107-p130 repressor complex,SIN3A,SIN3B,6
+SMC1-SMC3 complex,SMC1A,SMC3,2
+SMCC complex,MED1,MED14,18
+SMCC complex,MED1,MED24,18
+SMCC complex,MED1,MED12,18
+SMCC complex,MED1,MED16,18
+SMCC complex,MED1,MED17,18
+SMCC complex,MED1,MED20,18
+SMCC complex,MED1,MED4,18
+SMCC complex,MED14,MED24,18
+SMCC complex,MED14,MED16,18
+SMCC complex,MED14,MED17,18
+SMCC complex,MED14,MED20,18
+SMCC complex,MED14,MED4,18
+SMCC complex,MED24,MED4,18
+SMCC complex,MED12,MED14,18
+SMCC complex,MED12,MED24,18
+SMCC complex,MED12,MED16,18
+SMCC complex,MED12,MED17,18
+SMCC complex,MED12,MED20,18
+SMCC complex,MED12,MED4,18
+SMCC complex,MED16,MED24,18
+SMCC complex,MED16,MED17,18
+SMCC complex,MED16,MED20,18
+SMCC complex,MED16,MED4,18
+SMCC complex,MED17,MED24,18
+SMCC complex,MED17,MED20,18
+SMCC complex,MED17,MED4,18
+SMCC complex,MED20,MED24,18
+SMCC complex,MED20,MED4,18
+SMN complex,DDX20,GEMIN4,18
+SMN complex,DDX20,GEMIN5,18
+SMN complex,DDX20,SNRPA,18
+SMN complex,GEMIN4,GEMIN5,18
+SMN complex,GEMIN4,SNRPA,18
+SMN complex,GEMIN5,SNRPA,18
+"SMN complex (GEMIN2, GEMIN3, GEMIN4, GEMIN5, SMN)",DDX20,GEMIN4,5
+"SMN complex (GEMIN2, GEMIN3, GEMIN4, GEMIN5, SMN)",DDX20,GEMIN5,5
+"SMN complex (GEMIN2, GEMIN3, GEMIN4, GEMIN5, SMN)",GEMIN4,GEMIN5,5
+"SMN complex (GEMIN5,4,3), SMN-independent intermediate",DDX20,GEMIN4,3
+"SMN complex (GEMIN5,4,3), SMN-independent intermediate",DDX20,GEMIN5,3
+"SMN complex (GEMIN5,4,3), SMN-independent intermediate",GEMIN4,GEMIN5,3
+SMN-PolII-RHA complex,DDX20,GEMIN4,10
+SMN-PolII-RHA complex,DDX20,POLR2A,10
+SMN-PolII-RHA complex,GEMIN4,POLR2A,10
+SMRT complex,GPS2,HDAC3,5
+SMRT complex,GPS2,NCOR2,5
+SMRT complex,GPS2,TBL1X,5
+SMRT complex,GPS2,TBL1XR1,5
+SMRT complex,HDAC3,NCOR2,5
+SMRT complex,HDAC3,TBL1X,5
+SMRT complex,HDAC3,TBL1XR1,5
+SMRT complex,NCOR2,TBL1X,5
+SMRT complex,NCOR2,TBL1XR1,5
+SMRT complex,TBL1X,TBL1XR1,5
+SMRT core complex,HDAC3,NCOR2,3
+SMRT core complex,HDAC3,TBL1X,3
+SMRT core complex,NCOR2,TBL1X,3
+"SNARE complex (VAMP3, VAMP4, STX16)",STX16,VAMP3,3
+"SNARE complex (VAMP4, STX6, STX16, VTI1a, VTI1b)",STX16,VTI1B,5
+SNF2h-cohesin-NuRD complex,CHD3,HDAC1,16
+SNF2h-cohesin-NuRD complex,CHD3,HDAC2,16
+SNF2h-cohesin-NuRD complex,CHD3,MBD2,16
+SNF2h-cohesin-NuRD complex,CHD3,MBD3,16
+SNF2h-cohesin-NuRD complex,CHD3,MTA1,16
+SNF2h-cohesin-NuRD complex,CHD3,MTA2,16
+SNF2h-cohesin-NuRD complex,CHD3,RAD21,16
+SNF2h-cohesin-NuRD complex,CHD3,RBBP4,16
+SNF2h-cohesin-NuRD complex,CHD3,RBBP7,16
+SNF2h-cohesin-NuRD complex,CHD3,SMC1A,16
+SNF2h-cohesin-NuRD complex,CHD3,SMC3,16
+SNF2h-cohesin-NuRD complex,CHD3,STAG2,16
+SNF2h-cohesin-NuRD complex,HDAC1,HDAC2,16
+SNF2h-cohesin-NuRD complex,HDAC1,MBD2,16
+SNF2h-cohesin-NuRD complex,HDAC1,MBD3,16
+SNF2h-cohesin-NuRD complex,HDAC1,MTA1,16
+SNF2h-cohesin-NuRD complex,HDAC1,MTA2,16
+SNF2h-cohesin-NuRD complex,HDAC1,RAD21,16
+SNF2h-cohesin-NuRD complex,HDAC1,RBBP4,16
+SNF2h-cohesin-NuRD complex,HDAC1,RBBP7,16
+SNF2h-cohesin-NuRD complex,HDAC1,SMC1A,16
+SNF2h-cohesin-NuRD complex,HDAC1,SMC3,16
+SNF2h-cohesin-NuRD complex,HDAC1,STAG2,16
+SNF2h-cohesin-NuRD complex,HDAC2,MBD2,16
+SNF2h-cohesin-NuRD complex,HDAC2,MBD3,16
+SNF2h-cohesin-NuRD complex,HDAC2,MTA1,16
+SNF2h-cohesin-NuRD complex,HDAC2,MTA2,16
+SNF2h-cohesin-NuRD complex,HDAC2,RAD21,16
+SNF2h-cohesin-NuRD complex,HDAC2,RBBP4,16
+SNF2h-cohesin-NuRD complex,HDAC2,RBBP7,16
+SNF2h-cohesin-NuRD complex,HDAC2,SMC1A,16
+SNF2h-cohesin-NuRD complex,HDAC2,SMC3,16
+SNF2h-cohesin-NuRD complex,HDAC2,STAG2,16
+SNF2h-cohesin-NuRD complex,MBD2,MBD3,16
+SNF2h-cohesin-NuRD complex,MBD2,MTA1,16
+SNF2h-cohesin-NuRD complex,MBD2,MTA2,16
+SNF2h-cohesin-NuRD complex,MBD2,RAD21,16
+SNF2h-cohesin-NuRD complex,MBD2,RBBP4,16
+SNF2h-cohesin-NuRD complex,MBD2,RBBP7,16
+SNF2h-cohesin-NuRD complex,MBD2,SMC1A,16
+SNF2h-cohesin-NuRD complex,MBD2,SMC3,16
+SNF2h-cohesin-NuRD complex,MBD2,STAG2,16
+SNF2h-cohesin-NuRD complex,MBD3,MTA1,16
+SNF2h-cohesin-NuRD complex,MBD3,MTA2,16
+SNF2h-cohesin-NuRD complex,MBD3,RAD21,16
+SNF2h-cohesin-NuRD complex,MBD3,RBBP4,16
+SNF2h-cohesin-NuRD complex,MBD3,RBBP7,16
+SNF2h-cohesin-NuRD complex,MBD3,SMC1A,16
+SNF2h-cohesin-NuRD complex,MBD3,SMC3,16
+SNF2h-cohesin-NuRD complex,MBD3,STAG2,16
+SNF2h-cohesin-NuRD complex,MTA1,MTA2,16
+SNF2h-cohesin-NuRD complex,MTA1,RAD21,16
+SNF2h-cohesin-NuRD complex,MTA1,RBBP4,16
+SNF2h-cohesin-NuRD complex,MTA1,RBBP7,16
+SNF2h-cohesin-NuRD complex,MTA1,SMC1A,16
+SNF2h-cohesin-NuRD complex,MTA1,SMC3,16
+SNF2h-cohesin-NuRD complex,MTA1,STAG2,16
+SNF2h-cohesin-NuRD complex,MTA2,RAD21,16
+SNF2h-cohesin-NuRD complex,MTA2,RBBP4,16
+SNF2h-cohesin-NuRD complex,MTA2,RBBP7,16
+SNF2h-cohesin-NuRD complex,MTA2,SMC1A,16
+SNF2h-cohesin-NuRD complex,MTA2,SMC3,16
+SNF2h-cohesin-NuRD complex,MTA2,STAG2,16
+SNF2h-cohesin-NuRD complex,RAD21,RBBP4,16
+SNF2h-cohesin-NuRD complex,RAD21,RBBP7,16
+SNF2h-cohesin-NuRD complex,RAD21,SMC1A,16
+SNF2h-cohesin-NuRD complex,RAD21,SMC3,16
+SNF2h-cohesin-NuRD complex,RAD21,STAG2,16
+SNF2h-cohesin-NuRD complex,RBBP4,RBBP7,16
+SNF2h-cohesin-NuRD complex,RBBP4,SMC1A,16
+SNF2h-cohesin-NuRD complex,RBBP4,SMC3,16
+SNF2h-cohesin-NuRD complex,RBBP4,STAG2,16
+SNF2h-cohesin-NuRD complex,RBBP7,SMC1A,16
+SNF2h-cohesin-NuRD complex,RBBP7,SMC3,16
+SNF2h-cohesin-NuRD complex,RBBP7,STAG2,16
+SNF2h-cohesin-NuRD complex,SMC1A,SMC3,16
+SNF2h-cohesin-NuRD complex,SMC1A,STAG2,16
+SNF2h-cohesin-NuRD complex,SMC3,STAG2,16
+SNW1 complex,DDB1,DDX23,18
+SNW1 complex,DDB1,EFTUD2,18
+SNW1 complex,DDB1,MATR3,18
+SNW1 complex,DDB1,PRPF8,18
+SNW1 complex,DDB1,SNRNP200,18
+SNW1 complex,DDB1,UBR5,18
+SNW1 complex,DDX23,EFTUD2,18
+SNW1 complex,DDX23,MATR3,18
+SNW1 complex,DDX23,PRPF8,18
+SNW1 complex,DDX23,SNRNP200,18
+SNW1 complex,DDX23,UBR5,18
+SNW1 complex,EFTUD2,MATR3,18
+SNW1 complex,EFTUD2,PRPF8,18
+SNW1 complex,EFTUD2,SNRNP200,18
+SNW1 complex,EFTUD2,UBR5,18
+SNW1 complex,MATR3,PRPF8,18
+SNW1 complex,MATR3,SNRNP200,18
+SNW1 complex,MATR3,UBR5,18
+SNW1 complex,PRPF8,SNRNP200,18
+SNW1 complex,PRPF8,UBR5,18
+SNW1 complex,SNRNP200,UBR5,18
+SRC-1 complex,CREBBP,NCOA1,4
+SRC-1 complex,CREBBP,NCOA2,4
+SRC-1 complex,NCOA1,NCOA2,4
+SRC-3 complex,CREBBP,NCOA2,7
+SRC-3 complex,CREBBP,NCOA3,7
+SRC-3 complex,NCOA2,NCOA3,7
+SRCAP-associated chromatin remodeling complex,ACTL6A,RUVBL1,10
+SRCAP-associated chromatin remodeling complex,ACTL6A,RUVBL2,10
+SRCAP-associated chromatin remodeling complex,RUVBL1,RUVBL2,10
+"STAGA complex, SPT3-linked",SAP130,SGF29,19
+"STAGA complex, SPT3-linked",SAP130,TRRAP,19
+"STAGA complex, SPT3-linked",SGF29,TRRAP,19
+STIP-USP7-p53 complex,TP53,USP7,3
+SWI-SNF chromatin remodeling-related-BRCA1 complex,ACTL6A,SMARCA4,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,ACTL6A,SMARCB1,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,ACTL6A,SMARCC1,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,ACTL6A,SMARCC2,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,ACTL6A,SMARCD2,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,ACTL6A,SMARCE1,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCA4,SMARCB1,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCA4,SMARCC1,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCA4,SMARCC2,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCA4,SMARCD2,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCA4,SMARCE1,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCB1,SMARCC1,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCB1,SMARCC2,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCB1,SMARCD2,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCB1,SMARCE1,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCC1,SMARCC2,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCC1,SMARCD2,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCC1,SMARCE1,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCC2,SMARCD2,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCC2,SMARCE1,10
+SWI-SNF chromatin remodeling-related-BRCA1 complex,SMARCD2,SMARCE1,10
+SWI/SNF-related chromatin-remodeling complex,HDAC1,SIN3A,5
+SWI/SNF-related chromatin-remodeling complex,HDAC1,SMARCE1,5
+SWI/SNF-related chromatin-remodeling complex,SIN3A,SMARCE1,5
+Set1A complex,ASH2L,RBBP5,10
+Set1A complex,ASH2L,DPY30,10
+Set1A complex,ASH2L,HCFC1,10
+Set1A complex,ASH2L,OGT,10
+Set1A complex,DPY30,RBBP5,10
+Set1A complex,DPY30,HCFC1,10
+Set1A complex,DPY30,OGT,10
+Set1A complex,HCFC1,RBBP5,10
+Set1A complex,HCFC1,OGT,10
+Set1A complex,OGT,RBBP5,10
+Set1B complex,ASH2L,RBBP5,12
+Set1B complex,ASH2L,DPY30,12
+Set1B complex,ASH2L,HCFC1,12
+Set1B complex,ASH2L,OGT,12
+Set1B complex,DPY30,RBBP5,12
+Set1B complex,DPY30,HCFC1,12
+Set1B complex,DPY30,OGT,12
+Set1B complex,HCFC1,RBBP5,12
+Set1B complex,HCFC1,OGT,12
+Set1B complex,OGT,RBBP5,12
+Sororin-cohesin complex,PDS5B,RAD21,6
+Sororin-cohesin complex,PDS5B,SMC1A,6
+Sororin-cohesin complex,PDS5B,SMC3,6
+Sororin-cohesin complex,RAD21,SMC1A,6
+Sororin-cohesin complex,RAD21,SMC3,6
+Sororin-cohesin complex,SMC1A,SMC3,6
+Sox4-beta-catenin-p300 complex,CTNNB1,EP300,3
+Spliceosome,AQR,BUD13,143
+Spliceosome,AQR,CACTIN,143
+Spliceosome,AQR,DDX23,143
+Spliceosome,AQR,EFTUD2,143
+Spliceosome,AQR,LSM2,143
+Spliceosome,AQR,LSM4,143
+Spliceosome,AQR,LSM6,143
+Spliceosome,AQR,MOV10,143
+Spliceosome,AQR,MTREX,143
+Spliceosome,AQR,NCBP1,143
+Spliceosome,AQR,NCBP2,143
+Spliceosome,AQR,PPM1G,143
+Spliceosome,AQR,PRPF3,143
+Spliceosome,AQR,PRPF31,143
+Spliceosome,AQR,PRPF4,143
+Spliceosome,AQR,PRPF6,143
+Spliceosome,AQR,PRPF8,143
+Spliceosome,AQR,RBM15,143
+Spliceosome,AQR,SART1,143
+Spliceosome,AQR,SNRNP200,143
+Spliceosome,AQR,SNRNP70,143
+Spliceosome,AQR,SNRPA,143
+Spliceosome,AQR,USP39,143
+Spliceosome,AQR,VIRMA,143
+Spliceosome,AQR,WTAP,143
+Spliceosome,BUD13,CACTIN,143
+Spliceosome,BUD13,DDX23,143
+Spliceosome,BUD13,EFTUD2,143
+Spliceosome,BUD13,LSM2,143
+Spliceosome,BUD13,LSM4,143
+Spliceosome,BUD13,LSM6,143
+Spliceosome,BUD13,MOV10,143
+Spliceosome,BUD13,MTREX,143
+Spliceosome,BUD13,NCBP1,143
+Spliceosome,BUD13,NCBP2,143
+Spliceosome,BUD13,PPM1G,143
+Spliceosome,BUD13,PRPF3,143
+Spliceosome,BUD13,PRPF31,143
+Spliceosome,BUD13,PRPF4,143
+Spliceosome,BUD13,PRPF6,143
+Spliceosome,BUD13,PRPF8,143
+Spliceosome,BUD13,RBM15,143
+Spliceosome,BUD13,SART1,143
+Spliceosome,BUD13,SNRNP200,143
+Spliceosome,BUD13,SNRNP70,143
+Spliceosome,BUD13,SNRPA,143
+Spliceosome,BUD13,USP39,143
+Spliceosome,BUD13,VIRMA,143
+Spliceosome,BUD13,WTAP,143
+Spliceosome,CACTIN,DDX23,143
+Spliceosome,CACTIN,EFTUD2,143
+Spliceosome,CACTIN,LSM2,143
+Spliceosome,CACTIN,LSM4,143
+Spliceosome,CACTIN,LSM6,143
+Spliceosome,CACTIN,MOV10,143
+Spliceosome,CACTIN,MTREX,143
+Spliceosome,CACTIN,NCBP1,143
+Spliceosome,CACTIN,NCBP2,143
+Spliceosome,CACTIN,PPM1G,143
+Spliceosome,CACTIN,PRPF3,143
+Spliceosome,CACTIN,PRPF31,143
+Spliceosome,CACTIN,PRPF4,143
+Spliceosome,CACTIN,PRPF6,143
+Spliceosome,CACTIN,PRPF8,143
+Spliceosome,CACTIN,RBM15,143
+Spliceosome,CACTIN,SART1,143
+Spliceosome,CACTIN,SNRNP200,143
+Spliceosome,CACTIN,SNRNP70,143
+Spliceosome,CACTIN,SNRPA,143
+Spliceosome,CACTIN,USP39,143
+Spliceosome,CACTIN,VIRMA,143
+Spliceosome,CACTIN,WTAP,143
+Spliceosome,DDX23,EFTUD2,143
+Spliceosome,DDX23,LSM2,143
+Spliceosome,DDX23,LSM4,143
+Spliceosome,DDX23,LSM6,143
+Spliceosome,DDX23,MOV10,143
+Spliceosome,DDX23,MTREX,143
+Spliceosome,DDX23,NCBP1,143
+Spliceosome,DDX23,NCBP2,143
+Spliceosome,DDX23,PPM1G,143
+Spliceosome,DDX23,PRPF3,143
+Spliceosome,DDX23,PRPF31,143
+Spliceosome,DDX23,PRPF4,143
+Spliceosome,DDX23,PRPF6,143
+Spliceosome,DDX23,PRPF8,143
+Spliceosome,DDX23,RBM15,143
+Spliceosome,DDX23,SART1,143
+Spliceosome,DDX23,SNRNP200,143
+Spliceosome,DDX23,SNRNP70,143
+Spliceosome,DDX23,SNRPA,143
+Spliceosome,DDX23,USP39,143
+Spliceosome,DDX23,VIRMA,143
+Spliceosome,DDX23,WTAP,143
+Spliceosome,EFTUD2,LSM2,143
+Spliceosome,EFTUD2,LSM4,143
+Spliceosome,EFTUD2,LSM6,143
+Spliceosome,EFTUD2,MOV10,143
+Spliceosome,EFTUD2,MTREX,143
+Spliceosome,EFTUD2,NCBP1,143
+Spliceosome,EFTUD2,NCBP2,143
+Spliceosome,EFTUD2,PPM1G,143
+Spliceosome,EFTUD2,PRPF3,143
+Spliceosome,EFTUD2,PRPF31,143
+Spliceosome,EFTUD2,PRPF4,143
+Spliceosome,EFTUD2,PRPF6,143
+Spliceosome,EFTUD2,PRPF8,143
+Spliceosome,EFTUD2,RBM15,143
+Spliceosome,EFTUD2,SART1,143
+Spliceosome,EFTUD2,SNRNP200,143
+Spliceosome,EFTUD2,SNRNP70,143
+Spliceosome,EFTUD2,SNRPA,143
+Spliceosome,EFTUD2,USP39,143
+Spliceosome,EFTUD2,VIRMA,143
+Spliceosome,EFTUD2,WTAP,143
+Spliceosome,LSM2,LSM4,143
+Spliceosome,LSM2,LSM6,143
+Spliceosome,LSM2,MOV10,143
+Spliceosome,LSM2,MTREX,143
+Spliceosome,LSM2,NCBP1,143
+Spliceosome,LSM2,NCBP2,143
+Spliceosome,LSM2,PPM1G,143
+Spliceosome,LSM2,PRPF3,143
+Spliceosome,LSM2,PRPF31,143
+Spliceosome,LSM2,PRPF4,143
+Spliceosome,LSM2,PRPF6,143
+Spliceosome,LSM2,PRPF8,143
+Spliceosome,LSM2,RBM15,143
+Spliceosome,LSM2,SART1,143
+Spliceosome,LSM2,SNRNP200,143
+Spliceosome,LSM2,SNRNP70,143
+Spliceosome,LSM2,SNRPA,143
+Spliceosome,LSM2,USP39,143
+Spliceosome,LSM2,VIRMA,143
+Spliceosome,LSM2,WTAP,143
+Spliceosome,LSM4,LSM6,143
+Spliceosome,LSM4,MOV10,143
+Spliceosome,LSM4,MTREX,143
+Spliceosome,LSM4,NCBP1,143
+Spliceosome,LSM4,NCBP2,143
+Spliceosome,LSM4,PPM1G,143
+Spliceosome,LSM4,PRPF3,143
+Spliceosome,LSM4,PRPF31,143
+Spliceosome,LSM4,PRPF4,143
+Spliceosome,LSM4,PRPF6,143
+Spliceosome,LSM4,PRPF8,143
+Spliceosome,LSM4,RBM15,143
+Spliceosome,LSM4,SART1,143
+Spliceosome,LSM4,SNRNP200,143
+Spliceosome,LSM4,SNRNP70,143
+Spliceosome,LSM4,SNRPA,143
+Spliceosome,LSM4,USP39,143
+Spliceosome,LSM4,VIRMA,143
+Spliceosome,LSM4,WTAP,143
+Spliceosome,LSM6,MOV10,143
+Spliceosome,LSM6,MTREX,143
+Spliceosome,LSM6,NCBP1,143
+Spliceosome,LSM6,NCBP2,143
+Spliceosome,LSM6,PPM1G,143
+Spliceosome,LSM6,PRPF3,143
+Spliceosome,LSM6,PRPF31,143
+Spliceosome,LSM6,PRPF4,143
+Spliceosome,LSM6,PRPF6,143
+Spliceosome,LSM6,PRPF8,143
+Spliceosome,LSM6,RBM15,143
+Spliceosome,LSM6,SART1,143
+Spliceosome,LSM6,SNRNP200,143
+Spliceosome,LSM6,SNRNP70,143
+Spliceosome,LSM6,SNRPA,143
+Spliceosome,LSM6,USP39,143
+Spliceosome,LSM6,VIRMA,143
+Spliceosome,LSM6,WTAP,143
+Spliceosome,MOV10,MTREX,143
+Spliceosome,MOV10,NCBP1,143
+Spliceosome,MOV10,NCBP2,143
+Spliceosome,MOV10,PPM1G,143
+Spliceosome,MOV10,PRPF3,143
+Spliceosome,MOV10,PRPF31,143
+Spliceosome,MOV10,PRPF4,143
+Spliceosome,MOV10,PRPF6,143
+Spliceosome,MOV10,PRPF8,143
+Spliceosome,MOV10,RBM15,143
+Spliceosome,MOV10,SART1,143
+Spliceosome,MOV10,SNRNP200,143
+Spliceosome,MOV10,SNRNP70,143
+Spliceosome,MOV10,SNRPA,143
+Spliceosome,MOV10,USP39,143
+Spliceosome,MOV10,VIRMA,143
+Spliceosome,MOV10,WTAP,143
+Spliceosome,MTREX,NCBP1,143
+Spliceosome,MTREX,NCBP2,143
+Spliceosome,MTREX,PPM1G,143
+Spliceosome,MTREX,PRPF3,143
+Spliceosome,MTREX,PRPF31,143
+Spliceosome,MTREX,PRPF4,143
+Spliceosome,MTREX,PRPF6,143
+Spliceosome,MTREX,PRPF8,143
+Spliceosome,MTREX,RBM15,143
+Spliceosome,MTREX,SART1,143
+Spliceosome,MTREX,SNRNP200,143
+Spliceosome,MTREX,SNRNP70,143
+Spliceosome,MTREX,SNRPA,143
+Spliceosome,MTREX,USP39,143
+Spliceosome,MTREX,VIRMA,143
+Spliceosome,MTREX,WTAP,143
+Spliceosome,NCBP1,NCBP2,143
+Spliceosome,NCBP1,PPM1G,143
+Spliceosome,NCBP1,PRPF3,143
+Spliceosome,NCBP1,PRPF31,143
+Spliceosome,NCBP1,PRPF4,143
+Spliceosome,NCBP1,PRPF6,143
+Spliceosome,NCBP1,PRPF8,143
+Spliceosome,NCBP1,RBM15,143
+Spliceosome,NCBP1,SART1,143
+Spliceosome,NCBP1,SNRNP200,143
+Spliceosome,NCBP1,SNRNP70,143
+Spliceosome,NCBP1,SNRPA,143
+Spliceosome,NCBP1,USP39,143
+Spliceosome,NCBP1,VIRMA,143
+Spliceosome,NCBP1,WTAP,143
+Spliceosome,NCBP2,PPM1G,143
+Spliceosome,NCBP2,PRPF3,143
+Spliceosome,NCBP2,PRPF31,143
+Spliceosome,NCBP2,PRPF4,143
+Spliceosome,NCBP2,PRPF6,143
+Spliceosome,NCBP2,PRPF8,143
+Spliceosome,NCBP2,RBM15,143
+Spliceosome,NCBP2,SART1,143
+Spliceosome,NCBP2,SNRNP200,143
+Spliceosome,NCBP2,SNRNP70,143
+Spliceosome,NCBP2,SNRPA,143
+Spliceosome,NCBP2,USP39,143
+Spliceosome,NCBP2,VIRMA,143
+Spliceosome,NCBP2,WTAP,143
+Spliceosome,PPM1G,PRPF3,143
+Spliceosome,PPM1G,PRPF31,143
+Spliceosome,PPM1G,PRPF4,143
+Spliceosome,PPM1G,PRPF6,143
+Spliceosome,PPM1G,PRPF8,143
+Spliceosome,PPM1G,RBM15,143
+Spliceosome,PPM1G,SART1,143
+Spliceosome,PPM1G,SNRNP200,143
+Spliceosome,PPM1G,SNRNP70,143
+Spliceosome,PPM1G,SNRPA,143
+Spliceosome,PPM1G,USP39,143
+Spliceosome,PPM1G,VIRMA,143
+Spliceosome,PPM1G,WTAP,143
+Spliceosome,PRPF3,PRPF31,143
+Spliceosome,PRPF3,PRPF4,143
+Spliceosome,PRPF3,PRPF6,143
+Spliceosome,PRPF3,PRPF8,143
+Spliceosome,PRPF3,RBM15,143
+Spliceosome,PRPF3,SART1,143
+Spliceosome,PRPF3,SNRNP200,143
+Spliceosome,PRPF3,SNRNP70,143
+Spliceosome,PRPF3,SNRPA,143
+Spliceosome,PRPF3,USP39,143
+Spliceosome,PRPF3,VIRMA,143
+Spliceosome,PRPF3,WTAP,143
+Spliceosome,PRPF31,PRPF4,143
+Spliceosome,PRPF31,PRPF6,143
+Spliceosome,PRPF31,PRPF8,143
+Spliceosome,PRPF31,RBM15,143
+Spliceosome,PRPF31,SART1,143
+Spliceosome,PRPF31,SNRNP200,143
+Spliceosome,PRPF31,SNRNP70,143
+Spliceosome,PRPF31,SNRPA,143
+Spliceosome,PRPF31,USP39,143
+Spliceosome,PRPF31,VIRMA,143
+Spliceosome,PRPF31,WTAP,143
+Spliceosome,PRPF4,PRPF6,143
+Spliceosome,PRPF4,PRPF8,143
+Spliceosome,PRPF4,RBM15,143
+Spliceosome,PRPF4,SART1,143
+Spliceosome,PRPF4,SNRNP200,143
+Spliceosome,PRPF4,SNRNP70,143
+Spliceosome,PRPF4,SNRPA,143
+Spliceosome,PRPF4,USP39,143
+Spliceosome,PRPF4,VIRMA,143
+Spliceosome,PRPF4,WTAP,143
+Spliceosome,PRPF6,PRPF8,143
+Spliceosome,PRPF6,RBM15,143
+Spliceosome,PRPF6,SART1,143
+Spliceosome,PRPF6,SNRNP200,143
+Spliceosome,PRPF6,SNRNP70,143
+Spliceosome,PRPF6,SNRPA,143
+Spliceosome,PRPF6,USP39,143
+Spliceosome,PRPF6,VIRMA,143
+Spliceosome,PRPF6,WTAP,143
+Spliceosome,PRPF8,RBM15,143
+Spliceosome,PRPF8,SART1,143
+Spliceosome,PRPF8,SNRNP200,143
+Spliceosome,PRPF8,SNRNP70,143
+Spliceosome,PRPF8,SNRPA,143
+Spliceosome,PRPF8,USP39,143
+Spliceosome,PRPF8,VIRMA,143
+Spliceosome,PRPF8,WTAP,143
+Spliceosome,RBM15,SART1,143
+Spliceosome,RBM15,SNRNP200,143
+Spliceosome,RBM15,SNRNP70,143
+Spliceosome,RBM15,SNRPA,143
+Spliceosome,RBM15,USP39,143
+Spliceosome,RBM15,VIRMA,143
+Spliceosome,RBM15,WTAP,143
+Spliceosome,SART1,SNRNP200,143
+Spliceosome,SART1,SNRNP70,143
+Spliceosome,SART1,SNRPA,143
+Spliceosome,SART1,USP39,143
+Spliceosome,SART1,VIRMA,143
+Spliceosome,SART1,WTAP,143
+Spliceosome,SNRNP200,SNRNP70,143
+Spliceosome,SNRNP200,SNRPA,143
+Spliceosome,SNRNP200,USP39,143
+Spliceosome,SNRNP200,VIRMA,143
+Spliceosome,SNRNP200,WTAP,143
+Spliceosome,SNRNP70,SNRPA,143
+Spliceosome,SNRNP70,USP39,143
+Spliceosome,SNRNP70,VIRMA,143
+Spliceosome,SNRNP70,WTAP,143
+Spliceosome,SNRPA,USP39,143
+Spliceosome,SNRPA,VIRMA,143
+Spliceosome,SNRPA,WTAP,143
+Spliceosome,USP39,VIRMA,143
+Spliceosome,USP39,WTAP,143
+Spliceosome,VIRMA,WTAP,143
+Stargazin-AP-2-AP-3a complex,AP2A1,AP3D1,3
+Stargazin-Glu2A-mu2 complex,AP2M1,GRIA2,3
+TANK-TRAF2-TRAF3 complex,TRAF2,TRAF3,3
+TCF4-CTNNB1 complex,CTNNB1,TCF4,2
+TCF4-CTNNB1-CREBBP complex,CREBBP,CTNNB1,3
+TCF4-CTNNB1-CREBBP complex,CREBBP,TCF4,3
+TCF4-CTNNB1-CREBBP complex,CTNNB1,TCF4,3
+TCF4-CTNNB1-EP300 complex,CTNNB1,EP300,3
+TCF4-CTNNB1-EP300 complex,CTNNB1,TCF4,3
+TCF4-CTNNB1-EP300 complex,EP300,TCF4,3
+TCF4-CTNNB1-SUMO1-EP300-HADAC6 complex,CTNNB1,EP300,5
+TCF4-CTNNB1-SUMO1-EP300-HADAC6 complex,CTNNB1,TCF4,5
+TCF4-CTNNB1-SUMO1-EP300-HADAC6 complex,EP300,TCF4,5
+TERF2-RAP1 complex,MRE11,RAD50,7
+TERF2-RAP1 complex,MRE11,XRCC5,7
+TERF2-RAP1 complex,RAD50,XRCC5,7
+TFC4-CTNNB1 complex,CTNNB1,TCF7L2,2
+TFIIH transcription factor complex,ERCC3,GTF2H1,10
+TFIIH transcription factor complex,ERCC3,GTF2H3,10
+TFIIH transcription factor complex,ERCC3,GTF2H4,10
+TFIIH transcription factor complex,ERCC3,GTF2H5,10
+TFIIH transcription factor complex,GTF2H1,GTF2H3,10
+TFIIH transcription factor complex,GTF2H1,GTF2H4,10
+TFIIH transcription factor complex,GTF2H1,GTF2H5,10
+TFIIH transcription factor complex,GTF2H3,GTF2H4,10
+TFIIH transcription factor complex,GTF2H3,GTF2H5,10
+TFIIH transcription factor complex,GTF2H4,GTF2H5,10
+TFIIH transcription factor core complex,ERCC3,GTF2H1,5
+TFIIH transcription factor core complex,ERCC3,GTF2H3,5
+TFIIH transcription factor core complex,ERCC3,GTF2H4,5
+TFIIH transcription factor core complex,GTF2H1,GTF2H3,5
+TFIIH transcription factor core complex,GTF2H1,GTF2H4,5
+TFIIH transcription factor core complex,GTF2H3,GTF2H4,5
+TFTC-type histone acetyl transferase complex,MED1,MED12,11
+TFTC-type histone acetyl transferase complex,MED1,MED14,11
+TFTC-type histone acetyl transferase complex,MED1,MED16,11
+TFTC-type histone acetyl transferase complex,MED1,MED17,11
+TFTC-type histone acetyl transferase complex,MED1,MED23,11
+TFTC-type histone acetyl transferase complex,MED1,MED24,11
+TFTC-type histone acetyl transferase complex,MED1,TRRAP,11
+TFTC-type histone acetyl transferase complex,MED12,MED14,11
+TFTC-type histone acetyl transferase complex,MED12,MED16,11
+TFTC-type histone acetyl transferase complex,MED12,MED17,11
+TFTC-type histone acetyl transferase complex,MED12,MED23,11
+TFTC-type histone acetyl transferase complex,MED12,MED24,11
+TFTC-type histone acetyl transferase complex,MED12,TRRAP,11
+TFTC-type histone acetyl transferase complex,MED14,MED16,11
+TFTC-type histone acetyl transferase complex,MED14,MED17,11
+TFTC-type histone acetyl transferase complex,MED14,MED23,11
+TFTC-type histone acetyl transferase complex,MED14,MED24,11
+TFTC-type histone acetyl transferase complex,MED14,TRRAP,11
+TFTC-type histone acetyl transferase complex,MED16,MED17,11
+TFTC-type histone acetyl transferase complex,MED16,MED23,11
+TFTC-type histone acetyl transferase complex,MED16,MED24,11
+TFTC-type histone acetyl transferase complex,MED16,TRRAP,11
+TFTC-type histone acetyl transferase complex,MED17,MED23,11
+TFTC-type histone acetyl transferase complex,MED17,MED24,11
+TFTC-type histone acetyl transferase complex,MED17,TRRAP,11
+TFTC-type histone acetyl transferase complex,MED23,MED24,11
+TFTC-type histone acetyl transferase complex,MED23,TRRAP,11
+TFTC-type histone acetyl transferase complex,MED24,TRRAP,11
+TIF1gamma-SMAD2-SMAD3 complex,SMAD2,TRIM33,3
+"TIM (TIM9, TIM10) complex, mitochondrial",TIMM10,TIMM9,2
+TIP49-TIP48-BAF53 complex,ACTL6A,RUVBL1,3
+TIP49-TIP48-BAF53 complex,ACTL6A,RUVBL2,3
+TIP49-TIP48-BAF53 complex,RUVBL1,RUVBL2,3
+TIP60 histone acetylase complex,ACTL6A,RUVBL1,5
+TIP60 histone acetylase complex,ACTL6A,RUVBL2,5
+TIP60 histone acetylase complex,ACTL6A,TRRAP,5
+TIP60 histone acetylase complex,RUVBL1,RUVBL2,5
+TIP60 histone acetylase complex,RUVBL1,TRRAP,5
+TIP60 histone acetylase complex,RUVBL2,TRRAP,5
+TLE1 corepressor complex (MASH1 promoter-corepressor complex),MYH10,RAD50,10
+TLE1 corepressor complex (MASH1 promoter-corepressor complex),MYH10,TOP2B,10
+TLE1 corepressor complex (MASH1 promoter-corepressor complex),RAD50,TOP2B,10
+"TNF-alpha/NF-kappa B signaling complex (CHUK, BTRC, NFKB2, PPP6C, REL, CUL1, IKBKE, SAPS2, SAPS1, ANKRD28, RELA, SKP1)",BTRC,RELA,12
+"TNF-alpha/NF-kappa B signaling complex (CHUK, KPNA3, NFKB2, NFKBIB, REL, IKBKG,  NFKB1, NFKBIE, RELB,  NFKBIA, RELA, TNIP2)",KPNA3,RELA,12
+"TNF-alpha/NF-kappa B signaling complex (SEC16A, CHUK, IKBKB, NFKB2, REL, IKBKG, MAP3K14, RELA, FBXW7, USP2)",RELA,SEC16A,10
+TNF-alpha/NF-kappa B signaling complex 5,FBXW11,KPNA2,25
+TNF-alpha/NF-kappa B signaling complex 5,FBXW11,POLR1B,25
+TNF-alpha/NF-kappa B signaling complex 5,FBXW11,POLR1E,25
+TNF-alpha/NF-kappa B signaling complex 5,FBXW11,RELA,25
+TNF-alpha/NF-kappa B signaling complex 5,KPNA2,POLR1B,25
+TNF-alpha/NF-kappa B signaling complex 5,KPNA2,POLR1E,25
+TNF-alpha/NF-kappa B signaling complex 5,KPNA2,RELA,25
+TNF-alpha/NF-kappa B signaling complex 5,POLR1B,POLR1E,25
+TNF-alpha/NF-kappa B signaling complex 5,POLR1B,RELA,25
+TNF-alpha/NF-kappa B signaling complex 5,POLR1E,RELA,25
+TNF-alpha/NF-kappa B signaling complex 7,CDC37,FKBP5,8
+TNF-alpha/NF-kappa B signaling complex 8,CDC37,FKBP5,6
+TNF-alpha/NF-kappa B signaling complex 9,CDC37,FKBP5,5
+TNPO2-RAN-NXF1 complex,NXF1,TNPO2,3
+TP53-TSPY1-USP7 complex,TP53,USP7,3
+TRAF2-cIAP1/BIRC2 complex,BIRC2,TRAF2,2
+TRAP complex,MED1,MED12,16
+TRAP complex,MED1,MED14,16
+TRAP complex,MED1,MED16,16
+TRAP complex,MED1,MED17,16
+TRAP complex,MED1,MED24,16
+TRAP complex,MED1,MED4,16
+TRAP complex,MED12,MED14,16
+TRAP complex,MED12,MED16,16
+TRAP complex,MED12,MED17,16
+TRAP complex,MED12,MED24,16
+TRAP complex,MED12,MED4,16
+TRAP complex,MED14,MED16,16
+TRAP complex,MED14,MED17,16
+TRAP complex,MED14,MED24,16
+TRAP complex,MED14,MED4,16
+TRAP complex,MED16,MED17,16
+TRAP complex,MED16,MED24,16
+TRAP complex,MED16,MED4,16
+TRAP complex,MED17,MED24,16
+TRAP complex,MED17,MED4,16
+TRAP complex,MED24,MED4,16
+TRAP-SMCC mediator complex,MED1,MED17,10
+TRAP-SMCC mediator complex,MED1,MED19,10
+TRAP-SMCC mediator complex,MED1,MED29,10
+TRAP-SMCC mediator complex,MED1,MED4,10
+TRAP-SMCC mediator complex,MED17,MED19,10
+TRAP-SMCC mediator complex,MED17,MED29,10
+TRAP-SMCC mediator complex,MED17,MED4,10
+TRAP-SMCC mediator complex,MED19,MED29,10
+TRAP-SMCC mediator complex,MED19,MED4,10
+TRAP-SMCC mediator complex,MED29,MED4,10
+"TRBP containing complex (DICER, TRBP, AGO2, RPL7A, EIF6, MOV10)",AGO2,MOV10,6
+TRIM27-RB1 complex,RB1,TRIM27,2
+TRRAP-BAF53-HAT complex,ACTL6A,TRRAP,2
+"TSC (TSC1, TSC2, AXIN, GSK3) complex",AXIN1,TSC1,4
+Toposome,PRPF8,TOP2A,7
+Tumor necrosis factor receptor 1 signaling complex,BIRC2,TRAF2,4
+URI complex (Unconventional prefoldin RPB5 Interactor),RUVBL1,RUVBL2,9
+USP7-MAGEL2-TRIM27 complex,TRIM27,USP7,3
+UTX-MLL2/3 complex,ASH2L,KMT2C,12
+UTX-MLL2/3 complex,ASH2L,NCOA6,12
+UTX-MLL2/3 complex,ASH2L,PAXIP1,12
+UTX-MLL2/3 complex,ASH2L,RBBP5,12
+UTX-MLL2/3 complex,ASH2L,ZNF281,12
+UTX-MLL2/3 complex,KMT2C,NCOA6,12
+UTX-MLL2/3 complex,KMT2C,PAXIP1,12
+UTX-MLL2/3 complex,KMT2C,RBBP5,12
+UTX-MLL2/3 complex,KMT2C,ZNF281,12
+UTX-MLL2/3 complex,NCOA6,PAXIP1,12
+UTX-MLL2/3 complex,NCOA6,RBBP5,12
+UTX-MLL2/3 complex,NCOA6,ZNF281,12
+UTX-MLL2/3 complex,PAXIP1,RBBP5,12
+UTX-MLL2/3 complex,PAXIP1,ZNF281,12
+UTX-MLL2/3 complex,RBBP5,ZNF281,12
+"Ubiquitin E3 ligase (CSN1, CSN8, HRT1, SKP1, SKP2, CUL1, CUL2, CUL3)",CUL2,CUL3,8
+"Ubiquitin E3 ligase (CSN1, CSN8, HRT1, SKP1, SKP2, CUL1, CUL2, CUL3)",CUL2,GPS1,8
+"Ubiquitin E3 ligase (CSN1, CSN8, HRT1, SKP1, SKP2, CUL1, CUL2, CUL3)",CUL3,GPS1,8
+"Ubiquitin E3 ligase (CUL3, KEAP1, RBX1)",CUL3,KEAP1,3
+"Ubiquitin E3 ligase (CUL3, KLHL7, RBX1)",CUL3,KLHL7,3
+"Ubiquitin E3 ligase (CUL3, KLHL9, KLHL13, RBX1)",CUL3,KLHL13,4
+"Ubiquitin E3 ligase (CUL3, KLHL9, KLHL13, RBX1)",CUL3,KLHL9,4
+"Ubiquitin E3 ligase (CUL3, KLHL9, KLHL13, RBX1)",KLHL13,KLHL9,4
+"Ubiquitin E3 ligase (DDB1, DYRK2, EDD, VPRBP)",DCAF1,DDB1,4
+"Ubiquitin E3 ligase (DDB1, DYRK2, EDD, VPRBP)",DCAF1,UBR5,4
+"Ubiquitin E3 ligase (DDB1, DYRK2, EDD, VPRBP)",DDB1,UBR5,4
+"Ubiquitin E3 ligase (DDIT4, DDB1, BTRC, CUL4A)",BTRC,DDB1,4
+Vigilin-DNA-PK-Ku antigen complex,HDLBP,PRKDC,4
+Vigilin-DNA-PK-Ku antigen complex,HDLBP,XRCC5,4
+Vigilin-DNA-PK-Ku antigen complex,PRKDC,XRCC5,4
+WDR5-ASH2L-RBBP5-MLL2 complex,ASH2L,RBBP5,4
+WINAC complex,ACTL6A,SMARCA4,14
+WINAC complex,ACTL6A,SMARCB1,14
+WINAC complex,ACTL6A,SMARCC1,14
+WINAC complex,ACTL6A,SMARCC2,14
+WINAC complex,ACTL6A,SMARCD1,14
+WINAC complex,ACTL6A,SMARCE1,14
+WINAC complex,ACTL6A,SUPT16H,14
+WINAC complex,ACTL6A,TOP2B,14
+WINAC complex,SMARCA4,SMARCB1,14
+WINAC complex,SMARCA4,SMARCC1,14
+WINAC complex,SMARCA4,SMARCC2,14
+WINAC complex,SMARCA4,SMARCD1,14
+WINAC complex,SMARCA4,SMARCE1,14
+WINAC complex,SMARCA4,SUPT16H,14
+WINAC complex,SMARCA4,TOP2B,14
+WINAC complex,SMARCB1,SMARCC1,14
+WINAC complex,SMARCB1,SMARCC2,14
+WINAC complex,SMARCB1,SMARCD1,14
+WINAC complex,SMARCB1,SMARCE1,14
+WINAC complex,SMARCB1,SUPT16H,14
+WINAC complex,SMARCB1,TOP2B,14
+WINAC complex,SMARCC1,SMARCC2,14
+WINAC complex,SMARCC1,SMARCD1,14
+WINAC complex,SMARCC1,SMARCE1,14
+WINAC complex,SMARCC1,SUPT16H,14
+WINAC complex,SMARCC1,TOP2B,14
+WINAC complex,SMARCC2,SMARCD1,14
+WINAC complex,SMARCC2,SMARCE1,14
+WINAC complex,SMARCC2,SUPT16H,14
+WINAC complex,SMARCC2,TOP2B,14
+WINAC complex,SMARCD1,SMARCE1,14
+WINAC complex,SMARCD1,SUPT16H,14
+WINAC complex,SMARCD1,TOP2B,14
+WINAC complex,SMARCE1,SUPT16H,14
+WINAC complex,SMARCE1,TOP2B,14
+WINAC complex,SUPT16H,TOP2B,14
+WIP-WASp-actin-myosin-IIa complex,MYH9,WIPF1,6
+"WRA complex (WDR5, RBBP5, ASH2L)",ASH2L,RBBP5,3
+Wave-2 complex,ABI1,NCKAP1,5
+XFIM complex,HDAC1,HDAC2,5
+XFIM complex,HDAC1,KDM1A,5
+XFIM complex,HDAC1,ZMYM3,5
+XFIM complex,HDAC2,KDM1A,5
+XFIM complex,HDAC2,ZMYM3,5
+XFIM complex,KDM1A,ZMYM3,5
+XRCC1-LIG3-PNK-TDP1 complex,LIG3,PNKP,4
+XRCC1-LIG3-PNK-TDP1 complex,LIG3,XRCC1,4
+XRCC1-LIG3-PNK-TDP1 complex,PNKP,XRCC1,4
+ZO1-(beta)cadherin-(VE)cadherin-VEGFR2 complex,CTNNB1,TJP1,4
+anti-BHC110 complex,HDAC1,HDAC2,11
+anti-BHC110 complex,HDAC1,HMG20B,11
+anti-BHC110 complex,HDAC1,KDM1A,11
+anti-BHC110 complex,HDAC1,PHF21A,11
+anti-BHC110 complex,HDAC1,RCOR1,11
+anti-BHC110 complex,HDAC1,ZMYM2,11
+anti-BHC110 complex,HDAC1,ZMYM3,11
+anti-BHC110 complex,HDAC2,HMG20B,11
+anti-BHC110 complex,HDAC2,KDM1A,11
+anti-BHC110 complex,HDAC2,PHF21A,11
+anti-BHC110 complex,HDAC2,RCOR1,11
+anti-BHC110 complex,HDAC2,ZMYM2,11
+anti-BHC110 complex,HDAC2,ZMYM3,11
+anti-BHC110 complex,HMG20B,KDM1A,11
+anti-BHC110 complex,HMG20B,PHF21A,11
+anti-BHC110 complex,HMG20B,RCOR1,11
+anti-BHC110 complex,HMG20B,ZMYM2,11
+anti-BHC110 complex,HMG20B,ZMYM3,11
+anti-BHC110 complex,KDM1A,PHF21A,11
+anti-BHC110 complex,KDM1A,RCOR1,11
+anti-BHC110 complex,KDM1A,ZMYM2,11
+anti-BHC110 complex,KDM1A,ZMYM3,11
+anti-BHC110 complex,PHF21A,RCOR1,11
+anti-BHC110 complex,PHF21A,ZMYM2,11
+anti-BHC110 complex,PHF21A,ZMYM3,11
+anti-BHC110 complex,RCOR1,ZMYM2,11
+anti-BHC110 complex,RCOR1,ZMYM3,11
+anti-BHC110 complex,ZMYM2,ZMYM3,11
+beta(1)-AR receptosome (ADRB1-SAP97-AKAP79-PRKAR2A),DLG1,PRKAR2A,4
+c-MYC-ATPase-helicase complex,ACTL6A,RUVBL1,5
+c-MYC-ATPase-helicase complex,ACTL6A,RUVBL2,5
+c-MYC-ATPase-helicase complex,ACTL6A,TRRAP,5
+c-MYC-ATPase-helicase complex,RUVBL1,RUVBL2,5
+c-MYC-ATPase-helicase complex,RUVBL1,TRRAP,5
+c-MYC-ATPase-helicase complex,RUVBL2,TRRAP,5
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3A,EIF3E,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3A,EIF3F,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3A,EIF3G,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3A,EIF3I,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3A,EIF3K,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3A,EIF3L,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3E,EIF3F,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3E,EIF3G,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3E,EIF3I,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3E,EIF3K,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3E,EIF3L,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3F,EIF3G,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3F,EIF3I,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3F,EIF3K,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3F,EIF3L,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3G,EIF3I,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3G,EIF3K,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3G,EIF3L,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3I,EIF3K,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3I,EIF3L,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7)",EIF3K,EIF3L,12
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3A,EIF3E,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3A,EIF3F,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3A,EIF3G,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3A,EIF3I,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3A,EIF3K,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3A,EIF3L,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3A,EIF3M,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3E,EIF3F,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3E,EIF3G,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3E,EIF3I,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3E,EIF3K,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3E,EIF3L,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3E,EIF3M,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3F,EIF3G,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3F,EIF3I,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3F,EIF3K,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3F,EIF3L,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3F,EIF3M,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3G,EIF3I,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3G,EIF3K,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3G,EIF3L,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3G,EIF3M,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3I,EIF3K,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3I,EIF3L,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3I,EIF3M,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3K,EIF3L,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3K,EIF3M,13
+"eIF3 complex (EIF3S6, EIF3S5, EIF3S4, EIF3S3, EIF3S6IP, EIF3S2, EIF3S9, EIF3S12,  EIF3S10, EIF3S8,  EIF3S1, EIF3S7, PCID1)",EIF3L,EIF3M,13
+hNURF complex,RBBP4,RBBP7,4
+hSIR2-p53 complex,SIRT1,TP53,2
+"mRNA decay complex (UPF1, UPF2, UPF3B, DCP2, XRN1, XRN2, EXOSC2, EXOSC4, EXOSC10, PARN)",DCP2,EXOSC2,10
+"mRNA decay complex (UPF1, UPF2, UPF3B, DCP2, XRN1, XRN2, EXOSC2, EXOSC4, EXOSC10, PARN)",DCP2,UPF1,10
+"mRNA decay complex (UPF1, UPF2, UPF3B, DCP2, XRN1, XRN2, EXOSC2, EXOSC4, EXOSC10, PARN)",DCP2,XRN1,10
+"mRNA decay complex (UPF1, UPF2, UPF3B, DCP2, XRN1, XRN2, EXOSC2, EXOSC4, EXOSC10, PARN)",EXOSC2,UPF1,10
+"mRNA decay complex (UPF1, UPF2, UPF3B, DCP2, XRN1, XRN2, EXOSC2, EXOSC4, EXOSC10, PARN)",EXOSC2,XRN1,10
+"mRNA decay complex (UPF1, UPF2, UPF3B, DCP2, XRN1, XRN2, EXOSC2, EXOSC4, EXOSC10, PARN)",UPF1,XRN1,10
+mSin3A complex,HDAC1,HDAC2,5
+mSin3A complex,HDAC1,RBBP4,5
+mSin3A complex,HDAC1,RBBP7,5
+mSin3A complex,HDAC1,SIN3A,5
+mSin3A complex,HDAC2,RBBP4,5
+mSin3A complex,HDAC2,RBBP7,5
+mSin3A complex,HDAC2,SIN3A,5
+mSin3A complex,RBBP4,RBBP7,5
+mSin3A complex,RBBP4,SIN3A,5
+mSin3A complex,RBBP7,SIN3A,5
+mSin3A-HDAC1-HDAC2 complex,HDAC1,HDAC2,3
+mSin3A-HDAC1-HDAC2 complex,HDAC1,SIN3A,3
+mSin3A-HDAC1-HDAC2 complex,HDAC2,SIN3A,3
+mitochondrial calcium uniporter complex,MICU1,MICU2,5
+p300-CBP-p270 complex,CREBBP,EP300,3
+p300-CBP-p270-SWI/SNF complex,CREBBP,EP300,7
+p300-CBP-p270-SWI/SNF complex,CREBBP,SMARCA4,7
+p300-CBP-p270-SWI/SNF complex,CREBBP,SMARCB1,7
+p300-CBP-p270-SWI/SNF complex,CREBBP,SMARCC1,7
+p300-CBP-p270-SWI/SNF complex,CREBBP,SMARCC2,7
+p300-CBP-p270-SWI/SNF complex,EP300,SMARCA4,7
+p300-CBP-p270-SWI/SNF complex,EP300,SMARCB1,7
+p300-CBP-p270-SWI/SNF complex,EP300,SMARCC1,7
+p300-CBP-p270-SWI/SNF complex,EP300,SMARCC2,7
+p300-CBP-p270-SWI/SNF complex,SMARCA4,SMARCB1,7
+p300-CBP-p270-SWI/SNF complex,SMARCA4,SMARCC1,7
+p300-CBP-p270-SWI/SNF complex,SMARCA4,SMARCC2,7
+p300-CBP-p270-SWI/SNF complex,SMARCB1,SMARCC1,7
+p300-CBP-p270-SWI/SNF complex,SMARCB1,SMARCC2,7
+p300-CBP-p270-SWI/SNF complex,SMARCC1,SMARCC2,7
+p300-MDM2-p53 protein complex,EP300,TP53,3
+p400-associated complex,ACTL6A,RUVBL1,6
+p400-associated complex,ACTL6A,RUVBL2,6
+p400-associated complex,ACTL6A,TRRAP,6
+p400-associated complex,RUVBL1,RUVBL2,6
+p400-associated complex,RUVBL1,TRRAP,6
+p400-associated complex,RUVBL2,TRRAP,6
+p50-p65 NF(kappa)B-SRC1 complex,NCOA1,RELA,3
+"pRb2/p130-multimolecular complex (RB2, E2F5, HDAC1, SUV39H1, P300)",EP300,HDAC1,5
+protein complex (DDX28; DHX30; GRSF1; FASTKD2; FASTKD5),DHX30,FASTKD2,5
+v-ATPase-Ragulator-AXIN/LKB1-AMPK complex,AXIN1,PRKAA1,14
