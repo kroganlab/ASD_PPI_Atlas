@@ -35,7 +35,7 @@ allPreys <- unique(baitPrey.dt$prey)
 
 ## ---- other edge types ----
 otherEdgeDir <- "./data/otherEdges/"
-edge.files <- list.files(path = otherEdgeDir ) # , pattern = "(tsv|csv|txt)$"
+edge.files <-setdiff(list.files(path = otherEdgeDir ), list.dirs(path = otherEdgeDir, recursive = FALSE, full.names = FALSE))
 #print (edge.files)
 if(length(edge.files) > 0){
   names(edge.files) <- tstrsplit(basename(edge.files), "\\.")[[1]]
@@ -173,6 +173,8 @@ ui <- fluidPage(
   
   sidebarLayout(
     sidebarPanel(
+      style = "position: fixed; height: 90vh; overflow-y: auto;",
+      
       # tags$head(tags$script('$(document).on("shiny:connected", function(e) {
       #                     Shiny.onInputChange("innerHeight", window.innerHeight);
       #                     });
