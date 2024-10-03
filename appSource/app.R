@@ -106,8 +106,8 @@ makeEdgeTable <- function(baitsOI, allBaits, baitPrey.dt, otherData.list){
   
   
   
-  combinedEdges.dt <- rbindlist(c(list(apms = subEdges.dt,
-                                       apms2ndDegree = secondaryAPMS),
+  combinedEdges.dt <- rbindlist(c(list(apms = subEdges.dt),
+                                       #apms2ndDegree = secondaryAPMS),
                                   otherData.subSet),
                                 use.names = TRUE, fill = TRUE,
                                 idcol = "edge.source")
@@ -201,6 +201,7 @@ ui <- fluidPage(
       shiny::hr(),
       shiny::h2("Other settings:"),
       sliderInput(inputId =  "labelSize",label = "Label Size", min = 1, max = 10, value = 3.5, step = 0.1),
+      sliderInput(inputId =  "downloadSize",label = "Download Size (inches)", min = 0, max = 25, value = 10, step = 0.25),
       
       downloadLink("downloadData", "Download Network Image")
       
@@ -331,7 +332,7 @@ server <- function(input, output) {
         paste("PPI_", paste0(input$baitsOI, collapse = "_"), ".pdf", sep="")
       },
       content = function(file) {
-        pdf(file=file, width = 10, height = 10) #res = 300, height = 6, width = 6, units = "in")
+        pdf(file=file, width = input$downloadSize, height = input$downloadSize) #res = 300, height = 6, width = 6, units = "in")
         print(plot.reactive())
         dev.off()
       }
